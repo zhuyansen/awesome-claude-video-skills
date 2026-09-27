@@ -60,7 +60,7 @@
  "skills": [
   {
    "repo_full_name": "calesthio/OpenMontage",
-   "stars": 61435,
+   "stars": 61436,
    "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
    "kind": "general",
    "security_grade": "safe",
@@ -69,7 +69,7 @@
   },
   {
    "repo_full_name": "heygen-com/hyperframes",
-   "stars": 53373,
+   "stars": 53376,
    "description": "Write HTML. Render video. Built for agents.",
    "kind": "general",
    "security_grade": "safe",
@@ -78,7 +78,7 @@
   },
   {
    "repo_full_name": "hypit-ai/hypit",
-   "stars": 16392,
+   "stars": 16401,
    "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
    "kind": "general",
    "security_grade": null,
@@ -87,7 +87,7 @@
   },
   {
    "repo_full_name": "Vincentwei1021/video-shotcraft",
-   "stars": 9646,
+   "stars": 9647,
    "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template",
    "kind": "promo",
    "security_grade": "safe",
@@ -204,7 +204,7 @@
   },
   {
    "repo_full_name": "Vincentwei1021/video-talkcraft",
-   "stars": 1242,
+   "stars": 1244,
    "description": "Agent skill that turns Claude Code / Codex into a motion-design studio for voiceover-driven explainer videos — word-level voiceover sync, 109 motion recipe cards, an anti-slideshow camera system, Remotion rendering.",
    "kind": "explainer",
    "security_grade": "safe",
@@ -222,7 +222,7 @@
   },
   {
    "repo_full_name": "JohnHeibel/PDoomVideo",
-   "stars": 1063,
+   "stars": 1067,
    "description": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
    "kind": "music",
    "security_grade": "unknown",
@@ -303,7 +303,7 @@
   },
   {
    "repo_full_name": "JohnHeibel/ClaudeAnimationBase",
-   "stars": 401,
+   "stars": 404,
    "description": "A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model",
    "kind": "story",
    "security_grade": "unknown",
@@ -455,6 +455,15 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "lemomo-ai/lemo-opuscar",
+   "stars": 147,
+   "description": "39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
+   "kind": "story",
+   "security_grade": "safe",
+   "language": "JavaScript",
+   "license": "NOASSERTION"
+  },
+  {
    "repo_full_name": "Mr-funny/hbg-life-simulation",
    "stars": 140,
    "description": "HBG Agent Skill for Chinese life-simulation narrative videos with consistent comic IP, rapid multi-life openings, Edge TTS, synchronized captions, zoom/pan motion and final MP4 QA.",
@@ -462,15 +471,6 @@
    "security_grade": "safe",
    "language": "JavaScript",
    "license": "MIT"
-  },
-  {
-   "repo_full_name": "lemomo-ai/lemo-opuscar",
-   "stars": 140,
-   "description": "39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
-   "kind": "story",
-   "security_grade": "safe",
-   "language": "JavaScript",
-   "license": "NOASSERTION"
   },
   {
    "repo_full_name": "znyupup/ai-video-editing-skill",
@@ -564,7 +564,7 @@
   },
   {
    "repo_full_name": "blixvip/easyedit",
-   "stars": 105,
+   "stars": 106,
    "description": "Type a movie, get a captioned speech + beat-cut fan edit. Local-first, no API keys, works with your AI bot (Claude Code / Codex).",
    "kind": "editing",
    "security_grade": "safe",
@@ -907,7 +907,7 @@
   {
    "repo_full_name": "Finderchangchang/promo-video-skill",
    "stars": 27,
-   "description": "让 DeepSeek 这类便宜模型也能做出好看的竖版宣传片（软件/餐饮/电商/教育/美业/文旅，中英双语｜A skill that lets low-cost LLMs make polished vertial promo videos with Remotion",
+   "description": "精酿 BrewReel：让 DeepSeek 这类便宜模型也能做出好看的竖版宣传片。写一份产品简报，AI 挑镜头、写文案，一条命令出片。3 种配方、6 个行业、广告法校验，开源可商用。",
    "kind": "promo",
    "security_grade": "unknown",
    "language": "TypeScript",
@@ -1409,6 +1409,15 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "magichourhq/skills",
+   "stars": 6,
+   "description": "AI media generation skills for Codex, Claude Code and other agents. Images, video and audio workflows using Magic Hour MCP or API.",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "sukai213/bilibili-ai-video",
    "stars": 6,
    "description": "AI 科技测评视频制作与 B 站自动发布技能（Codex Skill）：原创文案 / Qwen3-TTS 配音 / 全息幻灯片 / ffmpeg 剪辑 / 投稿 API 自动发布",
@@ -1515,15 +1524,6 @@
    "security_grade": null,
    "language": "Python",
    "license": null
-  },
-  {
-   "repo_full_name": "magichourhq/skills",
-   "stars": 5,
-   "description": "AI media generation skills for Codex, Claude Code and other agents. Images, video and audio workflows using Magic Hour MCP or API.",
-   "kind": "general",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "MIT"
   },
   {
    "repo_full_name": "marketcalls/story-telling",
