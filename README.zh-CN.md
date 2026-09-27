@@ -2,7 +2,7 @@
 
 [English](README.md)
 
-让 **Claude Code、Codex 等编程 agent 做视频**的开源 skill 和工具包:HyperFrames、Remotion、动效、剪辑、讲解、数字人。共 168 个仓库,每个都由 [Agent Skills Hub](https://agentskillshub.top?utm_source=github&utm_medium=awesome-list) 读过 README 并做了安全评级。
+让 **Claude Code、Codex 等编程 agent 做视频**的开源 skill 和工具包:HyperFrames、Remotion、动效、剪辑、讲解、数字人。共 169 个仓库,每个都由 [Agent Skills Hub](https://agentskillshub.top?utm_source=github&utm_medium=awesome-list) 读过 README 并做了安全评级。
 
 带类型筛选的在线页面:**[https://agentskillshub.top/best/opus-5-5-video/](https://agentskillshub.top/best/opus-5-5-video/?utm_source=github&utm_medium=awesome-list)** · 每 8 小时刷新
 
@@ -11,7 +11,7 @@
 - [用 Claude Opus 5.5 做出来的](#made-with-opus-55)
 - [🧱 框架与通用工具包](#type-general) (29)
 - [📣 产品宣传与演示](#type-promo) (26)
-- [🎓 讲解科普](#type-explainer) (31)
+- [🎓 讲解科普](#type-explainer) (32)
 - [✂️ 剪辑与后期](#type-editing) (35)
 - [📱 短视频与口播](#type-shorts) (19)
 - [🧑‍💼 数字人](#type-avatar) (4)
@@ -36,8 +36,8 @@ README 写明用这个模型做的项目。
 | 仓库 | 星数 | 做什么 | 安全评级 |
 |---|---:|---|---|
 | [JohnHeibel/PDoomVideo](https://github.com/JohnHeibel/PDoomVideo) | 1.1k | Claude Opus 5.5 音乐视频《I'm Upping My P(doom)》的源代码 | [*待评级*](https://agentskillshub.top/skill/JohnHeibel/PDoomVideo/?utm_source=github&utm_medium=awesome-list) |
-| [JohnHeibel/ClaudeAnimationBase](https://github.com/JohnHeibel/ClaudeAnimationBase) | 404 | 用 Claude 制作手绘卡通动画的入门套件：p5.js + p5.brush、Clawd 角色、31 种表演情绪和给模型的指南 | [*待评级*](https://agentskillshub.top/skill/JohnHeibel/ClaudeAnimationBase/?utm_source=github&utm_medium=awesome-list) |
-| [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) | 147 | Opus 5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南 | [SAFE](https://agentskillshub.top/skill/lemomo-ai/lemo-opuscar/?utm_source=github&utm_medium=awesome-list) |
+| [JohnHeibel/ClaudeAnimationBase](https://github.com/JohnHeibel/ClaudeAnimationBase) | 414 | 用 Claude 制作手绘卡通动画的入门套件：p5.js + p5.brush、Clawd 角色、31 种表演情绪和给模型的指南 | [*待评级*](https://agentskillshub.top/skill/JohnHeibel/ClaudeAnimationBase/?utm_source=github&utm_medium=awesome-list) |
+| [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) | 174 | Opus 5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南 | [SAFE](https://agentskillshub.top/skill/lemomo-ai/lemo-opuscar/?utm_source=github&utm_medium=awesome-list) |
 | [ledbetterljoshua/functional-emotions-video](https://github.com/ledbetterljoshua/functional-emotions-video) | 45 | Claude Opus 5.5 制作的《Functional Emotions》手绘风音乐视频：自研 GPU 笔触渲染器、7 个并行章节 agent | [*待评级*](https://agentskillshub.top/skill/ledbetterljoshua/functional-emotions-video/?utm_source=github&utm_medium=awesome-list) |
 
 <a id="type-general"></a>
@@ -84,9 +84,9 @@ README 写明用这个模型做的项目。
 
 | 仓库 | 星数 | 做什么 | 安全评级 |
 |---|---:|---|---|
-| [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | 9.6k | 用 Remotion 做电影感产品视频的 skill：152 张镜头配方卡、209 个动效预览和一套模板 | [SAFE](https://agentskillshub.top/skill/Vincentwei1021/video-shotcraft/?utm_source=github&utm_medium=awesome-list) |
+| [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | 9.7k | 用 Remotion 做电影感产品视频的 skill：152 张镜头配方卡、209 个动效预览和一套模板 | [SAFE](https://agentskillshub.top/skill/Vincentwei1021/video-shotcraft/?utm_source=github&utm_medium=awesome-list) |
 | [geekjourneyx/hyperframes-motion-director](https://github.com/geekjourneyx/hyperframes-motion-director) | 447 | 中文优先的 HyperFrames 动效视频制作 Agent Skill，素材可来自文章、产品、网站和 README | [SAFE](https://agentskillshub.top/skill/geekjourneyx/hyperframes-motion-director/?utm_source=github&utm_medium=awesome-list) |
-| [op7418/guizang-product-video-skill](https://github.com/op7418/guizang-product-video-skill) | 439 | 归藏 product video skill：复用真实产品组件和设计语言，用代码制作软件更新宣传片，支持 Claude Code 和 Codex | [SAFE](https://agentskillshub.top/skill/op7418/guizang-product-video-skill/?utm_source=github&utm_medium=awesome-list) |
+| [op7418/guizang-product-video-skill](https://github.com/op7418/guizang-product-video-skill) | 441 | 归藏 product video skill：复用真实产品组件和设计语言，用代码制作软件更新宣传片，支持 Claude Code 和 Codex | [SAFE](https://agentskillshub.top/skill/op7418/guizang-product-video-skill/?utm_source=github&utm_medium=awesome-list) |
 | [tugrawork-creator/saas-motion-kit](https://github.com/tugrawork-creator/saas-motion-kit) | 128 | 用 HyperFrames + Claude Code 为软件产品做宣传和动效视频：调性矩阵、多样性审查、24 种转场、100 个分镜主题 | [SAFE](https://agentskillshub.top/skill/tugrawork-creator/saas-motion-kit/?utm_source=github&utm_medium=awesome-list) |
 | [leosssvip-dot/remotion-ad-video-skill](https://github.com/leosssvip-dot/remotion-ad-video-skill) | 108 | 让 AI 编程 agent 根据 URL 创建 Remotion 广告视频项目，无需视频生成模型 | [*待评级*](https://agentskillshub.top/skill/leosssvip-dot/remotion-ad-video-skill/?utm_source=github&utm_medium=awesome-list) |
 | [kangarooking/promo-creator-skills](https://github.com/kangarooking/promo-creator-skills) | 101 | 产品宣传视频创作 Skills：从产品判断、分镜、素材、HyperFrames 剪辑到 BGM 设计的完整 agent 工作流 | [*待评级*](https://agentskillshub.top/skill/kangarooking/promo-creator-skills/?utm_source=github&utm_medium=awesome-list) |
@@ -97,8 +97,8 @@ README 写明用这个模型做的项目。
 | [kingselyjoe/video-shotcraft-dsh](https://github.com/kingselyjoe/video-shotcraft-dsh) | 35 | 面向 DeepSeek Harness 的电影感产品视频 Agent Skill，含 152 张镜头配方卡、Remotion 模板和音频资产 | *待评级* |
 | [mattivilola/brag-codex](https://github.com/mattivilola/brag-codex) | 32 | latent-spaces/brag 的 Codex 兼容版，用于制作 HyperFrames 发布视频 | *待评级* |
 | [gorkem-bwl/onboarding-video-generator](https://github.com/gorkem-bwl/onboarding-video-generator) | 31 | 用 Remotion 制作栏宽尺寸 Web 应用引导视频的 Claude Code skill | *待评级* |
+| [Finderchangchang/promo-video-skill](https://github.com/Finderchangchang/promo-video-skill) | 29 | 让 DeepSeek 这类便宜模型也能用 Remotion 做竖版宣传片的 skill，覆盖软件、餐饮、电商、教育、美业、文旅，中英双语 | [*待评级*](https://agentskillshub.top/skill/Finderchangchang/promo-video-skill/?utm_source=github&utm_medium=awesome-list) |
 | [new-xp/ultrademo](https://github.com/new-xp/ultrademo) | 29 | 为网站、SaaS 应用等自动生成演示视频的工具，通过 Claude Code skill 执行 | [*待评级*](https://agentskillshub.top/skill/new-xp/ultrademo/?utm_source=github&utm_medium=awesome-list) |
-| [Finderchangchang/promo-video-skill](https://github.com/Finderchangchang/promo-video-skill) | 27 | 让 DeepSeek 这类便宜模型也能用 Remotion 做竖版宣传片的 skill，覆盖软件、餐饮、电商、教育、美业、文旅，中英双语 | [*待评级*](https://agentskillshub.top/skill/Finderchangchang/promo-video-skill/?utm_source=github&utm_medium=awesome-list) |
 | [Arman-Luthra/aftr](https://github.com/Arman-Luthra/aftr) | 22 | After Effects 版的 Puppeteer：用 Claude Code 操作 AE 制作可用于生产的视频 | *待评级* |
 | [AmazingAng/ccvideo](https://github.com/AmazingAng/ccvideo) | 20 | 基于真实界面采集制作 Claude 风格宣传视频的 Claude Code skill（Remotion） | [*待评级*](https://agentskillshub.top/skill/AmazingAng/ccvideo/?utm_source=github&utm_medium=awesome-list) |
 | [derrickgong87/demo-video-creation-skill](https://github.com/derrickgong87/demo-video-creation-skill) | 19 | 可复用的 Codex skill：根据公司 URL、截图和产品流程制作 SaaS 与产品演示视频 | [*待评级*](https://agentskillshub.top/skill/derrickgong87/demo-video-creation-skill/?utm_source=github&utm_medium=awesome-list) |
@@ -149,6 +149,7 @@ README 写明用这个模型做的项目。
 | [centraltowerlabs/diagram-tour](https://github.com/centraltowerlabs/diagram-tour) | 5 | 为代码库（或其他复杂系统）生成讲解导览视频的 Claude Skill | *待评级* |
 | [coding-ax/docvideoer](https://github.com/coding-ax/docvideoer) | 5 | 文档转视频 skills：把文档 URL、网页文章、Markdown 或文本转成带中文旁白的 Remotion 讲解视频 | *待评级* |
 | [cymcymcymcym/notes-to-video](https://github.com/cymcymcymcym/notes-to-video) | 5 | 把笔记做成 3Blue1Brown 风格的动画讲解视频，Claude Code skill + Manim + TTS + ffmpeg | [*待评级*](https://agentskillshub.top/skill/cymcymcymcym/notes-to-video/?utm_source=github&utm_medium=awesome-list) |
+| [git-story-film](https://github.com/EverMind-AI/Raven/tree/HEAD/skills/git-story-film) | 所在仓库 EverMind-AI/Raven: 4.1k | 把一个仓库的 Git 历史拍成两分钟左右的手绘动画短片：故事、角色、分镜、浏览器预览，最后渲染 4K/60fps MP4 | [SAFE](https://agentskillshub.top/skill/EverMind-AI/Raven/?utm_source=github&utm_medium=awesome-list) |
 
 <a id="type-editing"></a>
 ## ✂️ 剪辑与后期
@@ -171,8 +172,8 @@ README 写明用这个模型做的项目。
 | [znyupup/ai-video-editing-skill](https://github.com/znyupup/ai-video-editing-skill) | 135 | 自动剪辑 vlog 的 AI Agent Skill：输入原始素材，输出成片，基于 ffmpeg + Whisper + Vision API | [SAFE](https://agentskillshub.top/skill/znyupup/ai-video-editing-skill/?utm_source=github&utm_medium=awesome-list) |
 | [naive-kun/naive-video-skill](https://github.com/naive-kun/naive-video-skill) | 130 | 把口播视频做成带字幕和动效成片的 Codex skill | [SAFE](https://agentskillshub.top/skill/naive-kun/naive-video-skill/?utm_source=github&utm_medium=awesome-list) |
 | [Monet-AI-Editor/Monet](https://github.com/Monet-AI-Editor/Monet) | 116 | 用 Claude Code 或 Codex 剪辑视频、设计图片 | [SAFE](https://agentskillshub.top/skill/Monet-AI-Editor/Monet/?utm_source=github&utm_medium=awesome-list) |
+| [blixvip/easyedit](https://github.com/blixvip/easyedit) | 109 | 输入电影名，得到带字幕台词的卡点粉丝混剪；本地优先，无需 API key，配合 Claude Code / Codex 使用 | [SAFE](https://agentskillshub.top/skill/blixvip/easyedit/?utm_source=github&utm_medium=awesome-list) |
 | [ayushozha/AdobePremiereProMCP](https://github.com/ayushozha/AdobePremiereProMCP) | 106 | Adobe Premiere Pro 的 MCP 服务器：1,027 个工具，覆盖时间线剪辑、调色、混音、特效和导出 | [SAFE](https://agentskillshub.top/skill/ayushozha/AdobePremiereProMCP/?utm_source=github&utm_medium=awesome-list) |
-| [blixvip/easyedit](https://github.com/blixvip/easyedit) | 106 | 输入电影名，得到带字幕台词的卡点粉丝混剪；本地优先，无需 API key，配合 Claude Code / Codex 使用 | [SAFE](https://agentskillshub.top/skill/blixvip/easyedit/?utm_source=github&utm_medium=awesome-list) |
 | [louisedesadeleer/cut-video](https://github.com/louisedesadeleer/cut-video) | 101 | Claude Code skill：精简长录制内容，去掉静音、语气词和空白，保留笑声和喜剧停顿，在 Apple Silicon 上运行快 | [SAFE](https://agentskillshub.top/skill/louisedesadeleer/cut-video/?utm_source=github&utm_medium=awesome-list) |
 | [AKMessi/vex](https://github.com/AKMessi/vex) | 85 | 视频剪辑版的 Claude Code | [*待评级*](https://agentskillshub.top/skill/AKMessi/vex/?utm_source=github&utm_medium=awesome-list) |
 | [JUNKDOGE-JOE/after-effects-mcp](https://github.com/JUNKDOGE-JOE/after-effects-mcp) | 75 | agent 驱动的 After Effects 自动化：MCP 服务器 + CEP 插件，提供 30 个 ae.* 工具 | [SAFE](https://agentskillshub.top/skill/JUNKDOGE-JOE/after-effects-mcp/?utm_source=github&utm_medium=awesome-list) |
@@ -183,8 +184,8 @@ README 写明用这个模型做的项目。
 | [darrenli6/JJKoubo](https://github.com/darrenli6/JJKoubo) | 32 | JJ 口播：本地优先的视频剪辑 Skills 合集，面向口播、访谈、知识分享等以讲话为主的视频 | [SAFE](https://agentskillshub.top/skill/darrenli6/JJKoubo/?utm_source=github&utm_medium=awesome-list) |
 | [krusemediallc/video-editor-agent](https://github.com/krusemediallc/video-editor-agent) | 17 | 端到端剪辑短视频的 Claude Code skill 包：克隆参考 Reel 风格、动态图形、音效设计、逐帧 QA | [SAFE](https://agentskillshub.top/skill/krusemediallc/video-editor-agent/?utm_source=github&utm_medium=awesome-list) |
 | [manthanpatelll/leadgenman-video-skills](https://github.com/manthanpatelll/leadgenman-video-skills) | 17 | 六个 Claude Code skill 组成的自动化视频内容流水线，含 SRT、YouTube 描述、Reel 叠加层等 | *待评级* |
+| [jincheng2026/jc-remotion-skills](https://github.com/jincheng2026/jc-remotion-skills) | 14 | Remotion 口播视频 AI 成片工作流（Codex / Claude Code）：粗剪 + SRT 进，带 MG 包装、音效、母带的成片出 | [SAFE](https://agentskillshub.top/skill/jincheng2026/jc-remotion-skills/?utm_source=github&utm_medium=awesome-list) |
 | [cocolayuan/videoclip-AI-skill](https://github.com/cocolayuan/videoclip-AI-skill) | 13 | 基于 Claude Skill 的视频全自动剪辑工具包 | [SAFE](https://agentskillshub.top/skill/cocolayuan/videoclip-AI-skill/?utm_source=github&utm_medium=awesome-list) |
-| [jincheng2026/jc-remotion-skills](https://github.com/jincheng2026/jc-remotion-skills) | 13 | Remotion 口播视频 AI 成片工作流（Codex / Claude Code）：粗剪 + SRT 进，带 MG 包装、音效、母带的成片出 | [SAFE](https://agentskillshub.top/skill/jincheng2026/jc-remotion-skills/?utm_source=github&utm_medium=awesome-list) |
 | [PoetCoderJun/MotionTalk](https://github.com/PoetCoderJun/MotionTalk) | 12 | 用一个 Agent Skill 把剪好的口播视频做成动态图形视频 | [SAFE](https://agentskillshub.top/skill/PoetCoderJun/MotionTalk/?utm_source=github&utm_medium=awesome-list) |
 | [ZiadAbdelkarim/beat-synced-edit](https://github.com/ZiadAbdelkarim/beat-synced-edit) | 10 | 自动卡点剪辑：输入歌曲和原始素材，分析节拍、能量和场景后剪出成片，附带 Claude Code skill | [SAFE](https://agentskillshub.top/skill/ZiadAbdelkarim/beat-synced-edit/?utm_source=github&utm_medium=awesome-list) |
 | [misbahsy/tiktok-ig-shorts](https://github.com/misbahsy/tiktok-ig-shorts) | 10 | 用 HyperFrames 配合 Claude 和 Codex 生成 TikTok 和 Instagram 短视频 | *待评级* |
@@ -240,11 +241,11 @@ README 写明用这个模型做的项目。
 | 仓库 | 星数 | 做什么 | 安全评级 |
 |---|---:|---|---|
 | [gnipbao/story-to-handdrawn-video](https://github.com/gnipbao/story-to-handdrawn-video) | 2.1k | Agent skill：把中文故事文案或有序图片转成手绘日记漫画风动画（无声 MP4 画面轨） | [SAFE](https://agentskillshub.top/skill/gnipbao/story-to-handdrawn-video/?utm_source=github&utm_medium=awesome-list) |
-| [JohnHeibel/ClaudeAnimationBase](https://github.com/JohnHeibel/ClaudeAnimationBase) | 404 | 用 Claude 制作手绘卡通动画的入门套件：p5.js + p5.brush、Clawd 角色、31 种表演情绪和给模型的指南 | [*待评级*](https://agentskillshub.top/skill/JohnHeibel/ClaudeAnimationBase/?utm_source=github&utm_medium=awesome-list) |
+| [JohnHeibel/ClaudeAnimationBase](https://github.com/JohnHeibel/ClaudeAnimationBase) | 414 | 用 Claude 制作手绘卡通动画的入门套件：p5.js + p5.brush、Clawd 角色、31 种表演情绪和给模型的指南 | [*待评级*](https://agentskillshub.top/skill/JohnHeibel/ClaudeAnimationBase/?utm_source=github&utm_medium=awesome-list) |
 | [aaronyi97/image-story-video-wizard](https://github.com/aaronyi97/image-story-video-wizard) | 351 | 带确认关卡的 Codex 和 WorkBuddy skill，用于音频先行的图片故事视频制作 | [SAFE](https://agentskillshub.top/skill/aaronyi97/image-story-video-wizard/?utm_source=github&utm_medium=awesome-list) |
 | [liyue-aigc/xianxia-cinematic-video-director](https://github.com/liyue-aigc/xianxia-cinematic-video-director) | 268 | 用于东方仙侠题材分镜、运镜和视频连贯性的 Codex Skill | [SAFE](https://agentskillshub.top/skill/liyue-aigc/xianxia-cinematic-video-director/?utm_source=github&utm_medium=awesome-list) |
 | [LetMeHappyCode/auto-video-agent](https://github.com/LetMeHappyCode/auto-video-agent) | 216 | 基于 Agent / Skill / Workflow 编排，流水线化生成「分镜插画提示词 → AI 生图 → 拼接成片」的成套视频 | [SAFE](https://agentskillshub.top/skill/LetMeHappyCode/auto-video-agent/?utm_source=github&utm_medium=awesome-list) |
-| [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) | 147 | Opus 5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南 | [SAFE](https://agentskillshub.top/skill/lemomo-ai/lemo-opuscar/?utm_source=github&utm_medium=awesome-list) |
+| [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) | 174 | Opus 5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南 | [SAFE](https://agentskillshub.top/skill/lemomo-ai/lemo-opuscar/?utm_source=github&utm_medium=awesome-list) |
 | [Mr-funny/hbg-life-simulation](https://github.com/Mr-funny/hbg-life-simulation) | 140 | HBG Agent Skill：制作中文人生模拟叙事视频，含统一漫画 IP、多段人生快速开场、Edge TTS、同步字幕和成片 QA | [SAFE](https://agentskillshub.top/skill/Mr-funny/hbg-life-simulation/?utm_source=github&utm_medium=awesome-list) |
 | [liangdabiao/story-handdrawn-remotion](https://github.com/liangdabiao/story-handdrawn-remotion) | 35 | 视频 Skill：把中文/英文故事文本变成手绘日记漫画风竖屏视频，每句按文字、黑白画稿、彩色插画三阶段揭示 | *待评级* |
 | [AsadMoulviDev/reel-video](https://github.com/AsadMoulviDev/reel-video) | 28 | 用 Claude Code、Codex、Cursor 和 Grok Build 制作 AI 视频，除已付费的套餐外无额外生成费用 | *待评级* |
