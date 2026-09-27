@@ -51,6 +51,12 @@
    "zh": "动效与 Logo"
   },
   {
+   "id": "craft",
+   "icon": "📝",
+   "en": "Scripts & learning",
+   "zh": "剧本与学习"
+  },
+  {
    "id": "music",
    "icon": "🎵",
    "en": "Music videos",
@@ -71,7 +77,7 @@
   {
    "repo_full_name": "heygen-com/hyperframes",
    "path": null,
-   "stars": 53404,
+   "stars": 53406,
    "description": "Write HTML. Render video. Built for agents.",
    "kind": "general",
    "security_grade": "safe",
@@ -81,7 +87,7 @@
   {
    "repo_full_name": "hypit-ai/hypit",
    "path": null,
-   "stars": 16434,
+   "stars": 16436,
    "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
    "kind": "general",
    "security_grade": null,
@@ -91,7 +97,7 @@
   {
    "repo_full_name": "Vincentwei1021/video-shotcraft",
    "path": null,
-   "stars": 9652,
+   "stars": 9653,
    "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template",
    "kind": "promo",
    "security_grade": "safe",
@@ -199,6 +205,16 @@
    "license": "AGPL-3.0"
   },
   {
+   "repo_full_name": "jtydhr88/screenwriting-skills",
+   "path": null,
+   "stars": 1420,
+   "description": "Professional agent skills for screenwriting, television writing and dramaturgy",
+   "kind": "craft",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "pyang5166/gbro-collage-broll",
    "path": null,
    "stars": 1310,
@@ -247,6 +263,16 @@
    "security_grade": "unknown",
    "language": "JavaScript",
    "license": null
+  },
+  {
+   "repo_full_name": "eternityspring/reelbench-skills",
+   "path": null,
+   "stars": 843,
+   "description": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
+   "kind": "craft",
+   "security_grade": "safe",
+   "language": "JavaScript",
+   "license": "Apache-2.0"
   },
   {
    "repo_full_name": "cartesiancs/cartcut",
@@ -331,7 +357,7 @@
   {
    "repo_full_name": "JohnHeibel/ClaudeAnimationBase",
    "path": null,
-   "stars": 414,
+   "stars": 415,
    "description": "A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model",
    "kind": "story",
    "security_grade": "unknown",
@@ -371,7 +397,7 @@
   {
    "repo_full_name": "hi-nikola/hand-drawn-explainer-video-nikola",
    "path": null,
-   "stars": 346,
+   "stars": 347,
    "description": "中文手绘知识讲解视频 Codex Skill：逐笔故事、双语义岛、让怪诞小黑动起来与程序动画",
    "kind": "explainer",
    "security_grade": "safe",
@@ -481,7 +507,7 @@
   {
    "repo_full_name": "lemomo-ai/lemo-opuscar",
    "path": null,
-   "stars": 174,
+   "stars": 175,
    "description": "39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
    "kind": "story",
    "security_grade": "safe",
@@ -691,7 +717,7 @@
   {
    "repo_full_name": "bestagentkits/motion-video-skill",
    "path": null,
-   "stars": 69,
+   "stars": 70,
    "description": "Agent skill that produces beat-synced 1080p motion-graphic videos in HyperFrames (HTML + GSAP) with an AI voice-over, karaoke captions, SFX and generated music. MIT.",
    "kind": "promo",
    "security_grade": "unknown",
@@ -1741,7 +1767,7 @@
   {
    "repo_full_name": "EverMind-AI/Raven",
    "path": "skills/git-story-film",
-   "stars": 4089,
+   "stars": 4090,
    "description": "Direct a two-minute hand-drawn animated film from a repository's Git history: story, character, storyboard, HTML review studio, then a 4K/60fps MP4.",
    "kind": "explainer",
    "security_grade": "safe",

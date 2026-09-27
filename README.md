@@ -2,7 +2,7 @@
 
 [中文](README.zh-CN.md)
 
-Open-source skills and toolkits that let **Claude Code, Codex and other coding agents make video**: HyperFrames, Remotion, motion graphics, editing, explainers, avatars. 169 repos, each one read and security-graded by [Agent Skills Hub](https://agentskillshub.top?utm_source=github&utm_medium=awesome-list).
+Open-source skills and toolkits that let **Claude Code, Codex and other coding agents make video**: HyperFrames, Remotion, motion graphics, editing, explainers, avatars. 171 repos, each one read and security-graded by [Agent Skills Hub](https://agentskillshub.top?utm_source=github&utm_medium=awesome-list).
 
 Live page with filters: **[https://agentskillshub.top/best/opus-5-5-video/](https://agentskillshub.top/best/opus-5-5-video/?utm_source=github&utm_medium=awesome-list)** · refreshed every 8 hours
 
@@ -17,11 +17,12 @@ Live page with filters: **[https://agentskillshub.top/best/opus-5-5-video/](http
 - [🧑‍💼 Avatars](#type-avatar) (4)
 - [📖 Stories & animation](#type-story) (12)
 - [🎞 Motion graphics](#type-motion) (10)
+- [📝 Scripts & learning](#type-craft) (2)
 - [🎵 Music videos](#type-music) (2)
 
 ## How a repo gets on the list
 
-1. It makes or edits video or motion graphics. A 3D web page or a prompt collection does not count.
+1. It makes or edits video or motion graphics. A 3D web page or a prompt collection does not count. The few entries under *Scripts & learning* come before the video (screenwriting, shot analysis) and are listed by the maintainer's choice.
 2. An agent operates it: a skill, a plugin, an MCP server, or a toolkit written for the agent.
 3. It has a README. Without one it cannot be graded.
 4. At 50 stars or more it is listed on topic alone. Under 50 it must also clear a README quality bar (shows the result, one-command start, a concrete outcome, complete docs), and have 5 stars unless it names Claude Opus 5.5.
@@ -36,8 +37,8 @@ Projects whose README says they were built with the model.
 | Repo | Stars | What it does | Security |
 |---|---:|---|---|
 | [JohnHeibel/PDoomVideo](https://github.com/JohnHeibel/PDoomVideo) | 1.1k | Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom) | [*pending*](https://agentskillshub.top/skill/JohnHeibel/PDoomVideo/?utm_source=github&utm_medium=awesome-list) |
-| [JohnHeibel/ClaudeAnimationBase](https://github.com/JohnHeibel/ClaudeAnimationBase) | 414 | A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model | [*pending*](https://agentskillshub.top/skill/JohnHeibel/ClaudeAnimationBase/?utm_source=github&utm_medium=awesome-list) |
-| [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) | 174 | 39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let… | [SAFE](https://agentskillshub.top/skill/lemomo-ai/lemo-opuscar/?utm_source=github&utm_medium=awesome-list) |
+| [JohnHeibel/ClaudeAnimationBase](https://github.com/JohnHeibel/ClaudeAnimationBase) | 415 | A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model | [*pending*](https://agentskillshub.top/skill/JohnHeibel/ClaudeAnimationBase/?utm_source=github&utm_medium=awesome-list) |
+| [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) | 175 | 39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let… | [SAFE](https://agentskillshub.top/skill/lemomo-ai/lemo-opuscar/?utm_source=github&utm_medium=awesome-list) |
 | [ledbetterljoshua/functional-emotions-video](https://github.com/ledbetterljoshua/functional-emotions-video) | 45 | A painted music video for "Functional Emotions", made by Claude Opus 5.5: custom GPU brushstroke renderer, storyboard, and 7 parallel chapter agents. | [*pending*](https://agentskillshub.top/skill/ledbetterljoshua/functional-emotions-video/?utm_source=github&utm_medium=awesome-list) |
 
 <a id="type-general"></a>
@@ -90,7 +91,7 @@ Projects whose README says they were built with the model.
 | [tugrawork-creator/saas-motion-kit](https://github.com/tugrawork-creator/saas-motion-kit) | 128 | Promo & motion videos for software products with HyperFrames + Claude Code. No two films should feel the same: tone matrix, variety audit, 24-transit… | [SAFE](https://agentskillshub.top/skill/tugrawork-creator/saas-motion-kit/?utm_source=github&utm_medium=awesome-list) |
 | [leosssvip-dot/remotion-ad-video-skill](https://github.com/leosssvip-dot/remotion-ad-video-skill) | 108 | Create Remotion ad video projects from a URL with an AI coding agent, no video-generation AI required. | [*pending*](https://agentskillshub.top/skill/leosssvip-dot/remotion-ad-video-skill/?utm_source=github&utm_medium=awesome-list) |
 | [kangarooking/promo-creator-skills](https://github.com/kangarooking/promo-creator-skills) | 101 | 产品宣传视频创作 Skills：从产品判断、分镜、素材、HyperFrames 剪辑到 BGM 设计的完整 Agent 工作流 | [*pending*](https://agentskillshub.top/skill/kangarooking/promo-creator-skills/?utm_source=github&utm_medium=awesome-list) |
-| [bestagentkits/motion-video-skill](https://github.com/bestagentkits/motion-video-skill) | 69 | Agent skill that produces beat-synced 1080p motion-graphic videos in HyperFrames (HTML + GSAP) with an AI voice-over, karaoke captions, SFX and gener… | [*pending*](https://agentskillshub.top/skill/bestagentkits/motion-video-skill/?utm_source=github&utm_medium=awesome-list) |
+| [bestagentkits/motion-video-skill](https://github.com/bestagentkits/motion-video-skill) | 70 | Agent skill that produces beat-synced 1080p motion-graphic videos in HyperFrames (HTML + GSAP) with an AI voice-over, karaoke captions, SFX and gener… | [*pending*](https://agentskillshub.top/skill/bestagentkits/motion-video-skill/?utm_source=github&utm_medium=awesome-list) |
 | [norahe0304-art/30x-video](https://github.com/norahe0304-art/30x-video) | 63 | One URL in, an agency-grade launch video out. A Claude Code skill (Remotion + React) with a 16-law taste codex — 12 brands, 12 worlds, zero templates. | [SAFE](https://agentskillshub.top/skill/norahe0304-art/30x-video/?utm_source=github&utm_medium=awesome-list) |
 | [trunghaiy/appshot](https://github.com/trunghaiy/appshot) | 43 | Generate App Store & Google Play preview videos and screenshots from a simple TypeScript config. Built on Remotion + React + Tailwind. Ships with AI… | [SAFE](https://agentskillshub.top/skill/trunghaiy/appshot/?utm_source=github&utm_medium=awesome-list) |
 | [BayramAnnakov/remotion-video-director](https://github.com/BayramAnnakov/remotion-video-director) | 41 | Interactive Claude Code skill for creating Remotion videos through expert-guided deliberation | [*pending*](https://agentskillshub.top/skill/BayramAnnakov/remotion-video-director/?utm_source=github&utm_medium=awesome-list) |
@@ -123,7 +124,7 @@ Projects whose README says they were built with the model.
 | [adithya-s-k/manim_skill](https://github.com/adithya-s-k/manim_skill) | 1.1k | Agent skills for Manim to create 3Blue1Brown style animations. | [SAFE](https://agentskillshub.top/skill/adithya-s-k/manim_skill/?utm_source=github&utm_medium=awesome-list) |
 | [wshuyi/remotion-video-skill](https://github.com/wshuyi/remotion-video-skill) | 383 | A Claude Code Skill for creating programmatic videos with Remotion framework | [CAUTION](https://agentskillshub.top/skill/wshuyi/remotion-video-skill/?utm_source=github&utm_medium=awesome-list) |
 | [shuyicc/MathLens](https://github.com/shuyicc/MathLens) | 360 | MathLens 是一个专注于数学题目视频讲解的 Agent Skill。你只需粘贴一道数学题（图片或文字），它就能自动完成从题目分析、可视化讲解、配音脚本到 Manim 动画视频的全流程制作。单条视频1-10 分钟，成本 0.2-1 元以内。 | [SAFE](https://agentskillshub.top/skill/shuyicc/MathLens/?utm_source=github&utm_medium=awesome-list) |
-| [hi-nikola/hand-drawn-explainer-video-nikola](https://github.com/hi-nikola/hand-drawn-explainer-video-nikola) | 346 | 中文手绘知识讲解视频 Codex Skill：逐笔故事、双语义岛、让怪诞小黑动起来与程序动画 | [SAFE](https://agentskillshub.top/skill/hi-nikola/hand-drawn-explainer-video-nikola/?utm_source=github&utm_medium=awesome-list) |
+| [hi-nikola/hand-drawn-explainer-video-nikola](https://github.com/hi-nikola/hand-drawn-explainer-video-nikola) | 347 | 中文手绘知识讲解视频 Codex Skill：逐笔故事、双语义岛、让怪诞小黑动起来与程序动画 | [SAFE](https://agentskillshub.top/skill/hi-nikola/hand-drawn-explainer-video-nikola/?utm_source=github&utm_medium=awesome-list) |
 | [Anil-matcha/vox-ai-motion-graphics-generator](https://github.com/Anil-matcha/vox-ai-motion-graphics-generator) | 223 | 🎬 Turn any topic into a finished Vox-style paper-collage explainer / motion graphics video — script, collage keyframes, animation, voice-over, music… | [SAFE](https://agentskillshub.top/skill/Anil-matcha/vox-ai-motion-graphics-generator/?utm_source=github&utm_medium=awesome-list) |
 | [runesleo/claude-video-kit](https://github.com/runesleo/claude-video-kit) | 120 | Agent Skill + Remotion pipeline: brief/script → review receipt → narrated 9:16 explainer. RC: video-explainer skill. | [SAFE](https://agentskillshub.top/skill/runesleo/claude-video-kit/?utm_source=github&utm_medium=awesome-list) |
 | [sunxiayi/make-blender-education-video-skill](https://github.com/sunxiayi/make-blender-education-video-skill) | 45 | A Codex and Claude Code skill for creating fact-checked cinematic educational videos with Blender | [*pending*](https://agentskillshub.top/skill/sunxiayi/make-blender-education-video-skill/?utm_source=github&utm_medium=awesome-list) |
@@ -241,11 +242,11 @@ Projects whose README says they were built with the model.
 | Repo | Stars | What it does | Security |
 |---|---:|---|---|
 | [gnipbao/story-to-handdrawn-video](https://github.com/gnipbao/story-to-handdrawn-video) | 2.1k | Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track). | [SAFE](https://agentskillshub.top/skill/gnipbao/story-to-handdrawn-video/?utm_source=github&utm_medium=awesome-list) |
-| [JohnHeibel/ClaudeAnimationBase](https://github.com/JohnHeibel/ClaudeAnimationBase) | 414 | A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model | [*pending*](https://agentskillshub.top/skill/JohnHeibel/ClaudeAnimationBase/?utm_source=github&utm_medium=awesome-list) |
+| [JohnHeibel/ClaudeAnimationBase](https://github.com/JohnHeibel/ClaudeAnimationBase) | 415 | A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model | [*pending*](https://agentskillshub.top/skill/JohnHeibel/ClaudeAnimationBase/?utm_source=github&utm_medium=awesome-list) |
 | [aaronyi97/image-story-video-wizard](https://github.com/aaronyi97/image-story-video-wizard) | 351 | A confirmation-gated Codex and WorkBuddy skill for audio-first image-story video production. | [SAFE](https://agentskillshub.top/skill/aaronyi97/image-story-video-wizard/?utm_source=github&utm_medium=awesome-list) |
 | [liyue-aigc/xianxia-cinematic-video-director](https://github.com/liyue-aigc/xianxia-cinematic-video-director) | 268 | Codex Skill for Eastern xianxia storyboards, camera movement and video continuity. | [SAFE](https://agentskillshub.top/skill/liyue-aigc/xianxia-cinematic-video-director/?utm_source=github&utm_medium=awesome-list) |
 | [LetMeHappyCode/auto-video-agent](https://github.com/LetMeHappyCode/auto-video-agent) | 216 | 自动流水线化生成成套「分镜插画提示词 → AI 生图 → 拼接成片」的视频，基于 Agent / Skill / Workflow 编排。 | [SAFE](https://agentskillshub.top/skill/LetMeHappyCode/auto-video-agent/?utm_source=github&utm_medium=awesome-list) |
-| [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) | 174 | 39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let… | [SAFE](https://agentskillshub.top/skill/lemomo-ai/lemo-opuscar/?utm_source=github&utm_medium=awesome-list) |
+| [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) | 175 | 39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let… | [SAFE](https://agentskillshub.top/skill/lemomo-ai/lemo-opuscar/?utm_source=github&utm_medium=awesome-list) |
 | [Mr-funny/hbg-life-simulation](https://github.com/Mr-funny/hbg-life-simulation) | 140 | HBG Agent Skill for Chinese life-simulation narrative videos with consistent comic IP, rapid multi-life openings, Edge TTS, synchronized captions, zo… | [SAFE](https://agentskillshub.top/skill/Mr-funny/hbg-life-simulation/?utm_source=github&utm_medium=awesome-list) |
 | [liangdabiao/story-handdrawn-remotion](https://github.com/liangdabiao/story-handdrawn-remotion) | 35 | 视频SKILL: 把一段 中文/英文 故事文本变成 「手绘日记漫画风」竖屏视频。 核心方法论：**不是把一张漂亮图配文字朗读，而是把每句故事拆成「文字 → 黑白画稿 → 彩色插画」三阶段横向擦除揭示，让一句话被画出三次。 | *pending* |
 | [AsadMoulviDev/reel-video](https://github.com/AsadMoulviDev/reel-video) | 28 | Create AI videos with Claude Code, Codex, Cursor, and Grok Build, with no extra generation fees beyond the plans you already pay for | *pending* |
@@ -270,6 +271,16 @@ Projects whose README says they were built with the model.
 | [fernandokaraka/remotion-motion-graphics-skill](https://github.com/fernandokaraka/remotion-motion-graphics-skill) | 11 | Claude Code skill: build animated motion graphics as real video with Remotion — title cards, lower thirds, overlays with real alpha for Premiere/FCP/… | *pending* |
 | [zhenwusw/orca-motion-skill](https://github.com/zhenwusw/orca-motion-skill) | 7 | Agent skill for in-scene motion graphics built from abstract, design-token-driven shapes; pairs with orca-transition-skill. | *pending* |
 | [acelera-agency/html-animation](https://github.com/acelera-agency/html-animation) | 6 | Motion graphics as code. An agent skill for building frame-exact animated logos, kinetic typography and brand videos as a single HTML file, then expo… | *pending* |
+
+<a id="type-craft"></a>
+## 📝 Scripts & learning
+
+[Open this type on the live page, sorted by stars →](https://agentskillshub.top/best/opus-5-5-video/?utm_source=github&utm_medium=awesome-list#type-craft)
+
+| Repo | Stars | What it does | Security |
+|---|---:|---|---|
+| [jtydhr88/screenwriting-skills](https://github.com/jtydhr88/screenwriting-skills) | 1.4k | Professional agent skills for screenwriting, television writing and dramaturgy | [SAFE](https://agentskillshub.top/skill/jtydhr88/screenwriting-skills/?utm_source=github&utm_medium=awesome-list) |
+| [eternityspring/reelbench-skills](https://github.com/eternityspring/reelbench-skills) | 843 | Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill | [SAFE](https://agentskillshub.top/skill/eternityspring/reelbench-skills/?utm_source=github&utm_medium=awesome-list) |
 
 <a id="type-music"></a>
 ## 🎵 Music videos
