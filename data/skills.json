@@ -67,7 +67,7 @@
   {
    "repo_full_name": "calesthio/OpenMontage",
    "path": null,
-   "stars": 61468,
+   "stars": 61469,
    "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
    "kind": "general",
    "security_grade": "safe",
@@ -77,7 +77,7 @@
   {
    "repo_full_name": "heygen-com/hyperframes",
    "path": null,
-   "stars": 53459,
+   "stars": 53464,
    "description": "Write HTML. Render video. Built for agents.",
    "kind": "general",
    "security_grade": "safe",
@@ -87,7 +87,7 @@
   {
    "repo_full_name": "hypit-ai/hypit",
    "path": null,
-   "stars": 16512,
+   "stars": 16514,
    "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
    "kind": "general",
    "security_grade": "safe",
@@ -107,7 +107,7 @@
   {
    "repo_full_name": "diffusionstudio/lottie",
    "path": null,
-   "stars": 5517,
+   "stars": 5518,
    "description": "Generate production-ready Lottie animations with Claude Code or Codex",
    "kind": "motion",
    "security_grade": "safe",
@@ -187,7 +187,7 @@
   {
    "repo_full_name": "Alisa0808/vox-director",
    "path": null,
-   "stars": 2048,
+   "stars": 2049,
    "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
    "kind": "explainer",
    "security_grade": "safe",
@@ -257,7 +257,7 @@
   {
    "repo_full_name": "JohnHeibel/PDoomVideo",
    "path": null,
-   "stars": 1109,
+   "stars": 1110,
    "description": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
    "kind": "music",
    "security_grade": "safe",
@@ -297,7 +297,7 @@
   {
    "repo_full_name": "zenstory-ai/video-recap-skills",
    "path": null,
-   "stars": 535,
+   "stars": 536,
    "description": "Claude Code / Codex skills that turn a video into a Chinese narration recap (视频解说): scene detection, ASR, VLM, script, TTS, ffmpeg assembly, optional editable JianYing / CapCut draft export (剪映草稿导出). Local ffmpeg + one MiMo key, no GPU. | 用 Claude Code skills 把视频做成中文解说成片，可选一键导出可编辑剪映草稿。",
    "kind": "editing",
    "security_grade": "safe",
@@ -307,7 +307,7 @@
   {
    "repo_full_name": "bangtutorial/bang-motion",
    "path": null,
-   "stars": 524,
+   "stars": 525,
    "description": "Agent skill for browser motion graphics — openers, promos, bumpers, kinetic typography, and five explainer styles that move like video, not slides. Single index.html output. Works with Claude Code, Codex, Gemini CLI, Cursor.",
    "kind": "general",
    "security_grade": "safe",
@@ -467,7 +467,7 @@
   {
    "repo_full_name": "lemomo-ai/lemo-opuscar",
    "path": null,
-   "stars": 235,
+   "stars": 239,
    "description": "39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
    "kind": "story",
    "security_grade": "safe",
@@ -717,7 +717,7 @@
   {
    "repo_full_name": "bestagentkits/motion-video-skill",
    "path": null,
-   "stars": 76,
+   "stars": 77,
    "description": "Agent skill that produces beat-synced 1080p motion-graphic videos in HyperFrames (HTML + GSAP) with an AI voice-over, karaoke captions, SFX and generated music. MIT.",
    "kind": "promo",
    "security_grade": "safe",
@@ -795,6 +795,16 @@
    "license": "NOASSERTION"
   },
   {
+   "repo_full_name": "Finderchangchang/promo-video-skill",
+   "path": null,
+   "stars": 48,
+   "description": "精酿 BrewReel：让 DeepSeek 这类便宜模型也能做出好看的竖版宣传片。写一份产品简报，AI 挑镜头、写文案，一条命令出片。3 种配方、6 个行业、广告法校验，开源可商用。",
+   "kind": "promo",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "Apache-2.0"
+  },
+  {
    "repo_full_name": "liangdabiao/story-handdrawn-video",
    "path": null,
    "stars": 48,
@@ -803,16 +813,6 @@
    "security_grade": "safe",
    "language": "Python",
    "license": null
-  },
-  {
-   "repo_full_name": "Finderchangchang/promo-video-skill",
-   "path": null,
-   "stars": 47,
-   "description": "精酿 BrewReel：让 DeepSeek 这类便宜模型也能做出好看的竖版宣传片。写一份产品简报，AI 挑镜头、写文案，一条命令出片。3 种配方、6 个行业、广告法校验，开源可商用。",
-   "kind": "promo",
-   "security_grade": "safe",
-   "language": "TypeScript",
-   "license": "Apache-2.0"
   },
   {
    "repo_full_name": "ledbetterljoshua/functional-emotions-video",
@@ -1525,6 +1525,16 @@
    "license": "NOASSERTION"
   },
   {
+   "repo_full_name": "tuzhechen2005/opus-video-skills",
+   "path": null,
+   "stars": 8,
+   "description": "Video-making skills for Claude Opus 5.5 in Claude Code — every frame and note generated in code, one skill per style: hand-painted animation, kinetic-typography reels | 用 Claude Opus 5.5 以代码制作视频的技能合集",
+   "kind": "story",
+   "security_grade": "safe",
+   "language": "JavaScript",
+   "license": "NOASSERTION"
+  },
+  {
    "repo_full_name": "Fagan1024/smart-video-editor",
    "path": null,
    "stars": 7,
@@ -1563,16 +1573,6 @@
    "security_grade": "safe",
    "language": null,
    "license": "MIT"
-  },
-  {
-   "repo_full_name": "tuzhechen2005/opus-video-skills",
-   "path": null,
-   "stars": 7,
-   "description": "Video-making skills for Claude Opus 5.5 in Claude Code — every frame and note generated in code, one skill per style: hand-painted animation, kinetic-typography reels | 用 Claude Opus 5.5 以代码制作视频的技能合集",
-   "kind": "story",
-   "security_grade": "safe",
-   "language": "JavaScript",
-   "license": "NOASSERTION"
   },
   {
    "repo_full_name": "vibe-motion/remotion-starter",
@@ -1857,7 +1857,7 @@
   {
    "repo_full_name": "EverMind-AI/Raven",
    "path": "skills/git-story-film",
-   "stars": 4107,
+   "stars": 4111,
    "description": "Direct a two-minute hand-drawn animated film from a repository's Git history: story, character, storyboard, HTML review studio, then a 4K/60fps MP4.",
    "kind": "explainer",
    "security_grade": "safe",

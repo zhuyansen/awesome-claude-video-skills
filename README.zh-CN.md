@@ -10,22 +10,22 @@
 
 <table>
 <tr>
-<td align="center" valign="top" width="33%"><b>🧱 框架与通用工具包</b><br><sub>29 个仓库</sub><br><br><a href="https://github.com/calesthio/OpenMontage"><img src="https://raw.githubusercontent.com/calesthio/OpenMontage/HEAD/docs/images/backlot/board-live.png" width="260" alt="calesthio/OpenMontage"></a><br><sub>渲染框架和通用工具包。</sub><br><a href="#type-general"><b>查看列表 →</b></a></td>
-<td align="center" valign="top" width="33%"><b>📣 产品宣传与演示</b><br><sub>26 个仓库</sub><br><br><a href="https://github.com/Vincentwei1021/video-shotcraft"><img src="https://raw.githubusercontent.com/Vincentwei1021/video-shotcraft/HEAD/workbench/docs/overview.png" width="260" alt="Vincentwei1021/video-shotcraft"></a><br><sub>产品发布片、广告和演示视频。</sub><br><a href="#type-promo"><b>查看列表 →</b></a></td>
-<td align="center" valign="top" width="33%"><b>🎓 讲解科普</b><br><sub>32 个仓库</sub><br><br><a href="https://github.com/Alisa0808/vox-director"><img src="https://raw.githubusercontent.com/Alisa0808/vox-director/HEAD/assets/thumbs/football.jpg" width="260" alt="Alisa0808/vox-director"></a><br><sub>知识讲解、教程和旁白课程。</sub><br><a href="#type-explainer"><b>查看列表 →</b></a></td>
+<td align="center" valign="top" width="33%"><b>🧱 框架与通用工具包</b><br><sub>29 个仓库</sub><br><br><a href="https://github.com/iart-ai/motion-skills"><img src="assets/previews/iart-ai__motion-skills.gif" width="260" alt="iart-ai/motion-skills"></a><br><sub>渲染框架和通用工具包。</sub><br><a href="#type-general"><b>查看列表 →</b></a></td>
+<td align="center" valign="top" width="33%"><b>📣 产品宣传与演示</b><br><sub>26 个仓库</sub><br><br><a href="https://github.com/trunghaiy/appshot"><img src="assets/previews/trunghaiy__appshot.gif" width="260" alt="trunghaiy/appshot"></a><br><sub>产品发布片、广告和演示视频。</sub><br><a href="#type-promo"><b>查看列表 →</b></a></td>
+<td align="center" valign="top" width="33%"><b>🎓 讲解科普</b><br><sub>32 个仓库</sub><br><br><a href="https://github.com/iart-ai/explainer-video-skills"><img src="assets/previews/iart-ai__explainer-video-skills.gif" width="260" alt="iart-ai/explainer-video-skills"></a><br><sub>知识讲解、教程和旁白课程。</sub><br><a href="#type-explainer"><b>查看列表 →</b></a></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="33%"><b>✂️ 剪辑与后期</b><br><sub>35 个仓库</sub><br><br><a href="https://github.com/FireRedTeam/FireRed-OpenStoryline"><img src="https://raw.githubusercontent.com/FireRedTeam/fireredteam.github.io/main/demos/firered_openstoryline/pics/structure.jpg" width="260" alt="FireRedTeam/FireRed-OpenStoryline"></a><br><sub>对已有素材做剪辑、字幕、B-roll 和解说。</sub><br><a href="#type-editing"><b>查看列表 →</b></a></td>
-<td align="center" valign="top" width="33%"><b>📱 短视频与口播</b><br><sub>19 个仓库</sub><br><br><a href="https://github.com/Yuuhann1999/codex-storyboard"><img src="https://raw.githubusercontent.com/Yuuhann1999/codex-storyboard/HEAD/docs/assets/codex-storyboard-cover.png" width="260" alt="Yuuhann1999/codex-storyboard"></a><br><sub>面向 Reels、Shorts、TikTok、抖音的竖屏视频。</sub><br><a href="#type-shorts"><b>查看列表 →</b></a></td>
+<td align="center" valign="top" width="33%"><b>✂️ 剪辑与后期</b><br><sub>35 个仓库</sub><br><br><a href="https://github.com/erduo1998-cell/erduo-broll-loop-engineering"><img src="assets/previews/erduo1998-cell__erduo-broll-loop-engineering.gif" width="260" alt="erduo1998-cell/erduo-broll-loop-engineering"></a><br><sub>对已有素材做剪辑、字幕、B-roll 和解说。</sub><br><a href="#type-editing"><b>查看列表 →</b></a></td>
+<td align="center" valign="top" width="33%"><b>📱 短视频与口播</b><br><sub>19 个仓库</sub><br><br><a href="https://github.com/iart-ai/tiktok-video-skills"><img src="assets/previews/iart-ai__tiktok-video-skills.gif" width="260" alt="iart-ai/tiktok-video-skills"></a><br><sub>面向 Reels、Shorts、TikTok、抖音的竖屏视频。</sub><br><a href="#type-shorts"><b>查看列表 →</b></a></td>
 <td align="center" valign="top" width="33%"><b>🧑‍💼 数字人</b><br><sub>4 个仓库</sub><br><br><sub>数字人、虚拟主播和口型同步。</sub><br><a href="#type-avatar"><b>查看列表 →</b></a></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="33%"><b>📖 故事与动画</b><br><sub>13 个仓库</sub><br><br><a href="https://github.com/gnipbao/story-to-handdrawn-video"><img src="https://raw.githubusercontent.com/gnipbao/story-to-handdrawn-video/HEAD/references/style-examples/standard/colored-pencil-diary.png" width="260" alt="gnipbao/story-to-handdrawn-video"></a><br><sub>动画故事、短剧和电影感场景。</sub><br><a href="#type-story"><b>查看列表 →</b></a></td>
-<td align="center" valign="top" width="33%"><b>🎞 动效与 Logo</b><br><sub>11 个仓库</sub><br><br><a href="https://github.com/diffusionstudio/lottie"><img src="https://raw.githubusercontent.com/diffusionstudio/lottie/HEAD/assets/demo-1.gif" width="260" alt="diffusionstudio/lottie"></a><br><sub>Logo 动画、标题、界面动效和 GIF。</sub><br><a href="#type-motion"><b>查看列表 →</b></a></td>
-<td align="center" valign="top" width="33%"><b>📝 剧本与学习</b><br><sub>9 个仓库</sub><br><br><a href="https://github.com/eternityspring/reelbench-skills"><img src="https://raw.githubusercontent.com/eternityspring/reelbench-skills/HEAD/skills/video-shots/assets/report.png" width="260" alt="eternityspring/reelbench-skills"></a><br><sub>视频的前期:剧本、拉片和学习。</sub><br><a href="#type-craft"><b>查看列表 →</b></a></td>
+<td align="center" valign="top" width="33%"><b>📖 故事与动画</b><br><sub>13 个仓库</sub><br><br><a href="https://github.com/AsadMoulviDev/reel-video"><img src="assets/previews/AsadMoulviDev__reel-video.jpg" width="260" alt="AsadMoulviDev/reel-video"></a><br><sub>动画故事、短剧和电影感场景。</sub><br><a href="#type-story"><b>查看列表 →</b></a></td>
+<td align="center" valign="top" width="33%"><b>🎞 动效与 Logo</b><br><sub>11 个仓库</sub><br><br><a href="https://github.com/pyang5166/gbro-collage-broll"><img src="assets/previews/pyang5166__gbro-collage-broll.jpg" width="260" alt="pyang5166/gbro-collage-broll"></a><br><sub>Logo 动画、标题、界面动效和 GIF。</sub><br><a href="#type-motion"><b>查看列表 →</b></a></td>
+<td align="center" valign="top" width="33%"><b>📝 剧本与学习</b><br><sub>9 个仓库</sub><br><br><a href="https://github.com/sharon-laicc/viral-video-decomposer"><img src="assets/previews/sharon-laicc__viral-video-decomposer.jpg" width="260" alt="sharon-laicc/viral-video-decomposer"></a><br><sub>视频的前期:剧本、拉片和学习。</sub><br><a href="#type-craft"><b>查看列表 →</b></a></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="33%"><b>🎵 音乐视频</b><br><sub>2 个仓库</sub><br><br><a href="https://github.com/ledbetterljoshua/functional-emotions-video"><img src="https://raw.githubusercontent.com/ledbetterljoshua/functional-emotions-video/HEAD/docs/lake-face.jpg" width="260" alt="ledbetterljoshua/functional-emotions-video"></a><br><sub>用代码做出来的音乐视频。</sub><br><a href="#type-music"><b>查看列表 →</b></a></td>
+<td align="center" valign="top" width="33%"><b>🎵 音乐视频</b><br><sub>2 个仓库</sub><br><br><a href="https://github.com/ledbetterljoshua/functional-emotions-video"><img src="assets/previews/ledbetterljoshua__functional-emotions-video.jpg" width="260" alt="ledbetterljoshua/functional-emotions-video"></a><br><sub>用代码做出来的音乐视频。</sub><br><a href="#type-music"><b>查看列表 →</b></a></td>
 </tr>
 </table>
 
@@ -61,7 +61,7 @@ README 写明用这个模型做的项目。
 |---|---:|---|---|
 | [JohnHeibel/PDoomVideo](https://github.com/JohnHeibel/PDoomVideo) | 1.1k | Claude Opus 5.5 音乐视频《I'm Upping My P(doom)》的源代码 | [SAFE](https://agentskillshub.top/skill/JohnHeibel/PDoomVideo/?utm_source=github&utm_medium=awesome-list) |
 | [JohnHeibel/ClaudeAnimationBase](https://github.com/JohnHeibel/ClaudeAnimationBase) | 422 | 用 Claude 制作手绘卡通动画的入门套件：p5.js + p5.brush、Clawd 角色、31 种表演情绪和给模型的指南 | [SAFE](https://agentskillshub.top/skill/JohnHeibel/ClaudeAnimationBase/?utm_source=github&utm_medium=awesome-list) |
-| [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) | 235 | Opus 5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南 | [SAFE](https://agentskillshub.top/skill/lemomo-ai/lemo-opuscar/?utm_source=github&utm_medium=awesome-list) |
+| [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) | 239 | Opus 5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南 | [SAFE](https://agentskillshub.top/skill/lemomo-ai/lemo-opuscar/?utm_source=github&utm_medium=awesome-list) |
 | [ledbetterljoshua/functional-emotions-video](https://github.com/ledbetterljoshua/functional-emotions-video) | 45 | Claude Opus 5.5 制作的《Functional Emotions》手绘风音乐视频：自研 GPU 笔触渲染器、7 个并行章节 agent | [SAFE](https://agentskillshub.top/skill/ledbetterljoshua/functional-emotions-video/?utm_source=github&utm_medium=awesome-list) |
 
 <a id="type-general"></a>
@@ -70,9 +70,9 @@ README 写明用这个模型做的项目。
 [在在线页面打开这一类,按星数排序 →](https://agentskillshub.top/best/claude-video-skills/?utm_source=github&utm_medium=awesome-list#type-general)
 
 <table><tr>
-<td align="center" valign="top"><a href="https://github.com/heygen-com/hyperframes"><img src="https://static.heygen.ai/hyperframes-oss/docs/images/design-templates/biennale-yellow.png" width="260" alt="heygen-com/hyperframes"></a><br><sub><a href="https://github.com/heygen-com/hyperframes">heygen-com/hyperframes</a></sub></td>
-<td align="center" valign="top"><a href="https://github.com/digitalsamba/claude-code-video-toolkit"><img src="https://raw.githubusercontent.com/digitalsamba/claude-code-video-toolkit/HEAD/assets/banner/toolkit-banner.gif" width="260" alt="digitalsamba/claude-code-video-toolkit"></a><br><sub><a href="https://github.com/digitalsamba/claude-code-video-toolkit">digitalsamba/claude-code-video-toolkit</a></sub></td>
-<td align="center" valign="top"><a href="https://github.com/vibe-motion/skills"><img src="https://raw.githubusercontent.com/vibe-motion/skills/HEAD/fisheye-motion/assets/fisheye-demo.gif" width="260" alt="vibe-motion/skills"></a><br><sub><a href="https://github.com/vibe-motion/skills">vibe-motion/skills</a></sub></td>
+<td align="center" valign="top"><a href="https://github.com/heygen-com/hyperframes"><img src="assets/previews/heygen-com__hyperframes.jpg" width="260" alt="heygen-com/hyperframes"></a><br><sub><a href="https://github.com/heygen-com/hyperframes">heygen-com/hyperframes</a></sub></td>
+<td align="center" valign="top"><a href="https://github.com/digitalsamba/claude-code-video-toolkit"><img src="assets/previews/digitalsamba__claude-code-video-toolkit.jpg" width="260" alt="digitalsamba/claude-code-video-toolkit"></a><br><sub><a href="https://github.com/digitalsamba/claude-code-video-toolkit">digitalsamba/claude-code-video-toolkit</a></sub></td>
+<td align="center" valign="top"><a href="https://github.com/bangtutorial/bang-motion"><img src="assets/previews/bangtutorial__bang-motion.jpg" width="260" alt="bangtutorial/bang-motion"></a><br><sub><a href="https://github.com/bangtutorial/bang-motion">bangtutorial/bang-motion</a></sub></td>
 </tr></table>
 
 | 仓库 | 星数 | 做什么 | 安全评级 |
@@ -84,7 +84,7 @@ README 写明用这个模型做的项目。
 | [NarratorAI-Studio/narrator-ai-cli-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) | 2.7k | AI 解说大师 Agent skill，封装 narrator-ai-cli 供 Claude、Codex 等工具调用 | [SAFE](https://agentskillshub.top/skill/NarratorAI-Studio/narrator-ai-cli-skill/?utm_source=github&utm_medium=awesome-list) |
 | [digitalsamba/claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) | 2.1k | 面向 Claude Code 的 AI 原生视频制作工具包 | [SAFE](https://agentskillshub.top/skill/digitalsamba/claude-code-video-toolkit/?utm_source=github&utm_medium=awesome-list) |
 | [vibe-motion/skills](https://github.com/vibe-motion/skills) | 1.3k | vibe motion 的 agent skills | [SAFE](https://agentskillshub.top/skill/vibe-motion/skills/?utm_source=github&utm_medium=awesome-list) |
-| [bangtutorial/bang-motion](https://github.com/bangtutorial/bang-motion) | 524 | 浏览器动态图形 agent skill：片头、宣传片、动态排版和五种讲解风格，输出单个 index.html | [SAFE](https://agentskillshub.top/skill/bangtutorial/bang-motion/?utm_source=github&utm_medium=awesome-list) |
+| [bangtutorial/bang-motion](https://github.com/bangtutorial/bang-motion) | 525 | 浏览器动态图形 agent skill：片头、宣传片、动态排版和五种讲解风格，输出单个 index.html | [SAFE](https://agentskillshub.top/skill/bangtutorial/bang-motion/?utm_source=github&utm_medium=awesome-list) |
 | [iart-ai/motion-skills](https://github.com/iart-ai/motion-skills) | 516 | 50 个开源 skill，教 AI 编程 agent 做动态图形、动画和视频，分 14 个安装包 | [SAFE](https://agentskillshub.top/skill/iart-ai/motion-skills/?utm_source=github&utm_medium=awesome-list) |
 | [kangarooking/director-skills](https://github.com/kangarooking/director-skills) | 147 | 导演 Skill：面向 AI 视频创作的开源 Agent Skills | [SAFE](https://agentskillshub.top/skill/kangarooking/director-skills/?utm_source=github&utm_medium=awesome-list) |
 | [video-db/skills](https://github.com/video-db/skills) | 121 | 给 agent 用的服务端视频工作流：导入、理解、搜索、剪辑、流式播放 | [SAFE](https://agentskillshub.top/skill/video-db/skills/?utm_source=github&utm_medium=awesome-list) |
@@ -113,9 +113,9 @@ README 写明用这个模型做的项目。
 [在在线页面打开这一类,按星数排序 →](https://agentskillshub.top/best/claude-video-skills/?utm_source=github&utm_medium=awesome-list#type-promo)
 
 <table><tr>
-<td align="center" valign="top"><a href="https://github.com/geekjourneyx/hyperframes-motion-director"><img src="https://raw.githubusercontent.com/geekjourneyx/hyperframes-motion-director/HEAD/skills/hyperframes-motion-director/assets/banner.png" width="260" alt="geekjourneyx/hyperframes-motion-director"></a><br><sub><a href="https://github.com/geekjourneyx/hyperframes-motion-director">geekjourneyx/hyperframes-motion-director</a></sub></td>
-<td align="center" valign="top"><a href="https://github.com/op7418/guizang-product-video-skill"><img src="https://raw.githubusercontent.com/op7418/guizang-product-video-skill/HEAD/assets/readme/hero.jpg" width="260" alt="op7418/guizang-product-video-skill"></a><br><sub><a href="https://github.com/op7418/guizang-product-video-skill">op7418/guizang-product-video-skill</a></sub></td>
-<td align="center" valign="top"><a href="https://github.com/tugrawork-creator/saas-motion-kit"><img src="https://raw.githubusercontent.com/tugrawork-creator/saas-motion-kit/HEAD/docs/six-films.gif" width="260" alt="tugrawork-creator/saas-motion-kit"></a><br><sub><a href="https://github.com/tugrawork-creator/saas-motion-kit">tugrawork-creator/saas-motion-kit</a></sub></td>
+<td align="center" valign="top"><a href="https://github.com/Vincentwei1021/video-shotcraft"><img src="assets/previews/Vincentwei1021__video-shotcraft.jpg" width="260" alt="Vincentwei1021/video-shotcraft"></a><br><sub><a href="https://github.com/Vincentwei1021/video-shotcraft">Vincentwei1021/video-shotcraft</a></sub></td>
+<td align="center" valign="top"><a href="https://github.com/Finderchangchang/promo-video-skill"><img src="assets/previews/Finderchangchang__promo-video-skill.jpg" width="260" alt="Finderchangchang/promo-video-skill"></a><br><sub><a href="https://github.com/Finderchangchang/promo-video-skill">Finderchangchang/promo-video-skill</a></sub></td>
+<td align="center" valign="top"><a href="https://github.com/new-xp/ultrademo"><img src="assets/previews/new-xp__ultrademo.gif" width="260" alt="new-xp/ultrademo"></a><br><sub><a href="https://github.com/new-xp/ultrademo">new-xp/ultrademo</a></sub></td>
 </tr></table>
 
 | 仓库 | 星数 | 做什么 | 安全评级 |
@@ -126,9 +126,9 @@ README 写明用这个模型做的项目。
 | [tugrawork-creator/saas-motion-kit](https://github.com/tugrawork-creator/saas-motion-kit) | 129 | 用 HyperFrames + Claude Code 为软件产品做宣传和动效视频：调性矩阵、多样性审查、24 种转场、100 个分镜主题 | [SAFE](https://agentskillshub.top/skill/tugrawork-creator/saas-motion-kit/?utm_source=github&utm_medium=awesome-list) |
 | [leosssvip-dot/remotion-ad-video-skill](https://github.com/leosssvip-dot/remotion-ad-video-skill) | 108 | 让 AI 编程 agent 根据 URL 创建 Remotion 广告视频项目，无需视频生成模型 | [SAFE](https://agentskillshub.top/skill/leosssvip-dot/remotion-ad-video-skill/?utm_source=github&utm_medium=awesome-list) |
 | [kangarooking/promo-creator-skills](https://github.com/kangarooking/promo-creator-skills) | 101 | 产品宣传视频创作 Skills：从产品判断、分镜、素材、HyperFrames 剪辑到 BGM 设计的完整 agent 工作流 | [SAFE](https://agentskillshub.top/skill/kangarooking/promo-creator-skills/?utm_source=github&utm_medium=awesome-list) |
-| [bestagentkits/motion-video-skill](https://github.com/bestagentkits/motion-video-skill) | 76 | 用 HyperFrames（HTML + GSAP）做卡点 1080p 动态图形视频的 agent skill，含 AI 配音、字幕、音效和配乐 | [SAFE](https://agentskillshub.top/skill/bestagentkits/motion-video-skill/?utm_source=github&utm_medium=awesome-list) |
+| [bestagentkits/motion-video-skill](https://github.com/bestagentkits/motion-video-skill) | 77 | 用 HyperFrames（HTML + GSAP）做卡点 1080p 动态图形视频的 agent skill，含 AI 配音、字幕、音效和配乐 | [SAFE](https://agentskillshub.top/skill/bestagentkits/motion-video-skill/?utm_source=github&utm_medium=awesome-list) |
 | [norahe0304-art/30x-video](https://github.com/norahe0304-art/30x-video) | 63 | 输入一个 URL，输出产品发布视频的 Claude Code skill（Remotion + React），内置 16 条审美准则，不用模板 | [SAFE](https://agentskillshub.top/skill/norahe0304-art/30x-video/?utm_source=github&utm_medium=awesome-list) |
-| [Finderchangchang/promo-video-skill](https://github.com/Finderchangchang/promo-video-skill) | 47 | 让 DeepSeek 这类便宜模型也能用 Remotion 做竖版宣传片的 skill，覆盖软件、餐饮、电商、教育、美业、文旅，中英双语 | [SAFE](https://agentskillshub.top/skill/Finderchangchang/promo-video-skill/?utm_source=github&utm_medium=awesome-list) |
+| [Finderchangchang/promo-video-skill](https://github.com/Finderchangchang/promo-video-skill) | 48 | 让 DeepSeek 这类便宜模型也能用 Remotion 做竖版宣传片的 skill，覆盖软件、餐饮、电商、教育、美业、文旅，中英双语 | [SAFE](https://agentskillshub.top/skill/Finderchangchang/promo-video-skill/?utm_source=github&utm_medium=awesome-list) |
 | [trunghaiy/appshot](https://github.com/trunghaiy/appshot) | 43 | 用 TypeScript 配置生成 App Store 和 Google Play 预览视频与截图，基于 Remotion，附带 agent skills | [SAFE](https://agentskillshub.top/skill/trunghaiy/appshot/?utm_source=github&utm_medium=awesome-list) |
 | [BayramAnnakov/remotion-video-director](https://github.com/BayramAnnakov/remotion-video-director) | 41 | 交互式 Claude Code skill，通过专家引导的讨论来制作 Remotion 视频 | [SAFE](https://agentskillshub.top/skill/BayramAnnakov/remotion-video-director/?utm_source=github&utm_medium=awesome-list) |
 | [kingselyjoe/video-shotcraft-dsh](https://github.com/kingselyjoe/video-shotcraft-dsh) | 35 | 面向 DeepSeek Harness 的电影感产品视频 Agent Skill，含 152 张镜头配方卡、Remotion 模板和音频资产 | [SAFE](https://agentskillshub.top/skill/kingselyjoe/video-shotcraft-dsh/?utm_source=github&utm_medium=awesome-list) |
@@ -153,9 +153,9 @@ README 写明用这个模型做的项目。
 [在在线页面打开这一类,按星数排序 →](https://agentskillshub.top/best/claude-video-skills/?utm_source=github&utm_medium=awesome-list#type-explainer)
 
 <table><tr>
-<td align="center" valign="top"><a href="https://github.com/Vincentwei1021/video-talkcraft"><img src="https://raw.githubusercontent.com/Vincentwei1021/video-talkcraft/HEAD/assets/gallery-zh.png" width="260" alt="Vincentwei1021/video-talkcraft"></a><br><sub><a href="https://github.com/Vincentwei1021/video-talkcraft">Vincentwei1021/video-talkcraft</a></sub></td>
-<td align="center" valign="top"><a href="https://github.com/shuyicc/MathLens"><img src="https://raw.githubusercontent.com/shuyicc/MathLens/HEAD/resource/input.png" width="260" alt="shuyicc/MathLens"></a><br><sub><a href="https://github.com/shuyicc/MathLens">shuyicc/MathLens</a></sub></td>
-<td align="center" valign="top"><a href="https://github.com/hi-nikola/hand-drawn-explainer-video-nikola"><img src="https://raw.githubusercontent.com/hi-nikola/hand-drawn-explainer-video-nikola/HEAD/examples/stroke-story/steve-jobs/transition-contact.jpg" width="260" alt="hi-nikola/hand-drawn-explainer-video-nikola"></a><br><sub><a href="https://github.com/hi-nikola/hand-drawn-explainer-video-nikola">hi-nikola/hand-drawn-explainer-video-nikola</a></sub></td>
+<td align="center" valign="top"><a href="https://github.com/Alisa0808/vox-director"><img src="assets/previews/Alisa0808__vox-director.jpg" width="260" alt="Alisa0808/vox-director"></a><br><sub><a href="https://github.com/Alisa0808/vox-director">Alisa0808/vox-director</a></sub></td>
+<td align="center" valign="top"><a href="https://github.com/hi-nikola/hand-drawn-explainer-video-nikola"><img src="assets/previews/hi-nikola__hand-drawn-explainer-video-nikola.jpg" width="260" alt="hi-nikola/hand-drawn-explainer-video-nikola"></a><br><sub><a href="https://github.com/hi-nikola/hand-drawn-explainer-video-nikola">hi-nikola/hand-drawn-explainer-video-nikola</a></sub></td>
+<td align="center" valign="top"><a href="https://github.com/znyupup/knowledge-explainer-skill"><img src="assets/previews/znyupup__knowledge-explainer-skill.gif" width="260" alt="znyupup/knowledge-explainer-skill"></a><br><sub><a href="https://github.com/znyupup/knowledge-explainer-skill">znyupup/knowledge-explainer-skill</a></sub></td>
 </tr></table>
 
 | 仓库 | 星数 | 做什么 | 安全评级 |
@@ -199,9 +199,9 @@ README 写明用这个模型做的项目。
 [在在线页面打开这一类,按星数排序 →](https://agentskillshub.top/best/claude-video-skills/?utm_source=github&utm_medium=awesome-list#type-editing)
 
 <table><tr>
-<td align="center" valign="top"><a href="https://github.com/0xsline/OpenChatCut"><img src="https://raw.githubusercontent.com/0xsline/OpenChatCut/HEAD/assets/readme-pic/01-editor-overview.png" width="260" alt="0xsline/OpenChatCut"></a><br><sub><a href="https://github.com/0xsline/OpenChatCut">0xsline/OpenChatCut</a></sub></td>
-<td align="center" valign="top"><a href="https://github.com/hetpatel-11/Adobe_Premiere_Pro_MCP"><img src="https://raw.githubusercontent.com/hetpatel-11/Adobe_Premiere_Pro_MCP/HEAD/images/demo.png" width="260" alt="hetpatel-11/Adobe_Premiere_Pro_MCP"></a><br><sub><a href="https://github.com/hetpatel-11/Adobe_Premiere_Pro_MCP">hetpatel-11/Adobe_Premiere_Pro_MCP</a></sub></td>
-<td align="center" valign="top"><a href="https://github.com/zenstory-ai/video-recap-skills"><img src="https://raw.githubusercontent.com/zenstory-ai/video-recap-skills/HEAD/docs/jianying-export.jpg" width="260" alt="zenstory-ai/video-recap-skills"></a><br><sub><a href="https://github.com/zenstory-ai/video-recap-skills">zenstory-ai/video-recap-skills</a></sub></td>
+<td align="center" valign="top"><a href="https://github.com/FireRedTeam/FireRed-OpenStoryline"><img src="assets/previews/FireRedTeam__FireRed-OpenStoryline.jpg" width="260" alt="FireRedTeam/FireRed-OpenStoryline"></a><br><sub><a href="https://github.com/FireRedTeam/FireRed-OpenStoryline">FireRedTeam/FireRed-OpenStoryline</a></sub></td>
+<td align="center" valign="top"><a href="https://github.com/hetpatel-11/Adobe_Premiere_Pro_MCP"><img src="assets/previews/hetpatel-11__Adobe_Premiere_Pro_MCP.jpg" width="260" alt="hetpatel-11/Adobe_Premiere_Pro_MCP"></a><br><sub><a href="https://github.com/hetpatel-11/Adobe_Premiere_Pro_MCP">hetpatel-11/Adobe_Premiere_Pro_MCP</a></sub></td>
+<td align="center" valign="top"><a href="https://github.com/zenstory-ai/video-recap-skills"><img src="assets/previews/zenstory-ai__video-recap-skills.jpg" width="260" alt="zenstory-ai/video-recap-skills"></a><br><sub><a href="https://github.com/zenstory-ai/video-recap-skills">zenstory-ai/video-recap-skills</a></sub></td>
 </tr></table>
 
 | 仓库 | 星数 | 做什么 | 安全评级 |
@@ -211,7 +211,7 @@ README 写明用这个模型做的项目。
 | [0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut) | 2.0k | 开源、本地优先的对话式 AI 视频编辑器，带专业多轨时间线、Agent Skills、MCP 集成和 Remotion 渲染 | [SAFE](https://agentskillshub.top/skill/0xsline/OpenChatCut/?utm_source=github&utm_medium=awesome-list) |
 | [cartesiancs/cartcut](https://github.com/cartesiancs/cartcut) | 756 | 给 AI agent 用的视频编辑器，相信开源可以胜过商业工具 | [SAFE](https://agentskillshub.top/skill/cartesiancs/cartcut/?utm_source=github&utm_medium=awesome-list) |
 | [hetpatel-11/Adobe_Premiere_Pro_MCP](https://github.com/hetpatel-11/Adobe_Premiere_Pro_MCP) | 612 | Adobe Premiere Pro MCP：通过 MCP 为 Codex、Claude 等客户端提供 AI 驱动的视频剪辑工具 | [SAFE](https://agentskillshub.top/skill/hetpatel-11/Adobe_Premiere_Pro_MCP/?utm_source=github&utm_medium=awesome-list) |
-| [zenstory-ai/video-recap-skills](https://github.com/zenstory-ai/video-recap-skills) | 535 | 用 Claude Code skills 把视频做成中文解说成片，可选一键导出可编辑剪映草稿 | [SAFE](https://agentskillshub.top/skill/zenstory-ai/video-recap-skills/?utm_source=github&utm_medium=awesome-list) |
+| [zenstory-ai/video-recap-skills](https://github.com/zenstory-ai/video-recap-skills) | 536 | 用 Claude Code skills 把视频做成中文解说成片，可选一键导出可编辑剪映草稿 | [SAFE](https://agentskillshub.top/skill/zenstory-ai/video-recap-skills/?utm_source=github&utm_medium=awesome-list) |
 | [hassancs91/claude-youtube-editor](https://github.com/hassancs91/claude-youtube-editor) | 314 | 录好口播，其余交给 Claude Code：剪辑、画面、配音、音效、封面和 YouTube 上传 | [SAFE](https://agentskillshub.top/skill/hassancs91/claude-youtube-editor/?utm_source=github&utm_medium=awesome-list) |
 | [leancoderkavy/premiere-pro-mcp](https://github.com/leancoderkavy/premiere-pro-mcp) | 292 | 独立、本地优先的 Adobe Premiere Pro MCP 服务器，通过本地 CEP 桥接连接 Claude、Codex 或 Cursor | [SAFE](https://agentskillshub.top/skill/leancoderkavy/premiere-pro-mcp/?utm_source=github&utm_medium=awesome-list) |
 | [AgriciDaniel/claude-shorts](https://github.com/AgriciDaniel/claude-shorts) | 217 | 交互式长视频转短视频的 Claude Code skill：Remotion 渲染动态字幕、AI 片段评分、光标跟踪和音频感知的边界吸附 | [SAFE](https://agentskillshub.top/skill/AgriciDaniel/claude-shorts/?utm_source=github&utm_medium=awesome-list) |
@@ -248,9 +248,9 @@ README 写明用这个模型做的项目。
 [在在线页面打开这一类,按星数排序 →](https://agentskillshub.top/best/claude-video-skills/?utm_source=github&utm_medium=awesome-list#type-shorts)
 
 <table><tr>
-<td align="center" valign="top"><a href="https://github.com/jaxxchen003/book-video-factory"><img src="https://raw.githubusercontent.com/jaxxchen003/book-video-factory/HEAD/examples/posters/chaoyue-baisui-paper-collage.jpg" width="260" alt="jaxxchen003/book-video-factory"></a><br><sub><a href="https://github.com/jaxxchen003/book-video-factory">jaxxchen003/book-video-factory</a></sub></td>
-<td align="center" valign="top"><a href="https://github.com/pyang5166/gbro-collage-info"><img src="https://raw.githubusercontent.com/pyang5166/gbro-collage-info/HEAD/demo/drawer.gif" width="260" alt="pyang5166/gbro-collage-info"></a><br><sub><a href="https://github.com/pyang5166/gbro-collage-info">pyang5166/gbro-collage-info</a></sub></td>
-<td align="center" valign="top"><a href="https://github.com/iart-ai/tiktok-video-skills"><img src="https://raw.githubusercontent.com/iart-ai/tiktok-video-skills/HEAD/showcase.gif" width="260" alt="iart-ai/tiktok-video-skills"></a><br><sub><a href="https://github.com/iart-ai/tiktok-video-skills">iart-ai/tiktok-video-skills</a></sub></td>
+<td align="center" valign="top"><a href="https://github.com/Yuuhann1999/codex-storyboard"><img src="assets/previews/Yuuhann1999__codex-storyboard.jpg" width="260" alt="Yuuhann1999/codex-storyboard"></a><br><sub><a href="https://github.com/Yuuhann1999/codex-storyboard">Yuuhann1999/codex-storyboard</a></sub></td>
+<td align="center" valign="top"><a href="https://github.com/jaxxchen003/book-video-factory"><img src="assets/previews/jaxxchen003__book-video-factory.jpg" width="260" alt="jaxxchen003/book-video-factory"></a><br><sub><a href="https://github.com/jaxxchen003/book-video-factory">jaxxchen003/book-video-factory</a></sub></td>
+<td align="center" valign="top"><a href="https://github.com/pyang5166/gbro-collage-info"><img src="assets/previews/pyang5166__gbro-collage-info.gif" width="260" alt="pyang5166/gbro-collage-info"></a><br><sub><a href="https://github.com/pyang5166/gbro-collage-info">pyang5166/gbro-collage-info</a></sub></td>
 </tr></table>
 
 | 仓库 | 星数 | 做什么 | 安全评级 |
@@ -293,9 +293,8 @@ README 写明用这个模型做的项目。
 [在在线页面打开这一类,按星数排序 →](https://agentskillshub.top/best/claude-video-skills/?utm_source=github&utm_medium=awesome-list#type-story)
 
 <table><tr>
-<td align="center" valign="top"><a href="https://github.com/lemomo-ai/lemo-opuscar"><img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/HEAD/docs/cover.jpg" width="260" alt="lemomo-ai/lemo-opuscar"></a><br><sub><a href="https://github.com/lemomo-ai/lemo-opuscar">lemomo-ai/lemo-opuscar</a></sub></td>
-<td align="center" valign="top"><a href="https://github.com/JimLiu/taohuayuan"><img src="https://github.com/user-attachments/assets/70dc2698-79a9-4eca-970e-a14f48ead553" width="260" alt="JimLiu/taohuayuan"></a><br><sub><a href="https://github.com/JimLiu/taohuayuan">JimLiu/taohuayuan</a></sub></td>
-<td align="center" valign="top"><a href="https://github.com/AllenAI2014/remotion-guofeng-starter"><img src="https://raw.githubusercontent.com/AllenAI2014/remotion-guofeng-starter/HEAD/docs/preview.png" width="260" alt="AllenAI2014/remotion-guofeng-starter"></a><br><sub><a href="https://github.com/AllenAI2014/remotion-guofeng-starter">AllenAI2014/remotion-guofeng-starter</a></sub></td>
+<td align="center" valign="top"><a href="https://github.com/gnipbao/story-to-handdrawn-video"><img src="assets/previews/gnipbao__story-to-handdrawn-video.jpg" width="260" alt="gnipbao/story-to-handdrawn-video"></a><br><sub><a href="https://github.com/gnipbao/story-to-handdrawn-video">gnipbao/story-to-handdrawn-video</a></sub></td>
+<td align="center" valign="top"><a href="https://github.com/JohnHeibel/ClaudeAnimationBase"><img src="assets/previews/JohnHeibel__ClaudeAnimationBase.jpg" width="260" alt="JohnHeibel/ClaudeAnimationBase"></a><br><sub><a href="https://github.com/JohnHeibel/ClaudeAnimationBase">JohnHeibel/ClaudeAnimationBase</a></sub></td>
 </tr></table>
 
 | 仓库 | 星数 | 做什么 | 安全评级 |
@@ -304,7 +303,7 @@ README 写明用这个模型做的项目。
 | [JohnHeibel/ClaudeAnimationBase](https://github.com/JohnHeibel/ClaudeAnimationBase) | 422 | 用 Claude 制作手绘卡通动画的入门套件：p5.js + p5.brush、Clawd 角色、31 种表演情绪和给模型的指南 | [SAFE](https://agentskillshub.top/skill/JohnHeibel/ClaudeAnimationBase/?utm_source=github&utm_medium=awesome-list) |
 | [aaronyi97/image-story-video-wizard](https://github.com/aaronyi97/image-story-video-wizard) | 351 | 带确认关卡的 Codex 和 WorkBuddy skill，用于音频先行的图片故事视频制作 | [SAFE](https://agentskillshub.top/skill/aaronyi97/image-story-video-wizard/?utm_source=github&utm_medium=awesome-list) |
 | [liyue-aigc/xianxia-cinematic-video-director](https://github.com/liyue-aigc/xianxia-cinematic-video-director) | 268 | 用于东方仙侠题材分镜、运镜和视频连贯性的 Codex Skill | [SAFE](https://agentskillshub.top/skill/liyue-aigc/xianxia-cinematic-video-director/?utm_source=github&utm_medium=awesome-list) |
-| [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) | 235 | Opus 5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南 | [SAFE](https://agentskillshub.top/skill/lemomo-ai/lemo-opuscar/?utm_source=github&utm_medium=awesome-list) |
+| [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) | 239 | Opus 5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南 | [SAFE](https://agentskillshub.top/skill/lemomo-ai/lemo-opuscar/?utm_source=github&utm_medium=awesome-list) |
 | [LetMeHappyCode/auto-video-agent](https://github.com/LetMeHappyCode/auto-video-agent) | 216 | 基于 Agent / Skill / Workflow 编排，流水线化生成「分镜插画提示词 → AI 生图 → 拼接成片」的成套视频 | [SAFE](https://agentskillshub.top/skill/LetMeHappyCode/auto-video-agent/?utm_source=github&utm_medium=awesome-list) |
 | [Mr-funny/hbg-life-simulation](https://github.com/Mr-funny/hbg-life-simulation) | 140 | HBG Agent Skill：制作中文人生模拟叙事视频，含统一漫画 IP、多段人生快速开场、Edge TTS、同步字幕和成片 QA | [SAFE](https://agentskillshub.top/skill/Mr-funny/hbg-life-simulation/?utm_source=github&utm_medium=awesome-list) |
 | [liangdabiao/story-handdrawn-remotion](https://github.com/liangdabiao/story-handdrawn-remotion) | 35 | 视频 Skill：把中文/英文故事文本变成手绘日记漫画风竖屏视频，每句按文字、黑白画稿、彩色插画三阶段揭示 | [SAFE](https://agentskillshub.top/skill/liangdabiao/story-handdrawn-remotion/?utm_source=github&utm_medium=awesome-list) |
@@ -312,7 +311,7 @@ README 写明用这个模型做的项目。
 | [JimLiu/taohuayuan](https://github.com/JimLiu/taohuayuan) | 28 | 《桃花源记》实时三维长卷，用 three.js 实现，可在浏览器里沿溪而行 | [SAFE](https://agentskillshub.top/skill/JimLiu/taohuayuan/?utm_source=github&utm_medium=awesome-list) |
 | [AllenAI2014/remotion-guofeng-starter](https://github.com/AllenAI2014/remotion-guofeng-starter) | 25 | 国风纸片动画：Remotion 风格资产库 + 制作流程 Skill，给 AI 一首诗或成语即可出片，全程代码渲染 | [SAFE](https://agentskillshub.top/skill/AllenAI2014/remotion-guofeng-starter/?utm_source=github&utm_medium=awesome-list) |
 | [taylorzhou16/video-gen](https://github.com/taylorzhou16/video-gen) | 9 | 面向 Claude Code 的 AI 视频剪辑 Skill | [SAFE](https://agentskillshub.top/skill/taylorzhou16/video-gen/?utm_source=github&utm_medium=awesome-list) |
-| [tuzhechen2005/opus-video-skills](https://github.com/tuzhechen2005/opus-video-skills) | 7 | 用 Claude Opus 5.5 以代码制作视频的 skill 合集，每种风格一个 skill，如手绘动画、动态排版短片 | [SAFE](https://agentskillshub.top/skill/tuzhechen2005/opus-video-skills/?utm_source=github&utm_medium=awesome-list) |
+| [tuzhechen2005/opus-video-skills](https://github.com/tuzhechen2005/opus-video-skills) | 8 | 用 Claude Opus 5.5 以代码制作视频的 skill 合集，每种风格一个 skill，如手绘动画、动态排版短片 | [SAFE](https://agentskillshub.top/skill/tuzhechen2005/opus-video-skills/?utm_source=github&utm_medium=awesome-list) |
 
 <a id="type-motion"></a>
 ## 🎞 动效与 Logo
@@ -320,9 +319,9 @@ README 写明用这个模型做的项目。
 [在在线页面打开这一类,按星数排序 →](https://agentskillshub.top/best/claude-video-skills/?utm_source=github&utm_medium=awesome-list#type-motion)
 
 <table><tr>
-<td align="center" valign="top"><a href="https://github.com/nolangz/pixel2motion"><img src="https://raw.githubusercontent.com/nolangz/pixel2motion/HEAD/docs/gifs/claude-horizon.gif" width="260" alt="nolangz/pixel2motion"></a><br><sub><a href="https://github.com/nolangz/pixel2motion">nolangz/pixel2motion</a></sub></td>
-<td align="center" valign="top"><a href="https://github.com/pyang5166/gbro-collage-broll"><img src="https://raw.githubusercontent.com/pyang5166/gbro-collage-broll/HEAD/assets/demo-purple.gif" width="260" alt="pyang5166/gbro-collage-broll"></a><br><sub><a href="https://github.com/pyang5166/gbro-collage-broll">pyang5166/gbro-collage-broll</a></sub></td>
-<td align="center" valign="top"><a href="https://github.com/alexgreensh/anidoodle"><img src="https://raw.githubusercontent.com/alexgreensh/anidoodle/HEAD/assets/banner.gif" width="260" alt="alexgreensh/anidoodle"></a><br><sub><a href="https://github.com/alexgreensh/anidoodle">alexgreensh/anidoodle</a></sub></td>
+<td align="center" valign="top"><a href="https://github.com/diffusionstudio/lottie"><img src="assets/previews/diffusionstudio__lottie.gif" width="260" alt="diffusionstudio/lottie"></a><br><sub><a href="https://github.com/diffusionstudio/lottie">diffusionstudio/lottie</a></sub></td>
+<td align="center" valign="top"><a href="https://github.com/nolangz/pixel2motion"><img src="assets/previews/nolangz__pixel2motion.gif" width="260" alt="nolangz/pixel2motion"></a><br><sub><a href="https://github.com/nolangz/pixel2motion">nolangz/pixel2motion</a></sub></td>
+<td align="center" valign="top"><a href="https://github.com/alexgreensh/anidoodle"><img src="assets/previews/alexgreensh__anidoodle.gif" width="260" alt="alexgreensh/anidoodle"></a><br><sub><a href="https://github.com/alexgreensh/anidoodle">alexgreensh/anidoodle</a></sub></td>
 </tr></table>
 
 | 仓库 | 星数 | 做什么 | 安全评级 |
@@ -345,9 +344,9 @@ README 写明用这个模型做的项目。
 [在在线页面打开这一类,按星数排序 →](https://agentskillshub.top/best/claude-video-skills/?utm_source=github&utm_medium=awesome-list#type-craft)
 
 <table><tr>
-<td align="center" valign="top"><a href="https://github.com/wocha-xiaoli/video-shot-analysis-feishu"><img src="https://raw.githubusercontent.com/wocha-xiaoli/video-shot-analysis-feishu/HEAD/assets/video-shot-analysis-feishu-infographic.png" width="260" alt="wocha-xiaoli/video-shot-analysis-feishu"></a><br><sub><a href="https://github.com/wocha-xiaoli/video-shot-analysis-feishu">wocha-xiaoli/video-shot-analysis-feishu</a></sub></td>
-<td align="center" valign="top"><a href="https://github.com/erduo1998-cell/video-script-builder"><img src="https://raw.githubusercontent.com/erduo1998-cell/video-script-builder/HEAD/docs/images/video-script-builder-hero.png" width="260" alt="erduo1998-cell/video-script-builder"></a><br><sub><a href="https://github.com/erduo1998-cell/video-script-builder">erduo1998-cell/video-script-builder</a></sub></td>
-<td align="center" valign="top"><a href="https://github.com/sharon-laicc/viral-video-decomposer"><img src="https://raw.githubusercontent.com/sharon-laicc/viral-video-decomposer/HEAD/docs/assets/smelly-cat-style-a.png" width="260" alt="sharon-laicc/viral-video-decomposer"></a><br><sub><a href="https://github.com/sharon-laicc/viral-video-decomposer">sharon-laicc/viral-video-decomposer</a></sub></td>
+<td align="center" valign="top"><a href="https://github.com/eternityspring/reelbench-skills"><img src="assets/previews/eternityspring__reelbench-skills.jpg" width="260" alt="eternityspring/reelbench-skills"></a><br><sub><a href="https://github.com/eternityspring/reelbench-skills">eternityspring/reelbench-skills</a></sub></td>
+<td align="center" valign="top"><a href="https://github.com/wocha-xiaoli/video-shot-analysis-feishu"><img src="assets/previews/wocha-xiaoli__video-shot-analysis-feishu.jpg" width="260" alt="wocha-xiaoli/video-shot-analysis-feishu"></a><br><sub><a href="https://github.com/wocha-xiaoli/video-shot-analysis-feishu">wocha-xiaoli/video-shot-analysis-feishu</a></sub></td>
+<td align="center" valign="top"><a href="https://github.com/erduo1998-cell/video-script-builder"><img src="assets/previews/erduo1998-cell__video-script-builder.jpg" width="260" alt="erduo1998-cell/video-script-builder"></a><br><sub><a href="https://github.com/erduo1998-cell/video-script-builder">erduo1998-cell/video-script-builder</a></sub></td>
 </tr></table>
 
 | 仓库 | 星数 | 做什么 | 安全评级 |
@@ -374,7 +373,7 @@ README 写明用这个模型做的项目。
 
 **安全评级**是 Agent Skills Hub 对仓库 README 和安装步骤的评级。*待评级*表示目录还没评到它。
 
-预览图取自各项目自己的 README,版权归原作者所有;本仓库没有复制任何图片。如需移除请提 issue。
+预览图是各项目 README 里图片的缩小副本,只收录采用宽松许可证的项目,版权归原作者所有。来源和许可证见 [assets/previews/NOTICE.md](assets/previews/NOTICE.md)。如需移除请提 issue。
 
 ## 相关合集
 
