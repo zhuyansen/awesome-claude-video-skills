@@ -77,7 +77,7 @@
   {
    "repo_full_name": "heygen-com/hyperframes",
    "path": null,
-   "stars": 53406,
+   "stars": 53407,
    "description": "Write HTML. Render video. Built for agents.",
    "kind": "general",
    "security_grade": "safe",
@@ -87,7 +87,7 @@
   {
    "repo_full_name": "hypit-ai/hypit",
    "path": null,
-   "stars": 16436,
+   "stars": 16438,
    "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
    "kind": "general",
    "security_grade": null,
@@ -257,7 +257,7 @@
   {
    "repo_full_name": "JohnHeibel/PDoomVideo",
    "path": null,
-   "stars": 1087,
+   "stars": 1088,
    "description": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
    "kind": "music",
    "security_grade": "unknown",
@@ -347,7 +347,7 @@
   {
    "repo_full_name": "op7418/guizang-product-video-skill",
    "path": null,
-   "stars": 441,
+   "stars": 442,
    "description": "归藏 product video skill：复用真实产品组件和设计语言，用代码制作软件更新宣传片。包含分镜文案、原创配乐、动作音效与视频渲染，支持 Claude Code 和 Codex。",
    "kind": "promo",
    "security_grade": "safe",
@@ -507,7 +507,7 @@
   {
    "repo_full_name": "lemomo-ai/lemo-opuscar",
    "path": null,
-   "stars": 175,
+   "stars": 177,
    "description": "39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
    "kind": "story",
    "security_grade": "safe",
@@ -622,6 +622,16 @@
    "kind": "editing",
    "security_grade": "safe",
    "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "wyuzhi/qisi-video-remix",
+   "path": null,
+   "stars": 111,
+   "description": "视频创意改编 Agent Skill：参考视频 → 剧本 → 分镜 → 分段生成提示词。By qisi.",
+   "kind": "craft",
+   "security_grade": "safe",
+   "language": null,
    "license": "MIT"
   },
   {
@@ -815,6 +825,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "adityaarsharma/youtube-marketing-skills",
+   "path": null,
+   "stars": 44,
+   "description": "Open-source agent-agnostic YouTube growth toolkit — 21 AI commands + live channel MCP. Works with Claude Code, Cursor, Codex, Windsurf, Gemini CLI & any MCP client. SEO, scripts, Shorts, thumbnails, analytics, WordPress publishing. Free VidIQ/TubeBuddy alternative.",
+   "kind": "craft",
+   "security_grade": "safe",
+   "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "trunghaiy/appshot",
    "path": null,
    "stars": 43,
@@ -863,6 +883,16 @@
    "security_grade": "unknown",
    "language": "Python",
    "license": null
+  },
+  {
+   "repo_full_name": "wocha-xiaoli/video-shot-analysis-feishu",
+   "path": null,
+   "stars": 36,
+   "description": "视频拉片到飞书 Base：自动抽帧、逐镜头分析、倒推分镜与视频生成提示词的 Codex/OpenCode skill",
+   "kind": "craft",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
   },
   {
    "repo_full_name": "Kappaemme-git/codex-video-short-maker-skill",
@@ -1060,6 +1090,16 @@
    "stars": 24,
    "description": "Standalone Codex skill for Vox-inspired editorial collage knowledge videos with deterministic Remotion assembly and optional generated motion.",
    "kind": "explainer",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "liuliu-66-create/ll-video-decomposer",
+   "path": null,
+   "stars": 24,
+   "description": "专业的五层视频拆解 Codex Skill：支持视频链接、本地媒体和逐字稿。",
+   "kind": "craft",
    "security_grade": "unknown",
    "language": "Python",
    "license": "MIT"
@@ -1373,6 +1413,26 @@
    "security_grade": null,
    "language": "Python",
    "license": null
+  },
+  {
+   "repo_full_name": "chenmisss/laoxu-video-script",
+   "path": null,
+   "stars": 9,
+   "description": "老徐·自媒体起号方法论 skill：定位/选题/破立合成稿/五维诊断/去车轱辘话/112条母题库。零基础起号，Claude Code/Codex skill。",
+   "kind": "craft",
+   "security_grade": null,
+   "language": null,
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "erduo1998-cell/video-script-builder",
+   "path": null,
+   "stars": 9,
+   "description": "把中文视频逐字稿转换为可执行 HyperFrames 分镜规格的 AI Agent Skill",
+   "kind": "craft",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
   },
   {
    "repo_full_name": "resemble-ai/remotion-resemble-skill",
@@ -1755,6 +1815,16 @@
    "license": null
   },
   {
+   "repo_full_name": "sharon-laicc/viral-video-decomposer",
+   "path": null,
+   "stars": 5,
+   "description": "拆解爆款短视频，生成镜头级拉片、爆款机制、AI 生产蓝图和视频生成 brief 的 Codex/Claude skill。｜A Codex/Claude skill for decomposing hot short videos into shot-by-shot analysis, reusable production blueprints, and AI-ready video generation briefs.",
+   "kind": "craft",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "wendymardigian-prog/Editor-IA-Pro",
    "path": null,
    "stars": 5,
@@ -1767,7 +1837,7 @@
   {
    "repo_full_name": "EverMind-AI/Raven",
    "path": "skills/git-story-film",
-   "stars": 4090,
+   "stars": 4092,
    "description": "Direct a two-minute hand-drawn animated film from a repository's Git history: story, character, storyboard, HTML review studio, then a 4K/60fps MP4.",
    "kind": "explainer",
    "security_grade": "safe",
