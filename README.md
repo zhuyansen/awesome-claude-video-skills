@@ -4,7 +4,7 @@
 
 Open-source skills and toolkits that let **Claude Code, Codex and other coding agents make video**: HyperFrames, Remotion, motion graphics, editing, explainers, avatars. 178 repos, each one read and security-graded by [Agent Skills Hub](https://agentskillshub.top?utm_source=github&utm_medium=awesome-list).
 
-Live page with filters: **[https://agentskillshub.top/best/opus-5-5-video/](https://agentskillshub.top/best/opus-5-5-video/?utm_source=github&utm_medium=awesome-list)** · refreshed every 8 hours
+Live page with filters: **[https://agentskillshub.top/best/claude-video-skills/](https://agentskillshub.top/best/claude-video-skills/?utm_source=github&utm_medium=awesome-list)** · refreshed every 8 hours
 
 ## Contents
 
@@ -38,18 +38,18 @@ Projects whose README says they were built with the model.
 |---|---:|---|---|
 | [JohnHeibel/PDoomVideo](https://github.com/JohnHeibel/PDoomVideo) | 1.1k | Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom) | [*pending*](https://agentskillshub.top/skill/JohnHeibel/PDoomVideo/?utm_source=github&utm_medium=awesome-list) |
 | [JohnHeibel/ClaudeAnimationBase](https://github.com/JohnHeibel/ClaudeAnimationBase) | 421 | A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model | [*pending*](https://agentskillshub.top/skill/JohnHeibel/ClaudeAnimationBase/?utm_source=github&utm_medium=awesome-list) |
-| [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) | 220 | 39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let… | [SAFE](https://agentskillshub.top/skill/lemomo-ai/lemo-opuscar/?utm_source=github&utm_medium=awesome-list) |
+| [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) | 225 | 39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let… | [SAFE](https://agentskillshub.top/skill/lemomo-ai/lemo-opuscar/?utm_source=github&utm_medium=awesome-list) |
 | [ledbetterljoshua/functional-emotions-video](https://github.com/ledbetterljoshua/functional-emotions-video) | 45 | A painted music video for "Functional Emotions", made by Claude Opus 5.5: custom GPU brushstroke renderer, storyboard, and 7 parallel chapter agents. | [*pending*](https://agentskillshub.top/skill/ledbetterljoshua/functional-emotions-video/?utm_source=github&utm_medium=awesome-list) |
 
 <a id="type-general"></a>
 ## 🧱 Frameworks & toolkits
 
-[Open this type on the live page, sorted by stars →](https://agentskillshub.top/best/opus-5-5-video/?utm_source=github&utm_medium=awesome-list#type-general)
+[Open this type on the live page, sorted by stars →](https://agentskillshub.top/best/claude-video-skills/?utm_source=github&utm_medium=awesome-list#type-general)
 
 | Repo | Stars | What it does | Security |
 |---|---:|---|---|
 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 61.5k | World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Tur… | [SAFE](https://agentskillshub.top/skill/calesthio/OpenMontage/?utm_source=github&utm_medium=awesome-list) |
-| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 53.4k | Write HTML. Render video. Built for agents. | [SAFE](https://agentskillshub.top/skill/heygen-com/hyperframes/?utm_source=github&utm_medium=awesome-list) |
+| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 53.5k | Write HTML. Render video. Built for agents. | [SAFE](https://agentskillshub.top/skill/heygen-com/hyperframes/?utm_source=github&utm_medium=awesome-list) |
 | [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | 16.5k | Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command,… | [*pending*](https://agentskillshub.top/skill/hypit-ai/hypit/?utm_source=github&utm_medium=awesome-list) |
 | [remotion-dev/skills](https://github.com/remotion-dev/skills) | 4.7k | Agent Skills | [SAFE](https://agentskillshub.top/skill/remotion-dev/skills/?utm_source=github&utm_medium=awesome-list) |
 | [NarratorAI-Studio/narrator-ai-cli-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) | 2.7k | AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用 | [SAFE](https://agentskillshub.top/skill/NarratorAI-Studio/narrator-ai-cli-skill/?utm_source=github&utm_medium=awesome-list) |
@@ -81,19 +81,19 @@ Projects whose README says they were built with the model.
 <a id="type-promo"></a>
 ## 📣 Promo & demos
 
-[Open this type on the live page, sorted by stars →](https://agentskillshub.top/best/opus-5-5-video/?utm_source=github&utm_medium=awesome-list#type-promo)
+[Open this type on the live page, sorted by stars →](https://agentskillshub.top/best/claude-video-skills/?utm_source=github&utm_medium=awesome-list#type-promo)
 
 | Repo | Stars | What it does | Security |
 |---|---:|---|---|
 | [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | 9.7k | AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready templ… | [SAFE](https://agentskillshub.top/skill/Vincentwei1021/video-shotcraft/?utm_source=github&utm_medium=awesome-list) |
-| [geekjourneyx/hyperframes-motion-director](https://github.com/geekjourneyx/hyperframes-motion-director) | 447 | Agent Skill for Chinese-first HyperFrames motion-video production from articles, products, websites, and README files. | [SAFE](https://agentskillshub.top/skill/geekjourneyx/hyperframes-motion-director/?utm_source=github&utm_medium=awesome-list) |
+| [geekjourneyx/hyperframes-motion-director](https://github.com/geekjourneyx/hyperframes-motion-director) | 448 | Agent Skill for Chinese-first HyperFrames motion-video production from articles, products, websites, and README files. | [SAFE](https://agentskillshub.top/skill/geekjourneyx/hyperframes-motion-director/?utm_source=github&utm_medium=awesome-list) |
 | [op7418/guizang-product-video-skill](https://github.com/op7418/guizang-product-video-skill) | 445 | 归藏 product video skill：复用真实产品组件和设计语言，用代码制作软件更新宣传片。包含分镜文案、原创配乐、动作音效与视频渲染，支持 Claude Code 和 Codex。 | [SAFE](https://agentskillshub.top/skill/op7418/guizang-product-video-skill/?utm_source=github&utm_medium=awesome-list) |
 | [tugrawork-creator/saas-motion-kit](https://github.com/tugrawork-creator/saas-motion-kit) | 129 | Promo & motion videos for software products with HyperFrames + Claude Code. No two films should feel the same: tone matrix, variety audit, 24-transit… | [SAFE](https://agentskillshub.top/skill/tugrawork-creator/saas-motion-kit/?utm_source=github&utm_medium=awesome-list) |
 | [leosssvip-dot/remotion-ad-video-skill](https://github.com/leosssvip-dot/remotion-ad-video-skill) | 108 | Create Remotion ad video projects from a URL with an AI coding agent, no video-generation AI required. | [*pending*](https://agentskillshub.top/skill/leosssvip-dot/remotion-ad-video-skill/?utm_source=github&utm_medium=awesome-list) |
 | [kangarooking/promo-creator-skills](https://github.com/kangarooking/promo-creator-skills) | 101 | 产品宣传视频创作 Skills：从产品判断、分镜、素材、HyperFrames 剪辑到 BGM 设计的完整 Agent 工作流 | [*pending*](https://agentskillshub.top/skill/kangarooking/promo-creator-skills/?utm_source=github&utm_medium=awesome-list) |
 | [bestagentkits/motion-video-skill](https://github.com/bestagentkits/motion-video-skill) | 73 | Agent skill that produces beat-synced 1080p motion-graphic videos in HyperFrames (HTML + GSAP) with an AI voice-over, karaoke captions, SFX and gener… | [*pending*](https://agentskillshub.top/skill/bestagentkits/motion-video-skill/?utm_source=github&utm_medium=awesome-list) |
 | [norahe0304-art/30x-video](https://github.com/norahe0304-art/30x-video) | 63 | One URL in, an agency-grade launch video out. A Claude Code skill (Remotion + React) with a 16-law taste codex — 12 brands, 12 worlds, zero templates. | [SAFE](https://agentskillshub.top/skill/norahe0304-art/30x-video/?utm_source=github&utm_medium=awesome-list) |
-| [Finderchangchang/promo-video-skill](https://github.com/Finderchangchang/promo-video-skill) | 46 | 精酿 BrewReel：让 DeepSeek 这类便宜模型也能做出好看的竖版宣传片。写一份产品简报，AI 挑镜头、写文案，一条命令出片。3 种配方、6 个行业、广告法校验，开源可商用。 | [*pending*](https://agentskillshub.top/skill/Finderchangchang/promo-video-skill/?utm_source=github&utm_medium=awesome-list) |
+| [Finderchangchang/promo-video-skill](https://github.com/Finderchangchang/promo-video-skill) | 47 | 精酿 BrewReel：让 DeepSeek 这类便宜模型也能做出好看的竖版宣传片。写一份产品简报，AI 挑镜头、写文案，一条命令出片。3 种配方、6 个行业、广告法校验，开源可商用。 | [*pending*](https://agentskillshub.top/skill/Finderchangchang/promo-video-skill/?utm_source=github&utm_medium=awesome-list) |
 | [trunghaiy/appshot](https://github.com/trunghaiy/appshot) | 43 | Generate App Store & Google Play preview videos and screenshots from a simple TypeScript config. Built on Remotion + React + Tailwind. Ships with AI… | [SAFE](https://agentskillshub.top/skill/trunghaiy/appshot/?utm_source=github&utm_medium=awesome-list) |
 | [BayramAnnakov/remotion-video-director](https://github.com/BayramAnnakov/remotion-video-director) | 41 | Interactive Claude Code skill for creating Remotion videos through expert-guided deliberation | [*pending*](https://agentskillshub.top/skill/BayramAnnakov/remotion-video-director/?utm_source=github&utm_medium=awesome-list) |
 | [kingselyjoe/video-shotcraft-dsh](https://github.com/kingselyjoe/video-shotcraft-dsh) | 35 | 面向 DeepSeek Harness 的电影感产品视频 Agent Skill，包含 152 张镜头配方卡、Remotion 模板、代码组件和音频资产。 | [*pending*](https://agentskillshub.top/skill/kingselyjoe/video-shotcraft-dsh/?utm_source=github&utm_medium=awesome-list) |
@@ -115,7 +115,7 @@ Projects whose README says they were built with the model.
 <a id="type-explainer"></a>
 ## 🎓 Explainers
 
-[Open this type on the live page, sorted by stars →](https://agentskillshub.top/best/opus-5-5-video/?utm_source=github&utm_medium=awesome-list#type-explainer)
+[Open this type on the live page, sorted by stars →](https://agentskillshub.top/best/claude-video-skills/?utm_source=github&utm_medium=awesome-list#type-explainer)
 
 | Repo | Stars | What it does | Security |
 |---|---:|---|---|
@@ -155,7 +155,7 @@ Projects whose README says they were built with the model.
 <a id="type-editing"></a>
 ## ✂️ Editing
 
-[Open this type on the live page, sorted by stars →](https://agentskillshub.top/best/opus-5-5-video/?utm_source=github&utm_medium=awesome-list#type-editing)
+[Open this type on the live page, sorted by stars →](https://agentskillshub.top/best/claude-video-skills/?utm_source=github&utm_medium=awesome-list#type-editing)
 
 | Repo | Stars | What it does | Security |
 |---|---:|---|---|
@@ -173,7 +173,7 @@ Projects whose README says they were built with the model.
 | [znyupup/ai-video-editing-skill](https://github.com/znyupup/ai-video-editing-skill) | 135 | AI Agent Skill for automated vlog editing. Feed raw footage, get a finished video. Powered by ffmpeg + Whisper + Vision API. | [SAFE](https://agentskillshub.top/skill/znyupup/ai-video-editing-skill/?utm_source=github&utm_medium=awesome-list) |
 | [naive-kun/naive-video-skill](https://github.com/naive-kun/naive-video-skill) | 130 | A Codex skill for turning talking-head videos into captioned, animated final videos. | [SAFE](https://agentskillshub.top/skill/naive-kun/naive-video-skill/?utm_source=github&utm_medium=awesome-list) |
 | [Monet-AI-Editor/Monet](https://github.com/Monet-AI-Editor/Monet) | 116 | Edit Videos and Design Images with Claude code or Codex | [SAFE](https://agentskillshub.top/skill/Monet-AI-Editor/Monet/?utm_source=github&utm_medium=awesome-list) |
-| [blixvip/easyedit](https://github.com/blixvip/easyedit) | 111 | Type a movie, get a captioned speech + beat-cut fan edit. Local-first, no API keys, works with your AI bot (Claude Code / Codex). | [SAFE](https://agentskillshub.top/skill/blixvip/easyedit/?utm_source=github&utm_medium=awesome-list) |
+| [blixvip/easyedit](https://github.com/blixvip/easyedit) | 112 | Type a movie, get a captioned speech + beat-cut fan edit. Local-first, no API keys, works with your AI bot (Claude Code / Codex). | [SAFE](https://agentskillshub.top/skill/blixvip/easyedit/?utm_source=github&utm_medium=awesome-list) |
 | [ayushozha/AdobePremiereProMCP](https://github.com/ayushozha/AdobePremiereProMCP) | 106 | 🎬 AI-powered MCP server for Adobe Premiere Pro — 1,027 tools for timeline editing, color grading, audio mixing, effects, export & more. Control video… | [SAFE](https://agentskillshub.top/skill/ayushozha/AdobePremiereProMCP/?utm_source=github&utm_medium=awesome-list) |
 | [louisedesadeleer/cut-video](https://github.com/louisedesadeleer/cut-video) | 101 | Claude Code skill: tighten long recordings — remove silences, ums, dead air. Preserves laughs and comedic pauses. Fast on Apple Silicon. | [SAFE](https://agentskillshub.top/skill/louisedesadeleer/cut-video/?utm_source=github&utm_medium=awesome-list) |
 | [AKMessi/vex](https://github.com/AKMessi/vex) | 85 | claude code for video editing | [*pending*](https://agentskillshub.top/skill/AKMessi/vex/?utm_source=github&utm_medium=awesome-list) |
@@ -198,7 +198,7 @@ Projects whose README says they were built with the model.
 <a id="type-shorts"></a>
 ## 📱 Shorts & social
 
-[Open this type on the live page, sorted by stars →](https://agentskillshub.top/best/opus-5-5-video/?utm_source=github&utm_medium=awesome-list#type-shorts)
+[Open this type on the live page, sorted by stars →](https://agentskillshub.top/best/claude-video-skills/?utm_source=github&utm_medium=awesome-list#type-shorts)
 
 | Repo | Stars | What it does | Security |
 |---|---:|---|---|
@@ -225,7 +225,7 @@ Projects whose README says they were built with the model.
 <a id="type-avatar"></a>
 ## 🧑‍💼 Avatars
 
-[Open this type on the live page, sorted by stars →](https://agentskillshub.top/best/opus-5-5-video/?utm_source=github&utm_medium=awesome-list#type-avatar)
+[Open this type on the live page, sorted by stars →](https://agentskillshub.top/best/claude-video-skills/?utm_source=github&utm_medium=awesome-list#type-avatar)
 
 | Repo | Stars | What it does | Security |
 |---|---:|---|---|
@@ -237,7 +237,7 @@ Projects whose README says they were built with the model.
 <a id="type-story"></a>
 ## 📖 Stories & animation
 
-[Open this type on the live page, sorted by stars →](https://agentskillshub.top/best/opus-5-5-video/?utm_source=github&utm_medium=awesome-list#type-story)
+[Open this type on the live page, sorted by stars →](https://agentskillshub.top/best/claude-video-skills/?utm_source=github&utm_medium=awesome-list#type-story)
 
 | Repo | Stars | What it does | Security |
 |---|---:|---|---|
@@ -245,7 +245,7 @@ Projects whose README says they were built with the model.
 | [JohnHeibel/ClaudeAnimationBase](https://github.com/JohnHeibel/ClaudeAnimationBase) | 421 | A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model | [*pending*](https://agentskillshub.top/skill/JohnHeibel/ClaudeAnimationBase/?utm_source=github&utm_medium=awesome-list) |
 | [aaronyi97/image-story-video-wizard](https://github.com/aaronyi97/image-story-video-wizard) | 351 | A confirmation-gated Codex and WorkBuddy skill for audio-first image-story video production. | [SAFE](https://agentskillshub.top/skill/aaronyi97/image-story-video-wizard/?utm_source=github&utm_medium=awesome-list) |
 | [liyue-aigc/xianxia-cinematic-video-director](https://github.com/liyue-aigc/xianxia-cinematic-video-director) | 268 | Codex Skill for Eastern xianxia storyboards, camera movement and video continuity. | [SAFE](https://agentskillshub.top/skill/liyue-aigc/xianxia-cinematic-video-director/?utm_source=github&utm_medium=awesome-list) |
-| [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) | 220 | 39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let… | [SAFE](https://agentskillshub.top/skill/lemomo-ai/lemo-opuscar/?utm_source=github&utm_medium=awesome-list) |
+| [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) | 225 | 39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let… | [SAFE](https://agentskillshub.top/skill/lemomo-ai/lemo-opuscar/?utm_source=github&utm_medium=awesome-list) |
 | [LetMeHappyCode/auto-video-agent](https://github.com/LetMeHappyCode/auto-video-agent) | 216 | 自动流水线化生成成套「分镜插画提示词 → AI 生图 → 拼接成片」的视频，基于 Agent / Skill / Workflow 编排。 | [SAFE](https://agentskillshub.top/skill/LetMeHappyCode/auto-video-agent/?utm_source=github&utm_medium=awesome-list) |
 | [Mr-funny/hbg-life-simulation](https://github.com/Mr-funny/hbg-life-simulation) | 140 | HBG Agent Skill for Chinese life-simulation narrative videos with consistent comic IP, rapid multi-life openings, Edge TTS, synchronized captions, zo… | [SAFE](https://agentskillshub.top/skill/Mr-funny/hbg-life-simulation/?utm_source=github&utm_medium=awesome-list) |
 | [liangdabiao/story-handdrawn-remotion](https://github.com/liangdabiao/story-handdrawn-remotion) | 35 | 视频SKILL: 把一段 中文/英文 故事文本变成 「手绘日记漫画风」竖屏视频。 核心方法论：**不是把一张漂亮图配文字朗读，而是把每句故事拆成「文字 → 黑白画稿 → 彩色插画」三阶段横向擦除揭示，让一句话被画出三次。 | [*pending*](https://agentskillshub.top/skill/liangdabiao/story-handdrawn-remotion/?utm_source=github&utm_medium=awesome-list) |
@@ -257,7 +257,7 @@ Projects whose README says they were built with the model.
 <a id="type-motion"></a>
 ## 🎞 Motion graphics
 
-[Open this type on the live page, sorted by stars →](https://agentskillshub.top/best/opus-5-5-video/?utm_source=github&utm_medium=awesome-list#type-motion)
+[Open this type on the live page, sorted by stars →](https://agentskillshub.top/best/claude-video-skills/?utm_source=github&utm_medium=awesome-list#type-motion)
 
 | Repo | Stars | What it does | Security |
 |---|---:|---|---|
@@ -275,7 +275,7 @@ Projects whose README says they were built with the model.
 <a id="type-craft"></a>
 ## 📝 Scripts & learning
 
-[Open this type on the live page, sorted by stars →](https://agentskillshub.top/best/opus-5-5-video/?utm_source=github&utm_medium=awesome-list#type-craft)
+[Open this type on the live page, sorted by stars →](https://agentskillshub.top/best/claude-video-skills/?utm_source=github&utm_medium=awesome-list#type-craft)
 
 | Repo | Stars | What it does | Security |
 |---|---:|---|---|
@@ -292,7 +292,7 @@ Projects whose README says they were built with the model.
 <a id="type-music"></a>
 ## 🎵 Music videos
 
-[Open this type on the live page, sorted by stars →](https://agentskillshub.top/best/opus-5-5-video/?utm_source=github&utm_medium=awesome-list#type-music)
+[Open this type on the live page, sorted by stars →](https://agentskillshub.top/best/claude-video-skills/?utm_source=github&utm_medium=awesome-list#type-music)
 
 | Repo | Stars | What it does | Security |
 |---|---:|---|---|
