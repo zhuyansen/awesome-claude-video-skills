@@ -1,0 +1,33 @@
+name: Add a repo
+description: Suggest an open-source video skill or toolkit for coding agents
+title: "Add: owner/repo"
+labels: ["submission"]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: GitHub URL
+      placeholder: https://github.com/owner/repo
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of video does it make?
+      options:
+        - Frameworks & toolkits
+        - Promo & demos
+        - Explainers
+        - Editing
+        - Shorts & social
+        - Avatars
+        - Stories & animation
+        - Motion graphics
+        - Music videos
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Anything the README does not say
+      description: Optional. The review reads the README, so the best way to get listed is a README that shows the result.
