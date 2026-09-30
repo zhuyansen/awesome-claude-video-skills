@@ -29,6 +29,16 @@
   "file": "AmazingAng__ccvideo.gif",
   "still": "AmazingAng__ccvideo.jpg"
  },
+ "AmitSubhash/3brown1blue": {
+  "repo": "AmitSubhash/3brown1blue",
+  "url": "https://raw.githubusercontent.com/AmitSubhash/3brown1blue/main/assets/header.gif",
+  "alt": "3brown1blue banner",
+  "score": 0.5,
+  "type": "image/gif",
+  "bytes": 2044812,
+  "file": "AmitSubhash__3brown1blue.gif",
+  "still": "AmitSubhash__3brown1blue.jpg"
+ },
  "Arman-Luthra/aftr": {
   "repo": "Arman-Luthra/aftr",
   "url": "https://raw.githubusercontent.com/Arman-Luthra/aftr/HEAD/docs/pals-title-demo.gif",
@@ -68,6 +78,16 @@
   "bytes": 122222,
   "file": "Fagan1024__smart-video-editor.jpg",
   "still": "Fagan1024__smart-video-editor.jpg"
+ },
+ "FavioVazquez/showtime": {
+  "repo": "FavioVazquez/showtime",
+  "url": "https://raw.githubusercontent.com/FavioVazquez/showtime/HEAD/assets/readme/launch/launch-film-poster.jpg",
+  "alt": "The 0.2.0 launch film: the camera flies through the o of &quot;road&quot;, with ",
+  "score": 1.35,
+  "type": "image/jpeg",
+  "bytes": 63918,
+  "file": "FavioVazquez__showtime.jpg",
+  "still": "FavioVazquez__showtime.jpg"
  },
  "Finderchangchang/promo-video-skill": {
   "repo": "Finderchangchang/promo-video-skill",
@@ -109,6 +129,16 @@
   "file": "Johnson-Jia__video-clipforge.jpg",
   "still": "Johnson-Jia__video-clipforge.jpg"
  },
+ "Kianzzz/xilo-opus-video": {
+  "repo": "Kianzzz/xilo-opus-video",
+  "url": "https://raw.githubusercontent.com/Kianzzz/xilo-opus-video/HEAD/examples/plan-a-ui.png",
+  "alt": "方案 A",
+  "score": 0.0,
+  "type": "image/png",
+  "bytes": 230687,
+  "file": "Kianzzz__xilo-opus-video.jpg",
+  "still": "Kianzzz__xilo-opus-video.jpg"
+ },
  "Liamrjohnston/remotion-motion-graphics-skill": {
   "repo": "Liamrjohnston/remotion-motion-graphics-skill",
   "url": "https://raw.githubusercontent.com/Liamrjohnston/remotion-motion-graphics-skill/HEAD/previews/tsenta-apply-faster.gif",
@@ -139,15 +169,15 @@
   "file": "Vincentwei1021__video-shotcraft.jpg",
   "still": "Vincentwei1021__video-shotcraft.jpg"
  },
- "Yuuhann1999/codex-storyboard": {
-  "repo": "Yuuhann1999/codex-storyboard",
-  "url": "https://raw.githubusercontent.com/Yuuhann1999/codex-storyboard/HEAD/docs/assets/codex-storyboard-cover.png",
-  "alt": "Codex Storyboard 顶部主视觉",
-  "score": -2.5,
-  "type": "image/png",
-  "bytes": 1025514,
-  "file": "Yuuhann1999__codex-storyboard.jpg",
-  "still": "Yuuhann1999__codex-storyboard.jpg"
+ "Zane-0x5a/remotion-director": {
+  "repo": "Zane-0x5a/remotion-director",
+  "url": "https://raw.githubusercontent.com/Zane-0x5a/remotion-director/master/docs/assets/promos/promo-kimi-k3-thumb.webp",
+  "alt": "Promo created by Kimi K3 — click to play the full piece",
+  "score": 2.0,
+  "type": "image/webp",
+  "bytes": 670382,
+  "file": "Zane-0x5a__remotion-director.jpg",
+  "still": "Zane-0x5a__remotion-director.jpg"
  },
  "acelera-agency/html-animation": {
   "repo": "acelera-agency/html-animation",
@@ -179,6 +209,16 @@
   "file": "alexgreensh__anidoodle.gif",
   "still": "alexgreensh__anidoodle.jpg"
  },
+ "axtonliu/video-illustrator": {
+  "repo": "axtonliu/video-illustrator",
+  "url": "https://raw.githubusercontent.com/axtonliu/video-illustrator/HEAD/showcase/previews/8-cinematic-3d-v04.webp",
+  "alt": "Cinematic 3D preview",
+  "score": 1.95,
+  "type": "image/webp",
+  "bytes": 208900,
+  "file": "axtonliu__video-illustrator.jpg",
+  "still": "axtonliu__video-illustrator.jpg"
+ },
  "bangtutorial/bang-motion": {
   "repo": "bangtutorial/bang-motion",
   "url": "https://raw.githubusercontent.com/bangtutorial/bang-motion/HEAD/docs/gallery/02-kinetic-colorblock.jpg",
@@ -209,6 +249,16 @@
   "file": "blixvip__easyedit.jpg",
   "still": "blixvip__easyedit.jpg"
  },
+ "charlie947/motion-graphics-skills": {
+  "repo": "charlie947/motion-graphics-skills",
+  "url": "https://raw.githubusercontent.com/charlie947/motion-graphics-skills/HEAD/assets/readme/demo-launch.gif",
+  "alt": "A 20-second product launch film built entirely in code",
+  "score": 4.7,
+  "type": "image/gif",
+  "bytes": 4962226,
+  "file": "charlie947__motion-graphics-skills.gif",
+  "still": "charlie947__motion-graphics-skills.jpg"
+ },
  "chenyuxiaojin/cyxj-hyperframes": {
   "repo": "chenyuxiaojin/cyxj-hyperframes",
   "url": "https://i.ytimg.com/vi/fnKGWHSd0NE/hqdefault.jpg",
@@ -218,6 +268,16 @@
   "bytes": 17435,
   "file": "chenyuxiaojin__cyxj-hyperframes.jpg",
   "still": "chenyuxiaojin__cyxj-hyperframes.jpg"
+ },
+ "crimeacs/product-demo-director": {
+  "repo": "crimeacs/product-demo-director",
+  "url": "https://raw.githubusercontent.com/crimeacs/product-demo-director/HEAD/docs/assets/product-demo-director-demo.gif",
+  "alt": "Evidence in. A directed film out. Product Demo Director's own film, made with it",
+  "score": 4.8,
+  "type": "image/gif",
+  "bytes": 8151994,
+  "file": "crimeacs__product-demo-director.gif",
+  "still": "crimeacs__product-demo-director.jpg"
  },
  "cymcymcymcym/notes-to-video": {
   "repo": "cymcymcymcym/notes-to-video",
@@ -258,6 +318,16 @@
   "bytes": 31821,
   "file": "digitalsamba__claude-code-video-toolkit.jpg",
   "still": "digitalsamba__claude-code-video-toolkit.jpg"
+ },
+ "edenfunf/reelmimic": {
+  "repo": "edenfunf/reelmimic",
+  "url": "https://raw.githubusercontent.com/edenfunf/reelmimic/HEAD/docs/assets/demo-sugar.gif",
+  "alt": "Sugar Rush",
+  "score": 4.7,
+  "type": "image/gif",
+  "bytes": 1907215,
+  "file": "edenfunf__reelmimic.gif",
+  "still": "edenfunf__reelmimic.jpg"
  },
  "erduo1998-cell/erduo-broll-loop-engineering": {
   "repo": "erduo1998-cell/erduo-broll-loop-engineering",
@@ -339,6 +409,16 @@
   "file": "hi-nikola__hand-drawn-explainer-video-nikola.jpg",
   "still": "hi-nikola__hand-drawn-explainer-video-nikola.jpg"
  },
+ "howseen-ai/claude-motion-design": {
+  "repo": "howseen-ai/claude-motion-design",
+  "url": "https://raw.githubusercontent.com/howseen-ai/claude-motion-design/HEAD/examples/howseen-launch/preview.gif",
+  "alt": "Howseen launch video, made with this skill",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 4180819,
+  "file": "howseen-ai__claude-motion-design.gif",
+  "still": "howseen-ai__claude-motion-design.jpg"
+ },
  "iart-ai/ad-video-skills": {
   "repo": "iart-ai/ad-video-skills",
   "url": "https://raw.githubusercontent.com/iart-ai/ad-video-skills/HEAD/showcase.gif",
@@ -419,15 +499,15 @@
   "file": "jaxxchen003__book-video-factory.jpg",
   "still": "jaxxchen003__book-video-factory.jpg"
  },
- "leancoderkavy/premiere-pro-mcp": {
-  "repo": "leancoderkavy/premiere-pro-mcp",
-  "url": "https://raw.githubusercontent.com/leancoderkavy/premiere-pro-mcp/HEAD/landing/public/premiere-pro-mcp-demo-poster.png",
-  "alt": "Illustrated local Premiere MCP workflow",
-  "score": -1.2,
-  "type": "image/png",
-  "bytes": 254409,
-  "file": "leancoderkavy__premiere-pro-mcp.jpg",
-  "still": "leancoderkavy__premiere-pro-mcp.jpg"
+ "klsoen/opus-js-animations": {
+  "repo": "klsoen/opus-js-animations",
+  "url": "https://raw.githubusercontent.com/klsoen/opus-js-animations/HEAD/docs/shaml-opening-2.8s.gif",
+  "alt": "The opening of Shaml: a gold medallion of cut paper bursts into spiral arms arou",
+  "score": 3.0,
+  "type": "image/gif",
+  "bytes": 3485817,
+  "file": "klsoen__opus-js-animations.jpg",
+  "still": "klsoen__opus-js-animations.jpg"
  },
  "ledbetterljoshua/functional-emotions-video": {
   "repo": "ledbetterljoshua/functional-emotions-video",
@@ -598,6 +678,16 @@
   "bytes": 1519449,
   "file": "wocha-xiaoli__video-shot-analysis-feishu.jpg",
   "still": "wocha-xiaoli__video-shot-analysis-feishu.jpg"
+ },
+ "ww-w-ai/super-video-agent": {
+  "repo": "ww-w-ai/super-video-agent",
+  "url": "https://raw.githubusercontent.com/ww-w-ai/super-video-agent/HEAD/docs/gallery/poster-en.png",
+  "alt": "3D flight film poster: the night city the flight passes over",
+  "score": 2.0,
+  "type": "image/png",
+  "bytes": 659895,
+  "file": "ww-w-ai__super-video-agent.jpg",
+  "still": "ww-w-ai__super-video-agent.jpg"
  },
  "zenstory-ai/video-recap-skills": {
   "repo": "zenstory-ai/video-recap-skills",
