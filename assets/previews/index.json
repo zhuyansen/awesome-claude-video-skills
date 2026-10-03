@@ -1,4 +1,14 @@
 {
+ "Aaryan-Kapoor/video-production-skill": {
+  "repo": "Aaryan-Kapoor/video-production-skill",
+  "url": "https://raw.githubusercontent.com/Aaryan-Kapoor/video-production-skill/HEAD/examples/generated/papers/clawmark-living-world-benchmark/exports/clawmark_showcase_preview.gif",
+  "alt": "ClawMark showcase preview",
+  "score": 4.9,
+  "type": "image/gif",
+  "bytes": 84148,
+  "file": "Aaryan-Kapoor__video-production-skill.gif",
+  "still": "Aaryan-Kapoor__video-production-skill.jpg"
+ },
  "AgriciDaniel/claude-shorts": {
   "repo": "AgriciDaniel/claude-shorts",
   "url": "https://raw.githubusercontent.com/AgriciDaniel/claude-shorts/HEAD/claude-shorts-header.jpeg",
@@ -68,6 +78,36 @@
   "bytes": 66897,
   "file": "Cassette-Editor__oh-my-cassette.jpg",
   "still": "Cassette-Editor__oh-my-cassette.jpg"
+ },
+ "Chamanrajragu/purffle-shorts": {
+  "repo": "Chamanrajragu/purffle-shorts",
+  "url": "https://raw.githubusercontent.com/Chamanrajragu/purffle-shorts/main/docs/formats.jpg",
+  "alt": "Frames from three PurffleShorts formats: a text-message story with chat bubbles ",
+  "score": 1.5,
+  "type": "image/jpeg",
+  "bytes": 136716,
+  "file": "Chamanrajragu__purffle-shorts.jpg",
+  "still": "Chamanrajragu__purffle-shorts.jpg"
+ },
+ "Changroro/code-video": {
+  "repo": "Changroro/code-video",
+  "url": "https://raw.githubusercontent.com/Changroro/code-video/HEAD/docs/gallery/brand-apple.gif",
+  "alt": "Apple-style showroom",
+  "score": 4.1,
+  "type": "image/gif",
+  "bytes": 135208,
+  "file": "Changroro__code-video.gif",
+  "still": "Changroro__code-video.jpg"
+ },
+ "Dancan254/voiceover-video-skill": {
+  "repo": "Dancan254/voiceover-video-skill",
+  "url": "https://raw.githubusercontent.com/Dancan254/voiceover-video-skill/HEAD/docs/demo.gif",
+  "alt": "A 42-second Kafka vs RabbitMQ explainer made with this skill: word-synced captio",
+  "score": 2.5,
+  "type": "image/gif",
+  "bytes": 2728180,
+  "file": "Dancan254__voiceover-video-skill.gif",
+  "still": "Dancan254__voiceover-video-skill.jpg"
  },
  "Fagan1024/smart-video-editor": {
   "repo": "Fagan1024/smart-video-editor",
@@ -159,15 +199,25 @@
   "file": "Monet-AI-Editor__Monet.jpg",
   "still": "Monet-AI-Editor__Monet.jpg"
  },
- "Vincentwei1021/video-shotcraft": {
-  "repo": "Vincentwei1021/video-shotcraft",
-  "url": "https://raw.githubusercontent.com/Vincentwei1021/video-shotcraft/HEAD/workbench/docs/overview.png",
-  "alt": "Motion Workbench",
-  "score": -2.85,
-  "type": "image/png",
-  "bytes": 460573,
-  "file": "Vincentwei1021__video-shotcraft.jpg",
-  "still": "Vincentwei1021__video-shotcraft.jpg"
+ "WhiteTowerAI/cut-as-code": {
+  "repo": "WhiteTowerAI/cut-as-code",
+  "url": "https://img.youtube.com/vi/3yFPOC8kFxU/maxresdefault.jpg",
+  "alt": "How to Use cut-as-code Skills with an AI Coding Agent",
+  "score": 0.0,
+  "type": "image/jpeg",
+  "bytes": 28523,
+  "file": "WhiteTowerAI__cut-as-code.jpg",
+  "still": "WhiteTowerAI__cut-as-code.jpg"
+ },
+ "Yuuhann1999/agent-storyboard": {
+  "repo": "Yuuhann1999/agent-storyboard",
+  "url": "https://raw.githubusercontent.com/Yuuhann1999/agent-storyboard/HEAD/docs/assets/demo-fill.gif",
+  "alt": "素材生成后自动回填到分镜表",
+  "score": 4.65,
+  "type": "image/gif",
+  "bytes": 841720,
+  "file": "Yuuhann1999__agent-storyboard.gif",
+  "still": "Yuuhann1999__agent-storyboard.jpg"
  },
  "Zane-0x5a/remotion-director": {
   "repo": "Zane-0x5a/remotion-director",
@@ -189,6 +239,16 @@
   "file": "acelera-agency__html-animation.gif",
   "still": "acelera-agency__html-animation.jpg"
  },
+ "adunext/adu-motion-video": {
+  "repo": "adunext/adu-motion-video",
+  "url": "https://raw.githubusercontent.com/adunext/adu-motion-video/HEAD/assets/demos/02-B.gif",
+  "alt": "02-B · 纸面聚合，局部静音预览",
+  "score": 4.6,
+  "type": "image/gif",
+  "bytes": 931712,
+  "file": "adunext__adu-motion-video.gif",
+  "still": "adunext__adu-motion-video.jpg"
+ },
  "ahmdd4vd/MotionCraft": {
   "repo": "ahmdd4vd/MotionCraft",
   "url": "https://raw.githubusercontent.com/ahmdd4vd/MotionCraft/HEAD/media/pi-v2-loop.gif",
@@ -208,6 +268,16 @@
   "bytes": 1214662,
   "file": "alexgreensh__anidoodle.gif",
   "still": "alexgreensh__anidoodle.jpg"
+ },
+ "animspark/animspark": {
+  "repo": "animspark/animspark",
+  "url": "https://raw.githubusercontent.com/animspark/animspark/HEAD/docs/assets/preview.png",
+  "alt": "anim preview: viewer, transport, timeline with waveforms and filmstrips, inspect",
+  "score": 1.75,
+  "type": "image/png",
+  "bytes": 165895,
+  "file": "animspark__animspark.jpg",
+  "still": "animspark__animspark.jpg"
  },
  "axtonliu/video-illustrator": {
   "repo": "axtonliu/video-illustrator",
@@ -349,6 +419,16 @@
   "file": "erduo1998-cell__video-script-builder.jpg",
   "still": "erduo1998-cell__video-script-builder.jpg"
  },
+ "erduo1998-cell/vidmuse-video-creator": {
+  "repo": "erduo1998-cell/vidmuse-video-creator",
+  "url": "https://raw.githubusercontent.com/erduo1998-cell/vidmuse-video-creator/HEAD/docs/images/vidmuse-h3-demo.gif",
+  "alt": "VidMuse H3 generated B-roll demo",
+  "score": 4.65,
+  "type": "image/gif",
+  "bytes": 4536200,
+  "file": "erduo1998-cell__vidmuse-video-creator.jpg",
+  "still": "erduo1998-cell__vidmuse-video-creator.jpg"
+ },
  "eternityspring/reelbench-skills": {
   "repo": "eternityspring/reelbench-skills",
   "url": "https://raw.githubusercontent.com/eternityspring/reelbench-skills/HEAD/skills/video-shots/assets/report.png",
@@ -419,6 +499,26 @@
   "file": "howseen-ai__claude-motion-design.gif",
   "still": "howseen-ai__claude-motion-design.jpg"
  },
+ "hraness/slopcamera": {
+  "repo": "hraness/slopcamera",
+  "url": "https://raw.githubusercontent.com/hraness/slopcamera/HEAD/apps/web/media/rain-bottled-poster-479a32b54a03.webp",
+  "alt": "Rain, bottled: a still from a Slopcamera Blender showcase film, in which a cloud",
+  "score": 2.0,
+  "type": "image/webp",
+  "bytes": 36652,
+  "file": "hraness__slopcamera.jpg",
+  "still": "hraness__slopcamera.jpg"
+ },
+ "hub-ki/video-generation": {
+  "repo": "hub-ki/video-generation",
+  "url": "https://raw.githubusercontent.com/hub-ki/video-generation/HEAD/docs/media/hero.gif",
+  "alt": "Thirty seconds of a finished video: a title card, then an agent reading a calend",
+  "score": 0.3,
+  "type": "image/gif",
+  "bytes": 4323726,
+  "file": "hub-ki__video-generation.gif",
+  "still": "hub-ki__video-generation.jpg"
+ },
  "iart-ai/ad-video-skills": {
   "repo": "iart-ai/ad-video-skills",
   "url": "https://raw.githubusercontent.com/iart-ai/ad-video-skills/HEAD/showcase.gif",
@@ -448,6 +548,26 @@
   "bytes": 3372389,
   "file": "iart-ai__explainer-video-skills.gif",
   "still": "iart-ai__explainer-video-skills.jpg"
+ },
+ "iart-ai/kinetic-typography-skills": {
+  "repo": "iart-ai/kinetic-typography-skills",
+  "url": "https://raw.githubusercontent.com/iart-ai/kinetic-typography-skills/HEAD/showcase.gif",
+  "alt": "Kinetic Typography Skills — animated showcase",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 3693777,
+  "file": "iart-ai__kinetic-typography-skills.gif",
+  "still": "iart-ai__kinetic-typography-skills.jpg"
+ },
+ "iart-ai/map-animation-skills": {
+  "repo": "iart-ai/map-animation-skills",
+  "url": "https://raw.githubusercontent.com/iart-ai/map-animation-skills/HEAD/showcase.gif",
+  "alt": "Map Animation Skills — animated showcase",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 5342974,
+  "file": "iart-ai__map-animation-skills.gif",
+  "still": "iart-ai__map-animation-skills.jpg"
  },
  "iart-ai/motion-design-skills": {
   "repo": "iart-ai/motion-design-skills",
@@ -519,6 +639,16 @@
   "file": "ledbetterljoshua__functional-emotions-video.jpg",
   "still": "ledbetterljoshua__functional-emotions-video.jpg"
  },
+ "liaojianquan9-source/ljq-broll-video-generator": {
+  "repo": "liaojianquan9-source/ljq-broll-video-generator",
+  "url": "https://raw.githubusercontent.com/liaojianquan9-source/ljq-broll-video-generator/HEAD/examples/kimi-k3-000-011/media/comparison-preview.gif",
+  "alt": "上方原视频效果，下方GPT-6 Astra加Remotion生成的复刻效果",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 6152987,
+  "file": "liaojianquan9-source__ljq-broll-video-generator.gif",
+  "still": "liaojianquan9-source__ljq-broll-video-generator.jpg"
+ },
  "magichourhq/skills": {
   "repo": "magichourhq/skills",
   "url": "https://raw.githubusercontent.com/magichourhq/skills/HEAD/examples/midnight-remix/preview.gif",
@@ -538,6 +668,16 @@
   "bytes": 75993,
   "file": "memex-lab__product-launch-video-skill.jpg",
   "still": "memex-lab__product-launch-video-skill.jpg"
+ },
+ "minosdevs/cinematic-film": {
+  "repo": "minosdevs/cinematic-film",
+  "url": "https://raw.githubusercontent.com/minosdevs/cinematic-film/HEAD/references/example-assets-sheet.png",
+  "alt": "Assets generated for the example film",
+  "score": 2.0,
+  "type": "image/png",
+  "bytes": 2127021,
+  "file": "minosdevs__cinematic-film.jpg",
+  "still": "minosdevs__cinematic-film.jpg"
  },
  "mrieck/demoday-claude-plugin": {
   "repo": "mrieck/demoday-claude-plugin",
@@ -649,6 +789,16 @@
   "file": "trunghaiy__appshot.gif",
   "still": "trunghaiy__appshot.jpg"
  },
+ "unclejobs-ai/motion-video-skill": {
+  "repo": "unclejobs-ai/motion-video-skill",
+  "url": "https://raw.githubusercontent.com/unclejobs-ai/motion-video-skill/HEAD/docs/assets/gate-demo.gif",
+  "alt": "gate clips 실행: BLOCK, 눈 검수 기록, PASS",
+  "score": 4.95,
+  "type": "image/gif",
+  "bytes": 923032,
+  "file": "unclejobs-ai__motion-video-skill.gif",
+  "still": "unclejobs-ai__motion-video-skill.jpg"
+ },
  "vibe-motion/remotion-code-motion-explainer": {
   "repo": "vibe-motion/remotion-code-motion-explainer",
   "url": "https://raw.githubusercontent.com/vibe-motion/remotion-code-motion-explainer/HEAD/assets/showcase/code-motion-capability-showcase.gif",
@@ -669,6 +819,16 @@
   "file": "video-db__skills.jpg",
   "still": "video-db__skills.jpg"
  },
+ "vincentsch/explainroo": {
+  "repo": "vincentsch/explainroo",
+  "url": "https://raw.githubusercontent.com/vincentsch/explainroo/HEAD/docs/media/looks-light.webp",
+  "alt": "Frames from five example videos, one in each look: paper, clean, chalk, blueprin",
+  "score": 1.95,
+  "type": "image/webp",
+  "bytes": 126830,
+  "file": "vincentsch__explainroo.jpg",
+  "still": "vincentsch__explainroo.jpg"
+ },
  "wocha-xiaoli/video-shot-analysis-feishu": {
   "repo": "wocha-xiaoli/video-shot-analysis-feishu",
   "url": "https://raw.githubusercontent.com/wocha-xiaoli/video-shot-analysis-feishu/HEAD/assets/video-shot-analysis-feishu-infographic.png",
@@ -678,16 +838,6 @@
   "bytes": 1519449,
   "file": "wocha-xiaoli__video-shot-analysis-feishu.jpg",
   "still": "wocha-xiaoli__video-shot-analysis-feishu.jpg"
- },
- "ww-w-ai/super-video-agent": {
-  "repo": "ww-w-ai/super-video-agent",
-  "url": "https://raw.githubusercontent.com/ww-w-ai/super-video-agent/HEAD/docs/gallery/poster-en.png",
-  "alt": "3D flight film poster: the night city the flight passes over",
-  "score": 2.0,
-  "type": "image/png",
-  "bytes": 659895,
-  "file": "ww-w-ai__super-video-agent.jpg",
-  "still": "ww-w-ai__super-video-agent.jpg"
  },
  "zenstory-ai/video-recap-skills": {
   "repo": "zenstory-ai/video-recap-skills",
