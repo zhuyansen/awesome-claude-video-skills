@@ -67,7 +67,7 @@
   {
    "repo_full_name": "calesthio/OpenMontage",
    "path": null,
-   "stars": 63432,
+   "stars": 63440,
    "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
    "kind": "general",
    "security_grade": "safe",
@@ -77,7 +77,7 @@
   {
    "repo_full_name": "heygen-com/hyperframes",
    "path": null,
-   "stars": 56940,
+   "stars": 56946,
    "description": "Write HTML. Render video. Built for agents.",
    "kind": "general",
    "security_grade": "safe",
@@ -87,7 +87,7 @@
   {
    "repo_full_name": "hypit-ai/hypit",
    "path": null,
-   "stars": 19338,
+   "stars": 19342,
    "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
    "kind": "general",
    "security_grade": "safe",
@@ -137,7 +137,7 @@
   {
    "repo_full_name": "iart-ai/motion-skills",
    "path": null,
-   "stars": 697,
+   "stars": 698,
    "description": "50 open-source skills that teach your AI coding agent to make motion graphics, animation & video — kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 14 installable packs. By iart.ai, the AI motion agent.",
    "kind": "general",
    "security_grade": "safe",
@@ -187,7 +187,7 @@
   {
    "repo_full_name": "FavioVazquez/showtime",
    "path": null,
-   "stars": 92,
+   "stars": 94,
    "description": "A local video studio for your coding agent. Describe a video in one sentence: your agent directs, your machine renders. Claude Code, Codex, Cursor, Devin and more. No API keys, no uploads.",
    "kind": "general",
    "security_grade": "safe",
@@ -487,7 +487,7 @@
   {
    "repo_full_name": "feitangyuan/onetake",
    "path": null,
-   "stars": 1556,
+   "stars": 1557,
    "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
    "kind": "promo",
    "security_grade": "safe",
@@ -545,7 +545,7 @@
    "license": "NOASSERTION"
   },
   {
-   "repo_full_name": "Finderchangchang/brewreel",
+   "repo_full_name": "Finderchangchang/promo-video-skill",
    "path": null,
    "stars": 118,
    "description": "精酿 BrewReel：让 DeepSeek 这类便宜模型也能做出好看的竖版宣传片。写一份产品简报，AI 挑镜头、写文案，一条命令出片。3 种配方、6 个行业、广告法校验，开源可商用。",
@@ -805,7 +805,7 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "opus-pro/opusclip-video-tools",
+   "repo_full_name": "opus-pro/opus-video-studio",
    "path": null,
    "stars": 10,
    "description": "OpusClip Video Tools for Codex and Claude Code: editable launch video templates and managed media generation.",
@@ -1735,7 +1735,7 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "Yuuhann1999/agent-storyboard",
+   "repo_full_name": "Yuuhann1999/codex-storyboard",
    "path": null,
    "stars": 353,
    "description": "本地优先的 Agent 视频分镜工作台：让 Codex、Claude Code 通过 MCP 写分镜、生成图片/视频素材和配音，并自动回填。Local-first storyboard workbench for AI agents (Codex, Claude Code).",
@@ -2087,7 +2087,7 @@
   {
    "repo_full_name": "lemomo-ai/lemo-opuscar",
    "path": null,
-   "stars": 1024,
+   "stars": 1026,
    "description": "Claude Code skill for short films with no video model: 43 film styles, each a style prompt plus a demo film made entirely in code by Claude Opus 5.5 (incl. OPUSCAR 98). By Lemomo. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
    "kind": "story",
    "security_grade": "safe",
@@ -2257,7 +2257,7 @@
   {
    "repo_full_name": "ythx-101/live-panel-skill",
    "path": null,
-   "stars": 517,
+   "stars": 518,
    "description": "Config-driven animated architecture diagrams: turn one JSON file into a terminal-style, always-running diagram or a light-theme infographic that moves. Outputs H.264 mp4 or a live web page; also a Claude Code style skill (SKILL.md).",
    "kind": "motion",
    "security_grade": "safe",
