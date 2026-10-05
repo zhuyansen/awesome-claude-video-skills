@@ -149,6 +149,16 @@
   "file": "FavioVazquez__showtime.jpg",
   "still": "FavioVazquez__showtime.jpg"
  },
+ "Finderchangchang/promo-video-skill": {
+  "repo": "Finderchangchang/promo-video-skill",
+  "url": "https://raw.githubusercontent.com/Finderchangchang/promo-video-skill/HEAD/docs/images/style-cards.png",
+  "alt": "cards 风格预览",
+  "score": 1.55,
+  "type": "image/png",
+  "bytes": 134696,
+  "file": "Finderchangchang__promo-video-skill.jpg",
+  "still": "Finderchangchang__promo-video-skill.jpg"
+ },
  "FireRedTeam/FireRed-OpenStoryline": {
   "repo": "FireRedTeam/FireRed-OpenStoryline",
   "url": "https://image-url-2-feature-1251524319.cos.ap-shanghai.myqcloud.com/openstoryline/web/static/brand_white.png",
@@ -299,16 +309,6 @@
   "file": "alexgreensh__anidoodle.gif",
   "still": "alexgreensh__anidoodle.jpg"
  },
- "animspark/animspark": {
-  "repo": "animspark/animspark",
-  "url": "https://raw.githubusercontent.com/animspark/animspark/HEAD/docs/assets/preview.png",
-  "alt": "anim preview: viewer, transport, timeline with waveforms and filmstrips, inspect",
-  "score": 1.75,
-  "type": "image/png",
-  "bytes": 165895,
-  "file": "animspark__animspark.jpg",
-  "still": "animspark__animspark.jpg"
- },
  "axtonliu/video-illustrator": {
   "repo": "axtonliu/video-illustrator",
   "url": "https://raw.githubusercontent.com/axtonliu/video-illustrator/HEAD/showcase/previews/8-cinematic-3d-v04.webp",
@@ -428,6 +428,16 @@
   "bytes": 31821,
   "file": "digitalsamba__claude-code-video-toolkit.jpg",
   "still": "digitalsamba__claude-code-video-toolkit.jpg"
+ },
+ "dillydog580/animate-roblox-characters": {
+  "repo": "dillydog580/animate-roblox-characters",
+  "url": "https://raw.githubusercontent.com/dillydog580/animate-roblox-characters/HEAD/docs/stylized-r6-walk-preview.gif",
+  "alt": "Stylized R6 walk generated with the skill",
+  "score": 4.8,
+  "type": "image/gif",
+  "bytes": 1137071,
+  "file": "dillydog580__animate-roblox-characters.gif",
+  "still": "dillydog580__animate-roblox-characters.jpg"
  },
  "edenfunf/reelmimic": {
   "repo": "edenfunf/reelmimic",
