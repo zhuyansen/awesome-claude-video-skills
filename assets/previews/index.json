@@ -159,16 +159,6 @@
   "file": "Finderchangchang__promo-video-skill.jpg",
   "still": "Finderchangchang__promo-video-skill.jpg"
  },
- "FireRedTeam/FireRed-OpenStoryline": {
-  "repo": "FireRedTeam/FireRed-OpenStoryline",
-  "url": "https://image-url-2-feature-1251524319.cos.ap-shanghai.myqcloud.com/openstoryline/web/static/brand_white.png",
-  "alt": "openstoryline",
-  "score": 0.0,
-  "type": "image/png",
-  "bytes": 116146,
-  "file": "FireRedTeam__FireRed-OpenStoryline.jpg",
-  "still": "FireRedTeam__FireRed-OpenStoryline.jpg"
- },
  "IskakovDamir/apple-motion": {
   "repo": "IskakovDamir/apple-motion",
   "url": "https://raw.githubusercontent.com/IskakovDamir/apple-motion/HEAD/docs/demo.gif",
@@ -178,6 +168,16 @@
   "bytes": 3290889,
   "file": "IskakovDamir__apple-motion.gif",
   "still": "IskakovDamir__apple-motion.jpg"
+ },
+ "JohnChow90/video-shotcraft": {
+  "repo": "JohnChow90/video-shotcraft",
+  "url": "https://raw.githubusercontent.com/JohnChow90/video-shotcraft/HEAD/workbench/docs/overview.png",
+  "alt": "Motion Workbench",
+  "score": -2.8,
+  "type": "image/png",
+  "bytes": 460573,
+  "file": "JohnChow90__video-shotcraft.jpg",
+  "still": "JohnChow90__video-shotcraft.jpg"
  },
  "JohnHeibel/ClaudeAnimationBase": {
   "repo": "JohnHeibel/ClaudeAnimationBase",
@@ -309,6 +309,16 @@
   "file": "alexgreensh__anidoodle.gif",
   "still": "alexgreensh__anidoodle.jpg"
  },
+ "alisadiq-ai/favstash-ai-video-editing-skills": {
+  "repo": "alisadiq-ai/favstash-ai-video-editing-skills",
+  "url": "https://raw.githubusercontent.com/alisadiq-ai/favstash-ai-video-editing-skills/HEAD/assets/favstash-social-preview-2026.png",
+  "alt": "FavStash connects Claude Code, Codex and ChatGPT with Instagram, TikTok and YouT",
+  "score": 2.0,
+  "type": "image/png",
+  "bytes": 833780,
+  "file": "alisadiq-ai__favstash-ai-video-editing-skills.jpg",
+  "still": "alisadiq-ai__favstash-ai-video-editing-skills.jpg"
+ },
  "axtonliu/video-illustrator": {
   "repo": "axtonliu/video-illustrator",
   "url": "https://raw.githubusercontent.com/axtonliu/video-illustrator/HEAD/showcase/previews/8-cinematic-3d-v04.webp",
@@ -348,6 +358,16 @@
   "bytes": 103354,
   "file": "blixvip__easyedit.jpg",
   "still": "blixvip__easyedit.jpg"
+ },
+ "buildwithhanif/claude-animation-skill": {
+  "repo": "buildwithhanif/claude-animation-skill",
+  "url": "https://raw.githubusercontent.com/buildwithhanif/claude-animation-skill/HEAD/docs/game-contact.jpg",
+  "alt": "the game short, one frame per second",
+  "score": 1.75,
+  "type": "image/jpeg",
+  "bytes": 731928,
+  "file": "buildwithhanif__claude-animation-skill.jpg",
+  "still": "buildwithhanif__claude-animation-skill.jpg"
  },
  "charlie947/motion-graphics-skills": {
   "repo": "charlie947/motion-graphics-skills",
