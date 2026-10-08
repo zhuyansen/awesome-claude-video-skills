@@ -1,4 +1,14 @@
 {
+ "124zhe/xigua-msvideo-skill": {
+  "repo": "124zhe/xigua-msvideo-skill",
+  "url": "https://raw.githubusercontent.com/124zhe/xigua-msvideo-skill/HEAD/skills/youtube-ms-paint-images/assets/frame-007_00m11s839ms.png",
+  "alt": "人物推介空气",
+  "score": 2.0,
+  "type": "image/png",
+  "bytes": 1098952,
+  "file": "124zhe__xigua-msvideo-skill.jpg",
+  "still": "124zhe__xigua-msvideo-skill.jpg"
+ },
  "Aaryan-Kapoor/video-production-skill": {
   "repo": "Aaryan-Kapoor/video-production-skill",
   "url": "https://raw.githubusercontent.com/Aaryan-Kapoor/video-production-skill/HEAD/examples/generated/papers/clawmark-living-world-benchmark/exports/clawmark_showcase_preview.gif",
@@ -159,6 +169,16 @@
   "file": "Finderchangchang__promo-video-skill.jpg",
   "still": "Finderchangchang__promo-video-skill.jpg"
  },
+ "FireRedTeam/FireRed-OpenStoryline": {
+  "repo": "FireRedTeam/FireRed-OpenStoryline",
+  "url": "https://image-url-2-feature-1251524319.cos.ap-shanghai.myqcloud.com/openstoryline/web/static/brand_white.png",
+  "alt": "openstoryline",
+  "score": 0.0,
+  "type": "image/png",
+  "bytes": 116146,
+  "file": "FireRedTeam__FireRed-OpenStoryline.jpg",
+  "still": "FireRedTeam__FireRed-OpenStoryline.jpg"
+ },
  "IskakovDamir/apple-motion": {
   "repo": "IskakovDamir/apple-motion",
   "url": "https://raw.githubusercontent.com/IskakovDamir/apple-motion/HEAD/docs/demo.gif",
@@ -239,6 +259,16 @@
   "file": "Neelshah1810__Claude-Video-Skills.gif",
   "still": "Neelshah1810__Claude-Video-Skills.jpg"
  },
+ "Tejashmakwana/motionmaxxing": {
+  "repo": "Tejashmakwana/motionmaxxing",
+  "url": "https://raw.githubusercontent.com/Tejashmakwana/motionmaxxing/HEAD/docs/media/cluely-comparison.gif",
+  "alt": "Cluely, without the skill on the left and with it on the right, both generated w",
+  "score": 2.5,
+  "type": "image/gif",
+  "bytes": 1335161,
+  "file": "Tejashmakwana__motionmaxxing.gif",
+  "still": "Tejashmakwana__motionmaxxing.jpg"
+ },
  "WhiteTowerAI/cut-as-code": {
   "repo": "WhiteTowerAI/cut-as-code",
   "url": "https://img.youtube.com/vi/3yFPOC8kFxU/maxresdefault.jpg",
@@ -258,6 +288,16 @@
   "bytes": 841720,
   "file": "Yuuhann1999__agent-storyboard.gif",
   "still": "Yuuhann1999__agent-storyboard.jpg"
+ },
+ "ZLHad/OpenVideoHarness": {
+  "repo": "ZLHad/OpenVideoHarness",
+  "url": "https://raw.githubusercontent.com/ZLHad/OpenVideoHarness/HEAD/styles/gallery.jpg",
+  "alt": "The 31 style samples, all with the same content",
+  "score": 1.8,
+  "type": "image/jpeg",
+  "bytes": 1134190,
+  "file": "ZLHad__OpenVideoHarness.jpg",
+  "still": "ZLHad__OpenVideoHarness.jpg"
  },
  "Zane-0x5a/remotion-director": {
   "repo": "Zane-0x5a/remotion-director",
