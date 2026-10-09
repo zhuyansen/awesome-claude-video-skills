@@ -229,6 +229,16 @@
   "file": "Kianzzz__xilo-opus-video.jpg",
   "still": "Kianzzz__xilo-opus-video.jpg"
  },
+ "Kimeur/motion-launch-videos": {
+  "repo": "Kimeur/motion-launch-videos",
+  "url": "https://raw.githubusercontent.com/Kimeur/motion-launch-videos/HEAD/examples/crux-launch/preview.gif",
+  "alt": "Kinetic type: a 12 second launch bumper for Crux",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 1463389,
+  "file": "Kimeur__motion-launch-videos.gif",
+  "still": "Kimeur__motion-launch-videos.jpg"
+ },
  "Liamrjohnston/remotion-motion-graphics-skill": {
   "repo": "Liamrjohnston/remotion-motion-graphics-skill",
   "url": "https://raw.githubusercontent.com/Liamrjohnston/remotion-motion-graphics-skill/HEAD/previews/tsenta-apply-faster.gif",
@@ -719,6 +729,16 @@
   "file": "intelligent-iterations__ii-content-engine.jpg",
   "still": "intelligent-iterations__ii-content-engine.jpg"
  },
+ "isaachang/motion-video-workflow": {
+  "repo": "isaachang/motion-video-workflow",
+  "url": "https://raw.githubusercontent.com/isaachang/motion-video-workflow/HEAD/docs/showcase/say.gif",
+  "alt": "",
+  "score": 2.75,
+  "type": "image/gif",
+  "bytes": 551351,
+  "file": "isaachang__motion-video-workflow.gif",
+  "still": "isaachang__motion-video-workflow.jpg"
+ },
  "jaxxchen003/book-video-factory": {
   "repo": "jaxxchen003/book-video-factory",
   "url": "https://raw.githubusercontent.com/jaxxchen003/book-video-factory/HEAD/examples/posters/boundaries.jpg",
@@ -738,6 +758,16 @@
   "bytes": 3485817,
   "file": "klsoen__opus-js-animations.jpg",
   "still": "klsoen__opus-js-animations.jpg"
+ },
+ "kvrancic/oneshot-video": {
+  "repo": "kvrancic/oneshot-video",
+  "url": "https://raw.githubusercontent.com/kvrancic/oneshot-video/HEAD/docs/media/clips.gif",
+  "alt": "Vertical clips: a full-screen takeover line, PLUGIN behind a speaker opening a b",
+  "score": 2.75,
+  "type": "image/gif",
+  "bytes": 5743552,
+  "file": "kvrancic__oneshot-video.jpg",
+  "still": "kvrancic__oneshot-video.jpg"
  },
  "latent-variable/deep-learning-birthday": {
   "repo": "latent-variable/deep-learning-birthday",
@@ -908,6 +938,16 @@
   "bytes": 1404644,
   "file": "smwbev__framewright.jpg",
   "still": "smwbev__framewright.jpg"
+ },
+ "surajshetty3416/demo-video-skill": {
+  "repo": "surajshetty3416/demo-video-skill",
+  "url": "https://raw.githubusercontent.com/surajshetty3416/demo-video-skill/HEAD/media/editor-dark.png",
+  "alt": "The editor: segment rail, live composited preview, camera/holds/events timeline,",
+  "score": -0.5,
+  "type": "image/png",
+  "bytes": 526866,
+  "file": "surajshetty3416__demo-video-skill.jpg",
+  "still": "surajshetty3416__demo-video-skill.jpg"
  },
  "trunghaiy/appshot": {
   "repo": "trunghaiy/appshot",
