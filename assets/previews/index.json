@@ -399,6 +399,16 @@
   "file": "bbylw__hyperframes-cn.jpg",
   "still": "bbylw__hyperframes-cn.jpg"
  },
+ "beriki770-ship-it/code-animations": {
+  "repo": "beriki770-ship-it/code-animations",
+  "url": "https://raw.githubusercontent.com/beriki770-ship-it/code-animations/HEAD/media/map.jpg",
+  "alt": "map",
+  "score": 0.0,
+  "type": "image/jpeg",
+  "bytes": 39690,
+  "file": "beriki770-ship-it__code-animations.jpg",
+  "still": "beriki770-ship-it__code-animations.jpg"
+ },
  "blixvip/easyedit": {
   "repo": "blixvip/easyedit",
   "url": "https://raw.githubusercontent.com/blixvip/easyedit/HEAD/docs/ui.png",
@@ -579,6 +589,16 @@
   "file": "hahadu4520__newcut-video-clipping-skill.jpg",
   "still": "hahadu4520__newcut-video-clipping-skill.jpg"
  },
+ "haiderfarooq3/khan-explainer": {
+  "repo": "haiderfarooq3/khan-explainer",
+  "url": "https://raw.githubusercontent.com/haiderfarooq3/khan-explainer/HEAD/docs/board.jpg",
+  "alt": "The same scene on the blackboard and on the whiteboard",
+  "score": -0.5,
+  "type": "image/jpeg",
+  "bytes": 86575,
+  "file": "haiderfarooq3__khan-explainer.jpg",
+  "still": "haiderfarooq3__khan-explainer.jpg"
+ },
  "hetpatel-11/Adobe_Premiere_Pro_MCP": {
   "repo": "hetpatel-11/Adobe_Premiere_Pro_MCP",
   "url": "https://raw.githubusercontent.com/hetpatel-11/Adobe_Premiere_Pro_MCP/HEAD/images/demo.png",
@@ -709,6 +729,16 @@
   "file": "iart-ai__motion-skills.gif",
   "still": "iart-ai__motion-skills.jpg"
  },
+ "iart-ai/text-message-video-skills": {
+  "repo": "iart-ai/text-message-video-skills",
+  "url": "https://raw.githubusercontent.com/iart-ai/text-message-video-skills/HEAD/showcase.gif",
+  "alt": "Text Message Video Skills — animated showcase",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 3588954,
+  "file": "iart-ai__text-message-video-skills.gif",
+  "still": "iart-ai__text-message-video-skills.jpg"
+ },
  "iart-ai/tiktok-video-skills": {
   "repo": "iart-ai/tiktok-video-skills",
   "url": "https://raw.githubusercontent.com/iart-ai/tiktok-video-skills/HEAD/showcase.gif",
@@ -718,6 +748,16 @@
   "bytes": 3794665,
   "file": "iart-ai__tiktok-video-skills.gif",
   "still": "iart-ai__tiktok-video-skills.jpg"
+ },
+ "iart-ai/youtube-video-skills": {
+  "repo": "iart-ai/youtube-video-skills",
+  "url": "https://raw.githubusercontent.com/iart-ai/youtube-video-skills/HEAD/showcase.gif",
+  "alt": "YouTube Video Skills — animated showcase",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 2966294,
+  "file": "iart-ai__youtube-video-skills.gif",
+  "still": "iart-ai__youtube-video-skills.jpg"
  },
  "intelligent-iterations/ii-content-engine": {
   "repo": "intelligent-iterations/ii-content-engine",
@@ -788,6 +828,16 @@
   "bytes": 56392,
   "file": "ledbetterljoshua__functional-emotions-video.jpg",
   "still": "ledbetterljoshua__functional-emotions-video.jpg"
+ },
+ "lemomo-ai/lemo-opuscar": {
+  "repo": "lemomo-ai/lemo-opuscar",
+  "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/HEAD/docs/frames/silent-film.jpg",
+  "alt": "1920s Silent Film",
+  "score": 0.35,
+  "type": "image/jpeg",
+  "bytes": 57845,
+  "file": "lemomo-ai__lemo-opuscar.jpg",
+  "still": "lemomo-ai__lemo-opuscar.jpg"
  },
  "liaojianquan9-source/ljq-broll-video-generator": {
   "repo": "liaojianquan9-source/ljq-broll-video-generator",
@@ -948,6 +998,16 @@
   "bytes": 526866,
   "file": "surajshetty3416__demo-video-skill.jpg",
   "still": "surajshetty3416__demo-video-skill.jpg"
+ },
+ "timscheuerai/launch-video-kit": {
+  "repo": "timscheuerai/launch-video-kit",
+  "url": "https://raw.githubusercontent.com/timscheuerai/launch-video-kit/HEAD/assets/preview.gif",
+  "alt": "The Acme example: hook, the cut, hero words, the product at close range, the loc",
+  "score": 2.5,
+  "type": "image/gif",
+  "bytes": 6280296,
+  "file": "timscheuerai__launch-video-kit.gif",
+  "still": "timscheuerai__launch-video-kit.jpg"
  },
  "trunghaiy/appshot": {
   "repo": "trunghaiy/appshot",
