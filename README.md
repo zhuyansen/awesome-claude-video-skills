@@ -612,3 +612,6 @@ Open an issue with the GitHub URL. It goes through the same review as every entr
 ---
 
 Machine-readable copy: [`data/skills.json`](data/skills.json). Generated 2026-10-25.
+
+- [DoomPay](https://github.com/doomsday-network/doom-pay) - Non-custodial 3-line Web3 checkout widget, REST API, and remote MCP payment receipt verifier (`wDOOM` on Base Mainnet & `DOOM` Layer-1).
+- [BountyGuard](https://github.com/doomsday-network/bounty-guard) - Zero-dependency MCP security server & CLI auditor that verifies on-chain bounty escrow before AI agents start work.
