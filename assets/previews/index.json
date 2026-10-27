@@ -229,6 +229,16 @@
   "file": "FireRedTeam__FireRed-OpenStoryline.jpg",
   "still": "FireRedTeam__FireRed-OpenStoryline.jpg"
  },
+ "Hainrixz/motion-architect": {
+  "repo": "Hainrixz/motion-architect",
+  "url": "https://raw.githubusercontent.com/Hainrixz/motion-architect/HEAD/docs/demo.gif",
+  "alt": "Demo renderizada con Motion Architect",
+  "score": 2.25,
+  "type": "image/gif",
+  "bytes": 2647575,
+  "file": "Hainrixz__motion-architect.gif",
+  "still": "Hainrixz__motion-architect.jpg"
+ },
  "IskakovDamir/apple-motion": {
   "repo": "IskakovDamir/apple-motion",
   "url": "https://raw.githubusercontent.com/IskakovDamir/apple-motion/HEAD/docs/demo.gif",
@@ -288,6 +298,16 @@
   "bytes": 1463389,
   "file": "Kimeur__motion-launch-videos.gif",
   "still": "Kimeur__motion-launch-videos.jpg"
+ },
+ "Lanqiao-Luca/ai-video-marker": {
+  "repo": "Lanqiao-Luca/ai-video-marker",
+  "url": "https://raw.githubusercontent.com/Lanqiao-Luca/ai-video-marker/HEAD/docs/images/rooftop-preview.gif",
+  "alt": "像素示例：屋顶晒太阳",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 2972496,
+  "file": "Lanqiao-Luca__ai-video-marker.jpg",
+  "still": "Lanqiao-Luca__ai-video-marker.jpg"
  },
  "Liamrjohnston/remotion-motion-graphics-skill": {
   "repo": "Liamrjohnston/remotion-motion-graphics-skill",
@@ -1069,6 +1089,16 @@
   "file": "latent-variable__deep-learning-birthday.jpg",
   "still": "latent-variable__deep-learning-birthday.jpg"
  },
+ "lazypay/Archscribe": {
+  "repo": "lazypay/Archscribe",
+  "url": "https://raw.githubusercontent.com/lazypay/Archscribe/HEAD/assets/previews/homepage-panorama.gif",
+  "alt": "Archscribe panorama case",
+  "score": 2.7,
+  "type": "image/gif",
+  "bytes": 1334696,
+  "file": "lazypay__Archscribe.gif",
+  "still": "lazypay__Archscribe.jpg"
+ },
  "ledbetterljoshua/functional-emotions-video": {
   "repo": "ledbetterljoshua/functional-emotions-video",
   "url": "https://raw.githubusercontent.com/ledbetterljoshua/functional-emotions-video/HEAD/docs/lake-face.jpg",
@@ -1188,6 +1218,16 @@
   "bytes": 1224549,
   "file": "ops120__video-recap-skills-plus.jpg",
   "still": "ops120__video-recap-skills-plus.jpg"
+ },
+ "oxygenframe/oxframe-sdk": {
+  "repo": "oxygenframe/oxframe-sdk",
+  "url": "https://raw.githubusercontent.com/oxygenframe/oxframe-sdk/main/docs/quickstart.gif",
+  "alt": "Install oxframe-cli, oxframe init my-video, oxframe render, then the rendered sq",
+  "score": 2.25,
+  "type": "image/gif",
+  "bytes": 563227,
+  "file": "oxygenframe__oxframe-sdk.gif",
+  "still": "oxygenframe__oxframe-sdk.jpg"
  },
  "patryk-penczek/ship-video": {
   "repo": "patryk-penczek/ship-video",
