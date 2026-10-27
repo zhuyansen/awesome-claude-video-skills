@@ -273,6 +273,7 @@ Projects whose README says they were built with the model.
 | [xsourabhsharma/remotion-marketing-video-skill](https://github.com/xsourabhsharma/remotion-marketing-video-skill) | 5 | Agent skill for creating premium Remotion marketing videos product demos, SaaS promos, motion graphics, UI walkthroughs, social ads, and explainers u… | [SAFE](https://agentskillshub.top/skill/xsourabhsharma/remotion-marketing-video-skill/?utm_source=github&utm_medium=awesome-list) |
 | [lumian2015/opus-5-5-video-templates](https://github.com/lumian2015/opus-5-5-video-templates) | 3 | 30 free motion-graphics templates remade from viral Claude Opus 5.5 videos, plus a Claude Code skill that rebrands one and renders it to MP4 with Hyp… | [SAFE](https://agentskillshub.top/skill/lumian2015/opus-5-5-video-templates/?utm_source=github&utm_medium=awesome-list) |
 | [samuelstroschein/opus-video-generator](https://github.com/samuelstroschein/opus-video-generator) | 2 | Make launch videos with Claude Opus 5.5, in your browser, on your own Claude subscription. npx opus-video-generator | [SAFE](https://agentskillshub.top/skill/samuelstroschein/opus-video-generator/?utm_source=github&utm_medium=awesome-list) |
+| [anglesvideo/angles-video-skills](https://github.com/anglesvideo/angles-video-skills) | 0 | Claude Code skill for product launch videos: reads your repo, writes three selling angles, designs every scene in Remotion, renders locally — zero render cost. Also ships a cloud template mode via Angles. | *pending* |
 
 <a id="type-explainer"></a>
 ## 🎓 Explainers
