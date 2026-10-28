@@ -79,6 +79,16 @@
   "file": "AgriciDaniel__claude-shorts.jpg",
   "still": "AgriciDaniel__claude-shorts.jpg"
  },
+ "AlexAnsart/demo-studio": {
+  "repo": "AlexAnsart/demo-studio",
+  "url": "https://raw.githubusercontent.com/AlexAnsart/demo-studio/HEAD/docs/assets/hello-demo.gif",
+  "alt": "hello-demo — task app recorded by film-demo",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 4118326,
+  "file": "AlexAnsart__demo-studio.gif",
+  "still": "AlexAnsart__demo-studio.jpg"
+ },
  "Alisa0808/vox-director": {
   "repo": "Alisa0808/vox-director",
   "url": "https://raw.githubusercontent.com/Alisa0808/vox-director/HEAD/assets/thumbs/football.jpg",
@@ -299,16 +309,6 @@
   "file": "Kimeur__motion-launch-videos.gif",
   "still": "Kimeur__motion-launch-videos.jpg"
  },
- "Lanqiao-Luca/ai-video-marker": {
-  "repo": "Lanqiao-Luca/ai-video-marker",
-  "url": "https://raw.githubusercontent.com/Lanqiao-Luca/ai-video-marker/HEAD/docs/images/rooftop-preview.gif",
-  "alt": "像素示例：屋顶晒太阳",
-  "score": 5.0,
-  "type": "image/gif",
-  "bytes": 2972496,
-  "file": "Lanqiao-Luca__ai-video-marker.jpg",
-  "still": "Lanqiao-Luca__ai-video-marker.jpg"
- },
  "Liamrjohnston/remotion-motion-graphics-skill": {
   "repo": "Liamrjohnston/remotion-motion-graphics-skill",
   "url": "https://raw.githubusercontent.com/Liamrjohnston/remotion-motion-graphics-skill/HEAD/previews/tsenta-apply-faster.gif",
@@ -418,6 +418,26 @@
   "bytes": 3031086,
   "file": "RohanRatwani__explainer-video-opus-5.5.gif",
   "still": "RohanRatwani__explainer-video-opus-5.5.jpg"
+ },
+ "SunandBean/paper2video": {
+  "repo": "SunandBean/paper2video",
+  "url": "https://raw.githubusercontent.com/SunandBean/paper2video/HEAD/docs/demo.gif",
+  "alt": "paper2video demo: depth to 3D points, query-based detection, BEV occupancy",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 6077694,
+  "file": "SunandBean__paper2video.gif",
+  "still": "SunandBean__paper2video.jpg"
+ },
+ "SyanChen7/dancing-notes": {
+  "repo": "SyanChen7/dancing-notes",
+  "url": "https://raw.githubusercontent.com/SyanChen7/dancing-notes/HEAD/assets/showcase/dancing-notes-hero.png",
+  "alt": "Dancing Notes：发光小球沿曲谱跳跃的效果示意",
+  "score": -0.5,
+  "type": "image/png",
+  "bytes": 1713312,
+  "file": "SyanChen7__dancing-notes.jpg",
+  "still": "SyanChen7__dancing-notes.jpg"
  },
  "Tejashmakwana/motionmaxxing": {
   "repo": "Tejashmakwana/motionmaxxing",
@@ -839,6 +859,16 @@
   "file": "haiderfarooq3__khan-explainer.jpg",
   "still": "haiderfarooq3__khan-explainer.jpg"
  },
+ "haiderfarooq3/paper-reel": {
+  "repo": "haiderfarooq3/paper-reel",
+  "url": "https://raw.githubusercontent.com/haiderfarooq3/paper-reel/HEAD/docs/strip.jpg",
+  "alt": "Seven scenes from the example reel",
+  "score": 2.0,
+  "type": "image/jpeg",
+  "bytes": 485535,
+  "file": "haiderfarooq3__paper-reel.jpg",
+  "still": "haiderfarooq3__paper-reel.jpg"
+ },
  "hetpatel-11/Adobe_Premiere_Pro_MCP": {
   "repo": "hetpatel-11/Adobe_Premiere_Pro_MCP",
   "url": "https://raw.githubusercontent.com/hetpatel-11/Adobe_Premiere_Pro_MCP/HEAD/images/demo.png",
@@ -868,6 +898,16 @@
   "bytes": 1065142,
   "file": "hi-nikola__hand-drawn-explainer-video-nikola.jpg",
   "still": "hi-nikola__hand-drawn-explainer-video-nikola.jpg"
+ },
+ "hildlabs/openrig-studio": {
+  "repo": "hildlabs/openrig-studio",
+  "url": "https://raw.githubusercontent.com/hildlabs/openrig-studio/HEAD/docs/compare.gif",
+  "alt": "The same backflip prompt from Opus 5.5 and GPT-6-Astra playing in sync in the Co",
+  "score": 2.95,
+  "type": "image/gif",
+  "bytes": 1170253,
+  "file": "hildlabs__openrig-studio.gif",
+  "still": "hildlabs__openrig-studio.jpg"
  },
  "howseen-ai/claude-motion-design": {
   "repo": "howseen-ai/claude-motion-design",
@@ -1269,6 +1309,16 @@
   "file": "pyang5166__gbro-collage-info.gif",
   "still": "pyang5166__gbro-collage-info.jpg"
  },
+ "rafiimanggala/paper-collage-skill": {
+  "repo": "rafiimanggala/paper-collage-skill",
+  "url": "https://raw.githubusercontent.com/rafiimanggala/paper-collage-skill/HEAD/docs/demo.gif",
+  "alt": "Three example scenes: sleep, gym, travel",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 4592132,
+  "file": "rafiimanggala__paper-collage-skill.gif",
+  "still": "rafiimanggala__paper-collage-skill.jpg"
+ },
  "reedodev/explainer-studio": {
   "repo": "reedodev/explainer-studio",
   "url": "https://raw.githubusercontent.com/reedodev/explainer-studio/HEAD/docs/eight-styles.gif",
@@ -1458,6 +1508,16 @@
   "bytes": 1519449,
   "file": "wocha-xiaoli__video-shot-analysis-feishu.jpg",
   "still": "wocha-xiaoli__video-shot-analysis-feishu.jpg"
+ },
+ "y-wi/horizon-montage-generic": {
+  "repo": "y-wi/horizon-montage-generic",
+  "url": "https://raw.githubusercontent.com/y-wi/horizon-montage-generic/HEAD/docs/qa_sheet.jpg",
+  "alt": "QA contact sheet of every cut in the rendered film",
+  "score": 1.9,
+  "type": "image/jpeg",
+  "bytes": 343524,
+  "file": "y-wi__horizon-montage-generic.jpg",
+  "still": "y-wi__horizon-montage-generic.jpg"
  },
  "ymybxx/SoloMCN": {
   "repo": "ymybxx/SoloMCN",
