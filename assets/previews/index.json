@@ -59,6 +59,16 @@
   "file": "AbubakrChan__product-launch-motion.jpg",
   "still": "AbubakrChan__product-launch-motion.jpg"
  },
+ "Acorn2/frame-loom": {
+  "repo": "Acorn2/frame-loom",
+  "url": "https://raw.githubusercontent.com/Acorn2/frame-loom/HEAD/examples/nature-museum-case/previews/highlights.gif",
+  "alt": "FrameLoom 真实案例：开放白板、四阶段图解、自然主题插画与片尾网站入口",
+  "score": 4.75,
+  "type": "image/gif",
+  "bytes": 528772,
+  "file": "Acorn2__frame-loom.gif",
+  "still": "Acorn2__frame-loom.jpg"
+ },
  "Agentchengfeng/chengfeng-video-styles": {
   "repo": "Agentchengfeng/chengfeng-video-styles",
   "url": "https://raw.githubusercontent.com/Agentchengfeng/chengfeng-video-styles/HEAD/assets/preview-tea.jpg",
@@ -418,6 +428,16 @@
   "bytes": 3031086,
   "file": "RohanRatwani__explainer-video-opus-5.5.gif",
   "still": "RohanRatwani__explainer-video-opus-5.5.jpg"
+ },
+ "RoverEva/eva-video-style": {
+  "repo": "RoverEva/eva-video-style",
+  "url": "https://raw.githubusercontent.com/RoverEva/eva-video-style/HEAD/docs/montage.gif",
+  "alt": "Eva Video Style: 21 templates in 8 seconds",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 4077694,
+  "file": "RoverEva__eva-video-style.gif",
+  "still": "RoverEva__eva-video-style.jpg"
  },
  "SunandBean/paper2video": {
   "repo": "SunandBean/paper2video",
@@ -1289,6 +1309,16 @@
   "file": "pjecuacion__script-to-video-skill.jpg",
   "still": "pjecuacion__script-to-video-skill.jpg"
  },
+ "precious112/demo-director": {
+  "repo": "precious112/demo-director",
+  "url": "https://raw.githubusercontent.com/precious112/demo-director/HEAD/media/harbor-walkthrough.gif",
+  "alt": "Harbor walkthrough",
+  "score": 3.0,
+  "type": "image/gif",
+  "bytes": 3792926,
+  "file": "precious112__demo-director.gif",
+  "still": "precious112__demo-director.jpg"
+ },
  "pyang5166/gbro-collage-broll": {
   "repo": "pyang5166/gbro-collage-broll",
   "url": "https://raw.githubusercontent.com/pyang5166/gbro-collage-broll/HEAD/assets/demo-purple.gif",
@@ -1358,6 +1388,16 @@
   "bytes": 1238869,
   "file": "samuelstroschein__opus-video-generator.jpg",
   "still": "samuelstroschein__opus-video-generator.jpg"
+ },
+ "sevenevesai/riso-windowseat": {
+  "repo": "sevenevesai/riso-windowseat",
+  "url": "https://raw.githubusercontent.com/sevenevesai/riso-windowseat/HEAD/films/window-seat/poster.png",
+  "alt": "Window Seat, dawn from the viaduct",
+  "score": 2.0,
+  "type": "image/png",
+  "bytes": 2006191,
+  "file": "sevenevesai__riso-windowseat.jpg",
+  "still": "sevenevesai__riso-windowseat.jpg"
  },
  "sharon-laicc/viral-video-decomposer": {
   "repo": "sharon-laicc/viral-video-decomposer",
