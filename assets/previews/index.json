@@ -299,6 +299,16 @@
   "file": "Johnson-Jia__video-clipforge.jpg",
   "still": "Johnson-Jia__video-clipforge.jpg"
  },
+ "Kanvis-chen/kanvis-video": {
+  "repo": "Kanvis-chen/kanvis-video",
+  "url": "https://raw.githubusercontent.com/Kanvis-chen/kanvis-video/HEAD/assets/workbench-preview.png",
+  "alt": "Kanvis Studio 工作台",
+  "score": 1.45,
+  "type": "image/png",
+  "bytes": 139030,
+  "file": "Kanvis-chen__kanvis-video.jpg",
+  "still": "Kanvis-chen__kanvis-video.jpg"
+ },
  "Kianzzz/xilo-opus-video": {
   "repo": "Kianzzz/xilo-opus-video",
   "url": "https://raw.githubusercontent.com/Kianzzz/xilo-opus-video/HEAD/examples/plan-a-ui.png",
@@ -389,6 +399,16 @@
   "file": "Monet-AI-Editor__Monet.jpg",
   "still": "Monet-AI-Editor__Monet.jpg"
  },
+ "MuhammadaliMS/pixel-studio": {
+  "repo": "MuhammadaliMS/pixel-studio",
+  "url": "https://raw.githubusercontent.com/MuhammadaliMS/pixel-studio/HEAD/media/pisa.gif",
+  "alt": "Tower of Pisa collapsing",
+  "score": 3.0,
+  "type": "image/gif",
+  "bytes": 1474197,
+  "file": "MuhammadaliMS__pixel-studio.gif",
+  "still": "MuhammadaliMS__pixel-studio.jpg"
+ },
  "Nealsun1993/talk-workbench": {
   "repo": "Nealsun1993/talk-workbench",
   "url": "https://raw.githubusercontent.com/Nealsun1993/talk-workbench/HEAD/assets/demo-contact.jpg",
@@ -468,16 +488,6 @@
   "bytes": 1335161,
   "file": "Tejashmakwana__motionmaxxing.gif",
   "still": "Tejashmakwana__motionmaxxing.jpg"
- },
- "Vandit1604/vawe": {
-  "repo": "Vandit1604/vawe",
-  "url": "https://raw.githubusercontent.com/Vandit1604/vawe/HEAD/assets/vawe-demo.gif",
-  "alt": "vawe demo",
-  "score": 5.0,
-  "type": "image/gif",
-  "bytes": 58252,
-  "file": "Vandit1604__vawe.gif",
-  "still": "Vandit1604__vawe.jpg"
  },
  "WhiteTowerAI/cut-as-code": {
   "repo": "WhiteTowerAI/cut-as-code",
@@ -739,6 +749,16 @@
   "file": "davidcervinka__vibe-editing.gif",
   "still": "davidcervinka__vibe-editing.jpg"
  },
+ "denyakortunov/family-travel-editor": {
+  "repo": "denyakortunov/family-travel-editor",
+  "url": "https://raw.githubusercontent.com/denyakortunov/family-travel-editor/HEAD/assets/social-preview.jpg",
+  "alt": "Family Travel Editor: an AI skill for Claude Code and Codex. Three labelled trav",
+  "score": -0.5,
+  "type": "image/jpeg",
+  "bytes": 247602,
+  "file": "denyakortunov__family-travel-editor.jpg",
+  "still": "denyakortunov__family-travel-editor.jpg"
+ },
  "diffusionstudio/lottie": {
   "repo": "diffusionstudio/lottie",
   "url": "https://raw.githubusercontent.com/diffusionstudio/lottie/HEAD/assets/demo-1.gif",
@@ -778,6 +798,16 @@
   "bytes": 1907215,
   "file": "edenfunf__reelmimic.gif",
   "still": "edenfunf__reelmimic.jpg"
+ },
+ "edotheDev/claude-video-kit": {
+  "repo": "edotheDev/claude-video-kit",
+  "url": "https://raw.githubusercontent.com/edotheDev/claude-video-kit/HEAD/docs/examples/slow-story.webp",
+  "alt": "A slow story on archive film with words appearing as they are said",
+  "score": 1.8,
+  "type": "image/webp",
+  "bytes": 1355968,
+  "file": "edotheDev__claude-video-kit.jpg",
+  "still": "edotheDev__claude-video-kit.jpg"
  },
  "erduo1998-cell/erduo-broll-loop-engineering": {
   "repo": "erduo1998-cell/erduo-broll-loop-engineering",
@@ -1508,6 +1538,16 @@
   "bytes": 923032,
   "file": "unclejobs-ai__motion-video-skill.gif",
   "still": "unclejobs-ai__motion-video-skill.jpg"
+ },
+ "vawe-hq/vawe": {
+  "repo": "vawe-hq/vawe",
+  "url": "https://raw.githubusercontent.com/vawe-hq/vawe/HEAD/assets/vawe-demo.gif",
+  "alt": "A vawe page rendering to a film",
+  "score": 4.7,
+  "type": "image/gif",
+  "bytes": 58252,
+  "file": "vawe-hq__vawe.gif",
+  "still": "vawe-hq__vawe.jpg"
  },
  "vibe-motion/remotion-code-motion-explainer": {
   "repo": "vibe-motion/remotion-code-motion-explainer",
