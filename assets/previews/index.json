@@ -489,6 +489,16 @@
   "file": "Tejashmakwana__motionmaxxing.gif",
   "still": "Tejashmakwana__motionmaxxing.jpg"
  },
+ "TheNoumanDev/zero-dollar-studio": {
+  "repo": "TheNoumanDev/zero-dollar-studio",
+  "url": "https://raw.githubusercontent.com/TheNoumanDev/zero-dollar-studio/HEAD/assets/demo-cartoonsmith.gif",
+  "alt": "Super Sharma Parivaar cartoon: a shocked mom in the kitchen, then the family",
+  "score": 4.5,
+  "type": "image/gif",
+  "bytes": 546691,
+  "file": "TheNoumanDev__zero-dollar-studio.gif",
+  "still": "TheNoumanDev__zero-dollar-studio.jpg"
+ },
  "WhiteTowerAI/cut-as-code": {
   "repo": "WhiteTowerAI/cut-as-code",
   "url": "https://img.youtube.com/vi/3yFPOC8kFxU/maxresdefault.jpg",
@@ -608,6 +618,16 @@
   "bytes": 833780,
   "file": "alisadiq-ai__favstash-ai-video-editing-skills.jpg",
   "still": "alisadiq-ai__favstash-ai-video-editing-skills.jpg"
+ },
+ "autoip/dreamfab": {
+  "repo": "autoip/dreamfab",
+  "url": "https://img.youtube.com/vi/ErQCd04OGA8/mqdefault.jpg",
+  "alt": "《黑日聖殿》",
+  "score": 0.0,
+  "type": "image/jpeg",
+  "bytes": 14070,
+  "file": "autoip__dreamfab.jpg",
+  "still": "autoip__dreamfab.jpg"
  },
  "axtonliu/video-illustrator": {
   "repo": "axtonliu/video-illustrator",
@@ -1159,6 +1179,16 @@
   "file": "klsoen__opus-js-animations.jpg",
   "still": "klsoen__opus-js-animations.jpg"
  },
+ "krisyangdev/motionboard": {
+  "repo": "krisyangdev/motionboard",
+  "url": "https://raw.githubusercontent.com/krisyangdev/motionboard/HEAD/assets/readme/film.gif",
+  "alt": "The Motionboard launch film, built from six recipes",
+  "score": 2.35,
+  "type": "image/gif",
+  "bytes": 7367251,
+  "file": "krisyangdev__motionboard.gif",
+  "still": "krisyangdev__motionboard.jpg"
+ },
  "kvrancic/oneshot-video": {
   "repo": "kvrancic/oneshot-video",
   "url": "https://raw.githubusercontent.com/kvrancic/oneshot-video/HEAD/docs/media/clips.gif",
@@ -1238,6 +1268,16 @@
   "bytes": 75993,
   "file": "memex-lab__product-launch-video-skill.jpg",
   "still": "memex-lab__product-launch-video-skill.jpg"
+ },
+ "miguelcotrinaia/claude-skills-shorts-animados": {
+  "repo": "miguelcotrinaia/claude-skills-shorts-animados",
+  "url": "https://raw.githubusercontent.com/miguelcotrinaia/claude-skills-shorts-animados/HEAD/docs/demo.gif",
+  "alt": "Video de ejemplo: Sofi y Chispa explican por qué el cielo es azul",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 1964099,
+  "file": "miguelcotrinaia__claude-skills-shorts-animados.gif",
+  "still": "miguelcotrinaia__claude-skills-shorts-animados.jpg"
  },
  "mikelix/gstack-tutorial-5-agi-race-v2": {
   "repo": "mikelix/gstack-tutorial-5-agi-race-v2",
