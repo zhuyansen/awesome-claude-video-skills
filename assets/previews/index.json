@@ -39,6 +39,16 @@
   "file": "8533502-dev__deepseek-opus-motion-skill.gif",
   "still": "8533502-dev__deepseek-opus-motion-skill.jpg"
  },
+ "AIPMAndy/Andy-Video-Skill": {
+  "repo": "AIPMAndy/Andy-Video-Skill",
+  "url": "https://raw.githubusercontent.com/AIPMAndy/Andy-Video-Skill/HEAD/showcase/assets/images/killer-feature-manim.png",
+  "alt": "Manim output frame — Directors Cut",
+  "score": 1.65,
+  "type": "image/png",
+  "bytes": 807116,
+  "file": "AIPMAndy__Andy-Video-Skill.jpg",
+  "still": "AIPMAndy__Andy-Video-Skill.jpg"
+ },
  "Aaryan-Kapoor/video-production-skill": {
   "repo": "Aaryan-Kapoor/video-production-skill",
   "url": "https://raw.githubusercontent.com/Aaryan-Kapoor/video-production-skill/HEAD/examples/generated/papers/clawmark-living-world-benchmark/exports/clawmark_showcase_preview.gif",
@@ -528,6 +538,16 @@
   "bytes": 119082,
   "file": "Xiangyu-CAS__rea-capcut.jpg",
   "still": "Xiangyu-CAS__rea-capcut.jpg"
+ },
+ "YahyaLendani/motionbrief-claude-skills": {
+  "repo": "YahyaLendani/motionbrief-claude-skills",
+  "url": "https://raw.githubusercontent.com/YahyaLendani/motionbrief-claude-skills/HEAD/docs/intro.gif",
+  "alt": "The MotionBrief intro — logo morph, one sentence, the beat grid, same brief same",
+  "score": 0.25,
+  "type": "image/gif",
+  "bytes": 5707768,
+  "file": "YahyaLendani__motionbrief-claude-skills.gif",
+  "still": "YahyaLendani__motionbrief-claude-skills.jpg"
  },
  "Yuuhann1999/agent-storyboard": {
   "repo": "Yuuhann1999/agent-storyboard",
@@ -1308,6 +1328,16 @@
   "bytes": 572881,
   "file": "mrieck__demoday-claude-plugin.jpg",
   "still": "mrieck__demoday-claude-plugin.jpg"
+ },
+ "mromidev/claude-blender-skills": {
+  "repo": "mromidev/claude-blender-skills",
+  "url": "https://raw.githubusercontent.com/mromidev/claude-blender-skills/HEAD/docs/img/thumbnail.jpg",
+  "alt": "Clay vs final render of the night FPV drone shot",
+  "score": 2.0,
+  "type": "image/jpeg",
+  "bytes": 119610,
+  "file": "mromidev__claude-blender-skills.jpg",
+  "still": "mromidev__claude-blender-skills.jpg"
  },
  "new-xp/ultrademo": {
   "repo": "new-xp/ultrademo",
