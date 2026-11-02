@@ -199,6 +199,16 @@
   "file": "Changroro__code-video.gif",
   "still": "Changroro__code-video.jpg"
  },
+ "ChrisHKAI/ChrisHKAI-Video": {
+  "repo": "ChrisHKAI/ChrisHKAI-Video",
+  "url": "https://raw.githubusercontent.com/ChrisHKAI/ChrisHKAI-Video/HEAD/docs/isnail-intro.jpg",
+  "alt": "蜗牛King",
+  "score": -0.25,
+  "type": "image/jpeg",
+  "bytes": 96413,
+  "file": "ChrisHKAI__ChrisHKAI-Video.jpg",
+  "still": "ChrisHKAI__ChrisHKAI-Video.jpg"
+ },
  "Dancan254/shenghua": {
   "repo": "Dancan254/shenghua",
   "url": "https://raw.githubusercontent.com/Dancan254/shenghua/HEAD/docs/demo.gif",
@@ -909,6 +919,16 @@
   "file": "garycaogan__pixel-diary.jpg",
   "still": "garycaogan__pixel-diary.jpg"
  },
+ "ghost1412/shorts-generator": {
+  "repo": "ghost1412/shorts-generator",
+  "url": "https://raw.githubusercontent.com/ghost1412/shorts-generator/HEAD/demos/demo_clipping_active.gif",
+  "alt": "Podcast clip: the crop cuts to whoever is speaking",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 2528816,
+  "file": "ghost1412__shorts-generator.jpg",
+  "still": "ghost1412__shorts-generator.jpg"
+ },
  "gnipbao/story-to-handdrawn-video": {
   "repo": "gnipbao/story-to-handdrawn-video",
   "url": "https://raw.githubusercontent.com/gnipbao/story-to-handdrawn-video/HEAD/references/style-examples/standard/colored-pencil-diary.png",
@@ -1269,6 +1289,16 @@
   "file": "liaojianquan9-source__ljq-broll-video-generator.gif",
   "still": "liaojianquan9-source__ljq-broll-video-generator.jpg"
  },
+ "mad-helpers/motion-harness": {
+  "repo": "mad-helpers/motion-harness",
+  "url": "https://raw.githubusercontent.com/mad-helpers/motion-harness/HEAD/snapshots/contact-sheet.jpg",
+  "alt": "Contact Sheet",
+  "score": -0.35,
+  "type": "image/jpeg",
+  "bytes": 109229,
+  "file": "mad-helpers__motion-harness.jpg",
+  "still": "mad-helpers__motion-harness.jpg"
+ },
  "magichourhq/skills": {
   "repo": "magichourhq/skills",
   "url": "https://raw.githubusercontent.com/magichourhq/skills/HEAD/examples/midnight-remix/preview.gif",
@@ -1296,7 +1326,7 @@
   "score": 5.0,
   "type": "image/gif",
   "bytes": 1964099,
-  "file": "miguelcotrinaia__claude-skills-shorts-animados.gif",
+  "file": "miguelcotrinaia__claude-skills-shorts-animados.jpg",
   "still": "miguelcotrinaia__claude-skills-shorts-animados.jpg"
  },
  "mikelix/gstack-tutorial-5-agi-race-v2": {
@@ -1588,6 +1618,16 @@
   "bytes": 6280296,
   "file": "timscheuerai__launch-video-kit.gif",
   "still": "timscheuerai__launch-video-kit.jpg"
+ },
+ "tmoody1973/pasteup": {
+  "repo": "tmoody1973/pasteup",
+  "url": "https://raw.githubusercontent.com/tmoody1973/pasteup/HEAD/docs/jazz-history-demo.gif",
+  "alt": "A tiny history of jazz, assembled from paper by pasteup",
+  "score": 4.95,
+  "type": "image/gif",
+  "bytes": 8693586,
+  "file": "tmoody1973__pasteup.jpg",
+  "still": "tmoody1973__pasteup.jpg"
  },
  "trunghaiy/appshot": {
   "repo": "trunghaiy/appshot",
