@@ -789,6 +789,16 @@
   "file": "cymcymcymcym__notes-to-video.gif",
   "still": "cymcymcymcym__notes-to-video.jpg"
  },
+ "dauletbekalim/motion-ui-videos": {
+  "repo": "dauletbekalim/motion-ui-videos",
+  "url": "https://raw.githubusercontent.com/dauletbekalim/motion-ui-videos/HEAD/media/demo.gif",
+  "alt": "The skill",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 3977396,
+  "file": "dauletbekalim__motion-ui-videos.gif",
+  "still": "dauletbekalim__motion-ui-videos.jpg"
+ },
  "davidcervinka/vibe-editing": {
   "repo": "davidcervinka/vibe-editing",
   "url": "https://raw.githubusercontent.com/davidcervinka/vibe-editing/HEAD/demo.gif",
@@ -929,6 +939,16 @@
   "file": "ghost1412__shorts-generator.jpg",
   "still": "ghost1412__shorts-generator.jpg"
  },
+ "gmpetrov/agent-screenplay": {
+  "repo": "gmpetrov/agent-screenplay",
+  "url": "https://raw.githubusercontent.com/gmpetrov/agent-screenplay/HEAD/docs/handoff-storyboard.png",
+  "alt": "Storyboard of an example video",
+  "score": -0.65,
+  "type": "image/png",
+  "bytes": 352146,
+  "file": "gmpetrov__agent-screenplay.jpg",
+  "still": "gmpetrov__agent-screenplay.jpg"
+ },
  "gnipbao/story-to-handdrawn-video": {
   "repo": "gnipbao/story-to-handdrawn-video",
   "url": "https://raw.githubusercontent.com/gnipbao/story-to-handdrawn-video/HEAD/references/style-examples/standard/colored-pencil-diary.png",
@@ -1048,6 +1068,16 @@
   "bytes": 4323726,
   "file": "hub-ki__video-generation.gif",
   "still": "hub-ki__video-generation.jpg"
+ },
+ "hubeiqiao/og-video-preview": {
+  "repo": "hubeiqiao/og-video-preview",
+  "url": "https://raw.githubusercontent.com/hubeiqiao/og-video-preview/HEAD/social/showcase.gif",
+  "alt": "The og:videos the skill made from the og:images of ycombinator.com, x.ai, deno.c",
+  "score": 4.8,
+  "type": "image/gif",
+  "bytes": 2683877,
+  "file": "hubeiqiao__og-video-preview.gif",
+  "still": "hubeiqiao__og-video-preview.jpg"
  },
  "iart-ai/ad-video-skills": {
   "repo": "iart-ai/ad-video-skills",
@@ -1609,6 +1639,16 @@
   "file": "threeaus__creator-style-kit.gif",
   "still": "threeaus__creator-style-kit.jpg"
  },
+ "threerocks/sweety-statechart-video": {
+  "repo": "threerocks/sweety-statechart-video",
+  "url": "https://raw.githubusercontent.com/threerocks/sweety-statechart-video/HEAD/docs/images/frame-step.jpg",
+  "alt": "",
+  "score": 1.75,
+  "type": "image/jpeg",
+  "bytes": 122272,
+  "file": "threerocks__sweety-statechart-video.jpg",
+  "still": "threerocks__sweety-statechart-video.jpg"
+ },
  "timscheuerai/launch-video-kit": {
   "repo": "timscheuerai/launch-video-kit",
   "url": "https://raw.githubusercontent.com/timscheuerai/launch-video-kit/HEAD/assets/preview.gif",
@@ -1708,6 +1748,16 @@
   "bytes": 343524,
   "file": "y-wi__horizon-montage-generic.jpg",
   "still": "y-wi__horizon-montage-generic.jpg"
+ },
+ "yerinsabraham/video-edit-skill": {
+  "repo": "yerinsabraham/video-edit-skill",
+  "url": "https://raw.githubusercontent.com/yerinsabraham/video-edit-skill/HEAD/docs/media/what-it-adds.jpg",
+  "alt": "What the skill added: a word behind the speaker, the skill file as a code window",
+  "score": 1.8,
+  "type": "image/jpeg",
+  "bytes": 137955,
+  "file": "yerinsabraham__video-edit-skill.jpg",
+  "still": "yerinsabraham__video-edit-skill.jpg"
  },
  "ymybxx/SoloMCN": {
   "repo": "ymybxx/SoloMCN",
