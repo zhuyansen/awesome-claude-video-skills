@@ -209,6 +209,16 @@
   "file": "ChrisHKAI__ChrisHKAI-Video.jpg",
   "still": "ChrisHKAI__ChrisHKAI-Video.jpg"
  },
+ "Cuongyd196/remotion-cuongit-template": {
+  "repo": "Cuongyd196/remotion-cuongit-template",
+  "url": "https://raw.githubusercontent.com/Cuongyd196/remotion-cuongit-template/HEAD/assets/skill-topic-explainer.jpg",
+  "alt": "remotion-topic-explainer: giải thích một chủ đề công nghệ",
+  "score": -0.2,
+  "type": "image/jpeg",
+  "bytes": 68141,
+  "file": "Cuongyd196__remotion-cuongit-template.jpg",
+  "still": "Cuongyd196__remotion-cuongit-template.jpg"
+ },
  "Dancan254/shenghua": {
   "repo": "Dancan254/shenghua",
   "url": "https://raw.githubusercontent.com/Dancan254/shenghua/HEAD/docs/demo.gif",
@@ -479,6 +489,26 @@
   "file": "RoverEva__eva-video-style.gif",
   "still": "RoverEva__eva-video-style.jpg"
  },
+ "SallyRS/video-director": {
+  "repo": "SallyRS/video-director",
+  "url": "https://raw.githubusercontent.com/SallyRS/video-director/HEAD/docs/images/storyboard-walkthrough.gif",
+  "alt": "Reviewing a storyboard: flipping through a scene's frames and pinning a note to ",
+  "score": 2.5,
+  "type": "image/gif",
+  "bytes": 6468202,
+  "file": "SallyRS__video-director.gif",
+  "still": "SallyRS__video-director.jpg"
+ },
+ "Shugar86/vids-studio": {
+  "repo": "Shugar86/vids-studio",
+  "url": "https://raw.githubusercontent.com/Shugar86/vids-studio/HEAD/docs/assets/monitor/monitor-desktop-ru.png",
+  "alt": "Vids Studio shared monitor",
+  "score": -0.2,
+  "type": "image/png",
+  "bytes": 258296,
+  "file": "Shugar86__vids-studio.jpg",
+  "still": "Shugar86__vids-studio.jpg"
+ },
  "SunandBean/paper2video": {
   "repo": "SunandBean/paper2video",
   "url": "https://raw.githubusercontent.com/SunandBean/paper2video/HEAD/docs/demo.gif",
@@ -539,16 +569,6 @@
   "file": "Win-Hao__music-mv.gif",
   "still": "Win-Hao__music-mv.jpg"
  },
- "WoYun520/pixel-gif-sticker-pack": {
-  "repo": "WoYun520/pixel-gif-sticker-pack",
-  "url": "https://raw.githubusercontent.com/WoYun520/pixel-gif-sticker-pack/HEAD/examples/whale-maid/preview.gif",
-  "alt": "大肥鱼（鲸鱼娘）精选 12 张动态预览",
-  "score": 5.0,
-  "type": "image/gif",
-  "bytes": 3025745,
-  "file": "WoYun520__pixel-gif-sticker-pack.gif",
-  "still": "WoYun520__pixel-gif-sticker-pack.jpg"
- },
  "Xiangyu-CAS/rea-capcut": {
   "repo": "Xiangyu-CAS/rea-capcut",
   "url": "https://raw.githubusercontent.com/Xiangyu-CAS/rea-capcut/HEAD/docs/screenshots/ui-parity-editor.png",
@@ -568,6 +588,16 @@
   "bytes": 5707768,
   "file": "YahyaLendani__motionbrief-claude-skills.gif",
   "still": "YahyaLendani__motionbrief-claude-skills.jpg"
+ },
+ "YanKaFei/ascii-h3-director": {
+  "repo": "YanKaFei/ascii-h3-director",
+  "url": "https://raw.githubusercontent.com/YanKaFei/ascii-h3-director/HEAD/assets/strip-assemble.png",
+  "alt": "Contact sheet: six evenly spaced frames of Assemble from Sparse Field",
+  "score": 1.65,
+  "type": "image/png",
+  "bytes": 44778,
+  "file": "YanKaFei__ascii-h3-director.jpg",
+  "still": "YanKaFei__ascii-h3-director.jpg"
  },
  "Yuuhann1999/agent-storyboard": {
   "repo": "Yuuhann1999/agent-storyboard",
@@ -649,6 +679,16 @@
   "file": "ahmdd4vd__MotionCraft.gif",
   "still": "ahmdd4vd__MotionCraft.jpg"
  },
+ "alchaincyf/huashu-art-motion": {
+  "repo": "alchaincyf/huashu-art-motion",
+  "url": "https://raw.githubusercontent.com/alchaincyf/huashu-art-motion/HEAD/assets/showcase/mario-claude.gif",
+  "alt": "花叔顶砖触发会员选择，光标从OpenAI移到Claude，获得星芒道具后变大",
+  "score": 2.95,
+  "type": "image/gif",
+  "bytes": 2110438,
+  "file": "alchaincyf__huashu-art-motion.gif",
+  "still": "alchaincyf__huashu-art-motion.jpg"
+ },
  "alexgreensh/anidoodle": {
   "repo": "alexgreensh/anidoodle",
   "url": "https://raw.githubusercontent.com/alexgreensh/anidoodle/HEAD/assets/readme/lesson.gif",
@@ -668,6 +708,16 @@
   "bytes": 833780,
   "file": "alisadiq-ai__favstash-ai-video-editing-skills.jpg",
   "still": "alisadiq-ai__favstash-ai-video-editing-skills.jpg"
+ },
+ "artemiimillier/skill-multik": {
+  "repo": "artemiimillier/skill-multik",
+  "url": "https://raw.githubusercontent.com/artemiimillier/skill-multik/HEAD/docs/strip.jpg",
+  "alt": "Кадры демо",
+  "score": 0.0,
+  "type": "image/jpeg",
+  "bytes": 327786,
+  "file": "artemiimillier__skill-multik.jpg",
+  "still": "artemiimillier__skill-multik.jpg"
  },
  "autoip/dreamfab": {
   "repo": "autoip/dreamfab",
@@ -719,26 +769,6 @@
   "file": "beriki770-ship-it__code-animations.jpg",
   "still": "beriki770-ship-it__code-animations.jpg"
  },
- "blixvip/easyedit": {
-  "repo": "blixvip/easyedit",
-  "url": "https://raw.githubusercontent.com/blixvip/easyedit/HEAD/docs/ui.png",
-  "alt": "easyedit web UI",
-  "score": -0.05,
-  "type": "image/png",
-  "bytes": 103354,
-  "file": "blixvip__easyedit.jpg",
-  "still": "blixvip__easyedit.jpg"
- },
- "brookejlacey/boring-tools": {
-  "repo": "brookejlacey/boring-tools",
-  "url": "https://brookejlacey.com/boring-tools/img/review-page.jpg",
-  "alt": "A review grid with the finished video set",
-  "score": 0.0,
-  "type": "image/jpeg",
-  "bytes": 122016,
-  "file": "brookejlacey__boring-tools.jpg",
-  "still": "brookejlacey__boring-tools.jpg"
- },
  "buildwithhanif/claude-animation-skill": {
   "repo": "buildwithhanif/claude-animation-skill",
   "url": "https://raw.githubusercontent.com/buildwithhanif/claude-animation-skill/HEAD/docs/game-contact.jpg",
@@ -768,6 +798,16 @@
   "bytes": 17435,
   "file": "chenyuxiaojin__cyxj-hyperframes.jpg",
   "still": "chenyuxiaojin__cyxj-hyperframes.jpg"
+ },
+ "chrisopal/narrated-video-studio": {
+  "repo": "chrisopal/narrated-video-studio",
+  "url": "https://raw.githubusercontent.com/chrisopal/narrated-video-studio/HEAD/docs/images/gif_harmonic.gif",
+  "alt": "谐波减速器",
+  "score": 3.0,
+  "type": "image/gif",
+  "bytes": 304289,
+  "file": "chrisopal__narrated-video-studio.gif",
+  "still": "chrisopal__narrated-video-studio.jpg"
  },
  "crawfordxx/paper-cut-video-skill": {
   "repo": "crawfordxx/paper-cut-video-skill",
@@ -909,6 +949,16 @@
   "file": "edotheDev__claude-video-kit.jpg",
   "still": "edotheDev__claude-video-kit.jpg"
  },
+ "ekomen77/erko-ai-video-engine": {
+  "repo": "ekomen77/erko-ai-video-engine",
+  "url": "https://raw.githubusercontent.com/ekomen77/erko-ai-video-engine/HEAD/assets/demo_tr.gif",
+  "alt": "Türkçe demo — 32 saniyelik tanıtım",
+  "score": 4.9,
+  "type": "image/gif",
+  "bytes": 8796324,
+  "file": "ekomen77__erko-ai-video-engine.gif",
+  "still": "ekomen77__erko-ai-video-engine.jpg"
+ },
  "erduo1998-cell/erduo-broll-loop-engineering": {
   "repo": "erduo1998-cell/erduo-broll-loop-engineering",
   "url": "https://raw.githubusercontent.com/erduo1998-cell/erduo-broll-loop-engineering/HEAD/docs/images/demos/homepage-showcase.gif",
@@ -948,6 +998,16 @@
   "bytes": 393735,
   "file": "eternityspring__reelbench-skills.jpg",
   "still": "eternityspring__reelbench-skills.jpg"
+ },
+ "fantuan-lab/animated-sticker-studio": {
+  "repo": "fantuan-lab/animated-sticker-studio",
+  "url": "https://raw.githubusercontent.com/fantuan-lab/animated-sticker-studio/HEAD/examples/onigiri-cat/gif/001-%E6%94%B6%E5%88%B0.gif",
+  "alt": "001-收到",
+  "score": 2.65,
+  "type": "image/gif",
+  "bytes": 381883,
+  "file": "fantuan-lab__animated-sticker-studio.gif",
+  "still": "fantuan-lab__animated-sticker-studio.jpg"
  },
  "fltman/infofilm": {
   "repo": "fltman/infofilm",
@@ -1119,6 +1179,16 @@
   "file": "hubeiqiao__og-video-preview.gif",
   "still": "hubeiqiao__og-video-preview.jpg"
  },
+ "hughminhphan/motion-kit": {
+  "repo": "hughminhphan/motion-kit",
+  "url": "https://raw.githubusercontent.com/hughminhphan/motion-kit/HEAD/examples/before-after/before-after.gif",
+  "alt": "before and after",
+  "score": 3.0,
+  "type": "image/gif",
+  "bytes": 1819413,
+  "file": "hughminhphan__motion-kit.gif",
+  "still": "hughminhphan__motion-kit.jpg"
+ },
  "iart-ai/ad-video-skills": {
   "repo": "iart-ai/ad-video-skills",
   "url": "https://raw.githubusercontent.com/iart-ai/ad-video-skills/HEAD/showcase.gif",
@@ -1278,6 +1348,26 @@
   "bytes": 106966,
   "file": "jaxxchen003__book-video-factory.jpg",
   "still": "jaxxchen003__book-video-factory.jpg"
+ },
+ "jjietay/kaleidoscope": {
+  "repo": "jjietay/kaleidoscope",
+  "url": "https://raw.githubusercontent.com/jjietay/kaleidoscope/HEAD/gallery/png/clay-cancel.png",
+  "alt": "The clay mascot pushes a cart on a spring while two terms of the formula above a",
+  "score": 0.0,
+  "type": "image/png",
+  "bytes": 245257,
+  "file": "jjietay__kaleidoscope.jpg",
+  "still": "jjietay__kaleidoscope.jpg"
+ },
+ "kajisho5/remotion-ffmpeg-skill": {
+  "repo": "kajisho5/remotion-ffmpeg-skill",
+  "url": "https://raw.githubusercontent.com/kajisho5/remotion-ffmpeg-skill/media/assets/demo-jumpcut.gif",
+  "alt": "Jumpcut: the silences ffmpeg-skill measured are gone, every other cut punches in",
+  "score": 4.85,
+  "type": "image/gif",
+  "bytes": 2943591,
+  "file": "kajisho5__remotion-ffmpeg-skill.gif",
+  "still": "kajisho5__remotion-ffmpeg-skill.jpg"
  },
  "klsoen/opus-js-animations": {
   "repo": "klsoen/opus-js-animations",
@@ -1439,6 +1529,16 @@
   "file": "mromidev__claude-blender-skills.jpg",
   "still": "mromidev__claude-blender-skills.jpg"
  },
+ "murathany7/reel-studio": {
+  "repo": "murathany7/reel-studio",
+  "url": "https://raw.githubusercontent.com/murathany7/reel-studio/HEAD/docs/media/bike-logger-strip.jpg",
+  "alt": "Frames from the Bike Logger reel",
+  "score": 1.6,
+  "type": "image/jpeg",
+  "bytes": 87675,
+  "file": "murathany7__reel-studio.jpg",
+  "still": "murathany7__reel-studio.jpg"
+ },
  "new-xp/ultrademo": {
   "repo": "new-xp/ultrademo",
   "url": "https://raw.githubusercontent.com/new-xp/ultrademo/HEAD/docs/notion-tracker-2026-07-10.gif",
@@ -1458,6 +1558,16 @@
   "bytes": 71856,
   "file": "noamdorr__saas-product-demo-video.jpg",
   "still": "noamdorr__saas-product-demo-video.jpg"
+ },
+ "nocodehack/make-short": {
+  "repo": "nocodehack/make-short",
+  "url": "https://raw.githubusercontent.com/nocodehack/make-short/HEAD/assets/before-first-render.png",
+  "alt": "First render: magenta night, red ground",
+  "score": -0.05,
+  "type": "image/png",
+  "bytes": 266274,
+  "file": "nocodehack__make-short.jpg",
+  "still": "nocodehack__make-short.jpg"
  },
  "nolangz/pixel2motion": {
   "repo": "nolangz/pixel2motion",
@@ -1599,6 +1709,16 @@
   "file": "samuelstroschein__opus-video-generator.jpg",
   "still": "samuelstroschein__opus-video-generator.jpg"
  },
+ "sepi2p/research-explainer-skill": {
+  "repo": "sepi2p/research-explainer-skill",
+  "url": "https://raw.githubusercontent.com/sepi2p/research-explainer-skill/HEAD/docs/net_en.png",
+  "alt": "English demo frame",
+  "score": 2.0,
+  "type": "image/png",
+  "bytes": 372167,
+  "file": "sepi2p__research-explainer-skill.jpg",
+  "still": "sepi2p__research-explainer-skill.jpg"
+ },
  "sevenevesai/riso-windowseat": {
   "repo": "sevenevesai/riso-windowseat",
   "url": "https://raw.githubusercontent.com/sevenevesai/riso-windowseat/HEAD/films/window-seat/poster.png",
@@ -1648,6 +1768,16 @@
   "bytes": 1404644,
   "file": "smwbev__framewright.jpg",
   "still": "smwbev__framewright.jpg"
+ },
+ "social-media-skills/remotion-shorts-skill": {
+  "repo": "social-media-skills/remotion-shorts-skill",
+  "url": "https://raw.githubusercontent.com/social-media-skills/remotion-shorts-skill/HEAD/skills/remotion-shorts-skill/examples/showcase.png",
+  "alt": "Four frames from shorts made with the skill: \"2.5% of Earth's water is fresh\" ov",
+  "score": 2.0,
+  "type": "image/png",
+  "bytes": 968720,
+  "file": "social-media-skills__remotion-shorts-skill.jpg",
+  "still": "social-media-skills__remotion-shorts-skill.jpg"
  },
  "sub-level/marketing-videos": {
   "repo": "sub-level/marketing-videos",
