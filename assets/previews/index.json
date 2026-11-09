@@ -809,6 +809,16 @@
   "file": "chrisopal__narrated-video-studio.gif",
   "still": "chrisopal__narrated-video-studio.jpg"
  },
+ "codie1982/chorono-editor": {
+  "repo": "codie1982/chorono-editor",
+  "url": "https://raw.githubusercontent.com/codie1982/chorono-editor/HEAD/examples/first-animation/preview.png",
+  "alt": "An editable Chorono scene with a headline and three colored circles",
+  "score": 2.0,
+  "type": "image/png",
+  "bytes": 90513,
+  "file": "codie1982__chorono-editor.jpg",
+  "still": "codie1982__chorono-editor.jpg"
+ },
  "crawfordxx/paper-cut-video-skill": {
   "repo": "crawfordxx/paper-cut-video-skill",
   "url": "https://raw.githubusercontent.com/crawfordxx/paper-cut-video-skill/HEAD/demo/character-layer-template.jpg",
@@ -1349,16 +1359,6 @@
   "file": "jaxxchen003__book-video-factory.jpg",
   "still": "jaxxchen003__book-video-factory.jpg"
  },
- "jjietay/kaleidoscope": {
-  "repo": "jjietay/kaleidoscope",
-  "url": "https://raw.githubusercontent.com/jjietay/kaleidoscope/HEAD/gallery/png/clay-cancel.png",
-  "alt": "The clay mascot pushes a cart on a spring while two terms of the formula above a",
-  "score": 0.0,
-  "type": "image/png",
-  "bytes": 245257,
-  "file": "jjietay__kaleidoscope.jpg",
-  "still": "jjietay__kaleidoscope.jpg"
- },
  "kajisho5/remotion-ffmpeg-skill": {
   "repo": "kajisho5/remotion-ffmpeg-skill",
   "url": "https://raw.githubusercontent.com/kajisho5/remotion-ffmpeg-skill/media/assets/demo-jumpcut.gif",
@@ -1448,6 +1448,16 @@
   "bytes": 6152987,
   "file": "liaojianquan9-source__ljq-broll-video-generator.gif",
   "still": "liaojianquan9-source__ljq-broll-video-generator.jpg"
+ },
+ "lisamsung/agent-meme-forge": {
+  "repo": "lisamsung/agent-meme-forge",
+  "url": "https://raw.githubusercontent.com/lisamsung/agent-meme-forge/HEAD/docs/assets/ai-mascot-shoudao-lixian.gif",
+  "alt": "HR已读",
+  "score": 2.65,
+  "type": "image/gif",
+  "bytes": 270985,
+  "file": "lisamsung__agent-meme-forge.gif",
+  "still": "lisamsung__agent-meme-forge.jpg"
  },
  "mad-helpers/motion-harness": {
   "repo": "mad-helpers/motion-harness",
