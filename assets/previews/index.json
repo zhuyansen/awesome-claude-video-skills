@@ -149,6 +149,16 @@
   "file": "AmitSubhash__3brown1blue.gif",
   "still": "AmitSubhash__3brown1blue.jpg"
  },
+ "AnmolChandiok/claude-after-effects-skill": {
+  "repo": "AnmolChandiok/claude-after-effects-skill",
+  "url": "https://raw.githubusercontent.com/AnmolChandiok/claude-after-effects-skill/HEAD/docs/images/code-vs-ae.jpg",
+  "alt": "Side-by-side: code render on the left, After Effects on the right",
+  "score": -0.05,
+  "type": "image/jpeg",
+  "bytes": 137336,
+  "file": "AnmolChandiok__claude-after-effects-skill.jpg",
+  "still": "AnmolChandiok__claude-after-effects-skill.jpg"
+ },
  "Arman-Luthra/aftr": {
   "repo": "Arman-Luthra/aftr",
   "url": "https://raw.githubusercontent.com/Arman-Luthra/aftr/HEAD/docs/pals-title-demo.gif",
@@ -419,6 +429,16 @@
   "file": "Moessif__code-video-showcase.jpg",
   "still": "Moessif__code-video-showcase.jpg"
  },
+ "Moh4696/cinematic-skill": {
+  "repo": "Moh4696/cinematic-skill",
+  "url": "https://raw.githubusercontent.com/Moh4696/cinematic-skill/HEAD/examples/film-cold-open.webp",
+  "alt": "The cold open of a code-built documentary about the first flight: the date set b",
+  "score": 1.85,
+  "type": "image/webp",
+  "bytes": 1871336,
+  "file": "Moh4696__cinematic-skill.jpg",
+  "still": "Moh4696__cinematic-skill.jpg"
+ },
  "Monet-AI-Editor/Monet": {
   "repo": "Monet-AI-Editor/Monet",
   "url": "https://raw.githubusercontent.com/Monet-AI-Editor/Monet/HEAD/resources/ai_demo.png",
@@ -578,6 +598,16 @@
   "bytes": 119082,
   "file": "Xiangyu-CAS__rea-capcut.jpg",
   "still": "Xiangyu-CAS__rea-capcut.jpg"
+ },
+ "XuHo-IT/Content-Agent-Kit": {
+  "repo": "XuHo-IT/Content-Agent-Kit",
+  "url": "https://raw.githubusercontent.com/XuHo-IT/Content-Agent-Kit/HEAD/examples/gallery/gallery-opus.jpg",
+  "alt": "Opus 5.5 Style Recipes",
+  "score": 1.6,
+  "type": "image/jpeg",
+  "bytes": 80316,
+  "file": "XuHo-IT__Content-Agent-Kit.jpg",
+  "still": "XuHo-IT__Content-Agent-Kit.jpg"
  },
  "YahyaLendani/motionbrief-claude-skills": {
   "repo": "YahyaLendani/motionbrief-claude-skills",
@@ -1029,6 +1059,16 @@
   "file": "fltman__infofilm.jpg",
   "still": "fltman__infofilm.jpg"
  },
+ "frankShan001/CutVoke": {
+  "repo": "frankShan001/CutVoke",
+  "url": "https://raw.githubusercontent.com/frankShan001/CutVoke/HEAD/examples/showcases/chase-the-light/previews/motorcycle-case_en.gif",
+  "alt": "Raw AI-generated shots, then the finished CutVoke edit",
+  "score": 2.7,
+  "type": "image/gif",
+  "bytes": 3039854,
+  "file": "frankShan001__CutVoke.gif",
+  "still": "frankShan001__CutVoke.jpg"
+ },
  "garycaogan/pixel-diary": {
   "repo": "garycaogan/pixel-diary",
   "url": "https://raw.githubusercontent.com/garycaogan/pixel-diary/HEAD/docs/demo.jpg",
@@ -1038,16 +1078,6 @@
   "bytes": 154468,
   "file": "garycaogan__pixel-diary.jpg",
   "still": "garycaogan__pixel-diary.jpg"
- },
- "ghost1412/shorts-generator": {
-  "repo": "ghost1412/shorts-generator",
-  "url": "https://raw.githubusercontent.com/ghost1412/shorts-generator/HEAD/demos/demo_clipping_active.gif",
-  "alt": "Podcast clip: the crop cuts to whoever is speaking",
-  "score": 5.0,
-  "type": "image/gif",
-  "bytes": 2528816,
-  "file": "ghost1412__shorts-generator.jpg",
-  "still": "ghost1412__shorts-generator.jpg"
  },
  "gmpetrov/agent-screenplay": {
   "repo": "gmpetrov/agent-screenplay",
@@ -1198,6 +1228,16 @@
   "bytes": 1819413,
   "file": "hughminhphan__motion-kit.gif",
   "still": "hughminhphan__motion-kit.jpg"
+ },
+ "huynhcongdac/story-video-skill": {
+  "repo": "huynhcongdac/story-video-skill",
+  "url": "https://raw.githubusercontent.com/huynhcongdac/story-video-skill/HEAD/docs/preview.gif",
+  "alt": "Trích đoạn video làm bằng skill này",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 1959389,
+  "file": "huynhcongdac__story-video-skill.jpg",
+  "still": "huynhcongdac__story-video-skill.jpg"
  },
  "iart-ai/ad-video-skills": {
   "repo": "iart-ai/ad-video-skills",
@@ -1358,6 +1398,16 @@
   "bytes": 106966,
   "file": "jaxxchen003__book-video-factory.jpg",
   "still": "jaxxchen003__book-video-factory.jpg"
+ },
+ "jjietay/clayducation": {
+  "repo": "jjietay/clayducation",
+  "url": "https://raw.githubusercontent.com/jjietay/clayducation/main/gallery/png/clay-cancel.png",
+  "alt": "The clay mascot pushes a cart on a spring while two terms of the formula above a",
+  "score": 0.0,
+  "type": "image/png",
+  "bytes": 245257,
+  "file": "jjietay__clayducation.jpg",
+  "still": "jjietay__clayducation.jpg"
  },
  "kajisho5/remotion-ffmpeg-skill": {
   "repo": "kajisho5/remotion-ffmpeg-skill",
@@ -1688,6 +1738,16 @@
   "bytes": 3320990,
   "file": "revfactory__showreel.gif",
   "still": "revfactory__showreel.jpg"
+ },
+ "rjmahesh/ui-redline-walkthrough": {
+  "repo": "rjmahesh/ui-redline-walkthrough",
+  "url": "https://raw.githubusercontent.com/rjmahesh/ui-redline-walkthrough/HEAD/examples/chat-response-redesign-preview.png",
+  "alt": "Chat response redesign walkthrough",
+  "score": 2.0,
+  "type": "image/png",
+  "bytes": 165166,
+  "file": "rjmahesh__ui-redline-walkthrough.jpg",
+  "still": "rjmahesh__ui-redline-walkthrough.jpg"
  },
  "rock3r/cav": {
   "repo": "rock3r/cav",
