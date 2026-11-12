@@ -1,4 +1,14 @@
 {
+ "0xS4N4TG/kinetograph": {
+  "repo": "0xS4N4TG/kinetograph",
+  "url": "https://raw.githubusercontent.com/0xS4N4TG/kinetograph/HEAD/docs/readme/showcase.gif",
+  "alt": "Showcase example",
+  "score": 4.95,
+  "type": "image/gif",
+  "bytes": 564910,
+  "file": "0xS4N4TG__kinetograph.gif",
+  "still": "0xS4N4TG__kinetograph.jpg"
+ },
  "0xS4N4TG/papercut-explainer": {
   "repo": "0xS4N4TG/papercut-explainer",
   "url": "https://raw.githubusercontent.com/0xS4N4TG/papercut-explainer/HEAD/docs/img/hello-reel.gif",
@@ -18,6 +28,16 @@
   "bytes": 64218,
   "file": "10291124jcjc-dotcom__ancient-rap-battle.jpg",
   "still": "10291124jcjc-dotcom__ancient-rap-battle.jpg"
+ },
+ "10291124jcjc-dotcom/motion-reel": {
+  "repo": "10291124jcjc-dotcom/motion-reel",
+  "url": "https://raw.githubusercontent.com/10291124jcjc-dotcom/motion-reel/HEAD/docs/compare.gif",
+  "alt": "有 skill vs 无 skill",
+  "score": 3.0,
+  "type": "image/gif",
+  "bytes": 2305577,
+  "file": "10291124jcjc-dotcom__motion-reel.gif",
+  "still": "10291124jcjc-dotcom__motion-reel.jpg"
  },
  "124zhe/xigua-msvideo-skill": {
   "repo": "124zhe/xigua-msvideo-skill",
@@ -58,6 +78,16 @@
   "bytes": 84148,
   "file": "Aaryan-Kapoor__video-production-skill.gif",
   "still": "Aaryan-Kapoor__video-production-skill.jpg"
+ },
+ "Abhinav-murugan1/Aria": {
+  "repo": "Abhinav-murugan1/Aria",
+  "url": "https://raw.githubusercontent.com/Abhinav-murugan1/Aria/HEAD/assets/cover.png",
+  "alt": "Aria",
+  "score": -2.5,
+  "type": "image/png",
+  "bytes": 287639,
+  "file": "Abhinav-murugan1__Aria.jpg",
+  "still": "Abhinav-murugan1__Aria.jpg"
  },
  "AbubakrChan/product-launch-motion": {
   "repo": "AbubakrChan/product-launch-motion",
@@ -239,6 +269,16 @@
   "file": "Dancan254__shenghua.gif",
   "still": "Dancan254__shenghua.jpg"
  },
+ "DbgKinggg/plotbeat": {
+  "repo": "DbgKinggg/plotbeat",
+  "url": "https://raw.githubusercontent.com/DbgKinggg/plotbeat/HEAD/docs/assets/previews/single-line.gif",
+  "alt": "Animated Single-line Story preview",
+  "score": 4.95,
+  "type": "image/gif",
+  "bytes": 734726,
+  "file": "DbgKinggg__plotbeat.gif",
+  "still": "DbgKinggg__plotbeat.jpg"
+ },
  "EGSECDA/vocaloid-style-mv-pipeline": {
   "repo": "EGSECDA/vocaloid-style-mv-pipeline",
   "url": "https://raw.githubusercontent.com/EGSECDA/vocaloid-style-mv-pipeline/HEAD/docs/images/vertical_strip.jpg",
@@ -308,6 +348,16 @@
   "bytes": 3290889,
   "file": "IskakovDamir__apple-motion.gif",
   "still": "IskakovDamir__apple-motion.jpg"
+ },
+ "JDhruv14/line-art-animation": {
+  "repo": "JDhruv14/line-art-animation",
+  "url": "https://raw.githubusercontent.com/JDhruv14/line-art-animation/HEAD/media/walker.gif",
+  "alt": "The walker example: a man with a briefcase and a red scarf walking past a lamp p",
+  "score": 4.85,
+  "type": "image/gif",
+  "bytes": 247506,
+  "file": "JDhruv14__line-art-animation.gif",
+  "still": "JDhruv14__line-art-animation.jpg"
  },
  "JohnChow90/video-shotcraft": {
   "repo": "JohnChow90/video-shotcraft",
@@ -408,6 +458,16 @@
   "bytes": 23566,
   "file": "MakeMyClip__editor.jpg",
   "still": "MakeMyClip__editor.jpg"
+ },
+ "Matteoikarieth96/cartoon-shorts-skill": {
+  "repo": "Matteoikarieth96/cartoon-shorts-skill",
+  "url": "https://raw.githubusercontent.com/Matteoikarieth96/cartoon-shorts-skill/HEAD/references/styles/comic.jpg",
+  "alt": "comic",
+  "score": 0.0,
+  "type": "image/jpeg",
+  "bytes": 124358,
+  "file": "Matteoikarieth96__cartoon-shorts-skill.jpg",
+  "still": "Matteoikarieth96__cartoon-shorts-skill.jpg"
  },
  "Matteoikarieth96/whiteboard-video-skill": {
   "repo": "Matteoikarieth96/whiteboard-video-skill",
@@ -548,6 +608,16 @@
   "bytes": 1713312,
   "file": "SyanChen7__dancing-notes.jpg",
   "still": "SyanChen7__dancing-notes.jpg"
+ },
+ "SyedBahjat/claude-stickman-shorts": {
+  "repo": "SyedBahjat/claude-stickman-shorts",
+  "url": "https://raw.githubusercontent.com/SyedBahjat/claude-stickman-shorts/HEAD/assets/lasttrain-p1.gif",
+  "alt": "",
+  "score": 2.65,
+  "type": "image/gif",
+  "bytes": 463916,
+  "file": "SyedBahjat__claude-stickman-shorts.gif",
+  "still": "SyedBahjat__claude-stickman-shorts.jpg"
  },
  "Tejashmakwana/motionmaxxing": {
   "repo": "Tejashmakwana/motionmaxxing",
@@ -809,6 +879,16 @@
   "file": "buildwithhanif__claude-animation-skill.jpg",
   "still": "buildwithhanif__claude-animation-skill.jpg"
  },
+ "cclank/lanshu-animated-architecture-diagram": {
+  "repo": "cclank/lanshu-animated-architecture-diagram",
+  "url": "https://raw.githubusercontent.com/cclank/lanshu-animated-architecture-diagram/HEAD/assets/previews/claude-loops.gif",
+  "alt": "Claude Loops animated architecture diagram",
+  "score": 0.2,
+  "type": "image/gif",
+  "bytes": 7740963,
+  "file": "cclank__lanshu-animated-architecture-diagram.gif",
+  "still": "cclank__lanshu-animated-architecture-diagram.jpg"
+ },
  "charlie947/motion-graphics-skills": {
   "repo": "charlie947/motion-graphics-skills",
   "url": "https://raw.githubusercontent.com/charlie947/motion-graphics-skills/HEAD/assets/readme/demo-launch.gif",
@@ -838,6 +918,16 @@
   "bytes": 304289,
   "file": "chrisopal__narrated-video-studio.gif",
   "still": "chrisopal__narrated-video-studio.jpg"
+ },
+ "clipugc/ClipUGC-CLI": {
+  "repo": "clipugc/ClipUGC-CLI",
+  "url": "https://raw.githubusercontent.com/clipugc/ClipUGC-CLI/HEAD/docs/images/reaction.gif",
+  "alt": "A silent reaction clip, the AI influencer glances down at the phone, back up to ",
+  "score": 2.9,
+  "type": "image/gif",
+  "bytes": 1086234,
+  "file": "clipugc__ClipUGC-CLI.jpg",
+  "still": "clipugc__ClipUGC-CLI.jpg"
  },
  "codie1982/chorono-editor": {
   "repo": "codie1982/chorono-editor",
@@ -918,6 +1008,16 @@
   "bytes": 8421017,
   "file": "davidcervinka__vibe-editing.gif",
   "still": "davidcervinka__vibe-editing.jpg"
+ },
+ "deenukhan/animation-styles": {
+  "repo": "deenukhan/animation-styles",
+  "url": "https://raw.githubusercontent.com/deenukhan/animation-styles/HEAD/media/thumbs/05_notepad_doodle.webp",
+  "alt": "Notepad doodle animation style",
+  "score": 1.9,
+  "type": "image/webp",
+  "bytes": 196142,
+  "file": "deenukhan__animation-styles.jpg",
+  "still": "deenukhan__animation-styles.jpg"
  },
  "denyakortunov/family-travel-editor": {
   "repo": "denyakortunov/family-travel-editor",
@@ -1259,6 +1359,16 @@
   "file": "iart-ai__data-animation-skills.gif",
   "still": "iart-ai__data-animation-skills.jpg"
  },
+ "iart-ai/ecommerce-video-skills": {
+  "repo": "iart-ai/ecommerce-video-skills",
+  "url": "https://raw.githubusercontent.com/iart-ai/ecommerce-video-skills/HEAD/showcase.gif",
+  "alt": "E-Commerce Video Skills — animated showcase",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 4007764,
+  "file": "iart-ai__ecommerce-video-skills.gif",
+  "still": "iart-ai__ecommerce-video-skills.jpg"
+ },
  "iart-ai/explainer-video-skills": {
   "repo": "iart-ai/explainer-video-skills",
   "url": "https://raw.githubusercontent.com/iart-ai/explainer-video-skills/HEAD/showcase.gif",
@@ -1268,6 +1378,16 @@
   "bytes": 3372389,
   "file": "iart-ai__explainer-video-skills.gif",
   "still": "iart-ai__explainer-video-skills.jpg"
+ },
+ "iart-ai/javascript-animation-skills": {
+  "repo": "iart-ai/javascript-animation-skills",
+  "url": "https://raw.githubusercontent.com/iart-ai/javascript-animation-skills/HEAD/showcase.gif",
+  "alt": "JavaScript Animation Skills: \"I only asked you to fix one line\", a 30-second fil",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 3095476,
+  "file": "iart-ai__javascript-animation-skills.gif",
+  "still": "iart-ai__javascript-animation-skills.jpg"
  },
  "iart-ai/kinetic-typography-skills": {
   "repo": "iart-ai/kinetic-typography-skills",
@@ -1479,16 +1599,6 @@
   "file": "ledbetterljoshua__functional-emotions-video.jpg",
   "still": "ledbetterljoshua__functional-emotions-video.jpg"
  },
- "lemomo-ai/lemo-opuscar": {
-  "repo": "lemomo-ai/lemo-opuscar",
-  "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/HEAD/docs/frames/silent-film.jpg",
-  "alt": "1920s Silent Film",
-  "score": 0.35,
-  "type": "image/jpeg",
-  "bytes": 57845,
-  "file": "lemomo-ai__lemo-opuscar.jpg",
-  "still": "lemomo-ai__lemo-opuscar.jpg"
- },
  "liaojianquan9-source/ljq-broll-video-generator": {
   "repo": "liaojianquan9-source/ljq-broll-video-generator",
   "url": "https://raw.githubusercontent.com/liaojianquan9-source/ljq-broll-video-generator/HEAD/examples/kimi-k3-000-011/media/comparison-preview.gif",
@@ -1599,6 +1709,16 @@
   "file": "murathany7__reel-studio.jpg",
   "still": "murathany7__reel-studio.jpg"
  },
+ "neurolena1/video-effects-pack": {
+  "repo": "neurolena1/video-effects-pack",
+  "url": "https://raw.githubusercontent.com/neurolena1/video-effects-pack/HEAD/docs/effects-grid-47.webp",
+  "alt": "All 47 effects, a 20-second animation",
+  "score": -0.05,
+  "type": "image/webp",
+  "bytes": 5147502,
+  "file": "neurolena1__video-effects-pack.jpg",
+  "still": "neurolena1__video-effects-pack.jpg"
+ },
  "new-xp/ultrademo": {
   "repo": "new-xp/ultrademo",
   "url": "https://raw.githubusercontent.com/new-xp/ultrademo/HEAD/docs/notion-tracker-2026-07-10.gif",
@@ -1608,6 +1728,16 @@
   "bytes": 5262732,
   "file": "new-xp__ultrademo.gif",
   "still": "new-xp__ultrademo.jpg"
+ },
+ "nexu-io/openmotion": {
+  "repo": "nexu-io/openmotion",
+  "url": "https://raw.githubusercontent.com/nexu-io/openmotion/HEAD/docs/readme/live-templates/many-possible-futures.gif",
+  "alt": "Build a story from multiple scenes",
+  "score": 4.35,
+  "type": "image/gif",
+  "bytes": 1510425,
+  "file": "nexu-io__openmotion.gif",
+  "still": "nexu-io__openmotion.jpg"
  },
  "noamdorr/saas-product-demo-video": {
   "repo": "noamdorr/saas-product-demo-video",
@@ -2018,6 +2148,16 @@
   "bytes": 443217,
   "file": "ymybxx__SoloMCN.jpg",
   "still": "ymybxx__SoloMCN.jpg"
+ },
+ "zenitlab/video-as-code": {
+  "repo": "zenitlab/video-as-code",
+  "url": "https://raw.githubusercontent.com/zenitlab/video-as-code/HEAD/docs/images/showcase.gif",
+  "alt": "五支成片的开场合集",
+  "score": 4.85,
+  "type": "image/gif",
+  "bytes": 2100354,
+  "file": "zenitlab__video-as-code.gif",
+  "still": "zenitlab__video-as-code.jpg"
  },
  "zenstory-ai/video-recap-skills": {
   "repo": "zenstory-ai/video-recap-skills",
