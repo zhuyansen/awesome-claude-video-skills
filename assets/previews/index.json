@@ -209,6 +209,16 @@
   "file": "AsadMoulviDev__reel-video.jpg",
   "still": "AsadMoulviDev__reel-video.jpg"
  },
+ "BusyBee3333/viral-video-edit-skills": {
+  "repo": "BusyBee3333/viral-video-edit-skills",
+  "url": "https://raw.githubusercontent.com/BusyBee3333/viral-video-edit-skills/HEAD/demo/gifs/subject_kaleido.gif",
+  "alt": "the person folds into a kaleidoscope of themselves while the background is compl",
+  "score": 3.0,
+  "type": "image/gif",
+  "bytes": 1489086,
+  "file": "BusyBee3333__viral-video-edit-skills.jpg",
+  "still": "BusyBee3333__viral-video-edit-skills.jpg"
+ },
  "Cassette-Editor/oh-my-cassette": {
   "repo": "Cassette-Editor/oh-my-cassette",
   "url": "https://raw.githubusercontent.com/Cassette-Editor/oh-my-cassette/HEAD/assets/banner.jpg",
@@ -849,6 +859,16 @@
   "file": "bangtutorial__bang-motion.jpg",
   "still": "bangtutorial__bang-motion.jpg"
  },
+ "bassimeledath/manimate": {
+  "repo": "bassimeledath/manimate",
+  "url": "https://raw.githubusercontent.com/bassimeledath/manimate/HEAD/public/manimate-intro.gif",
+  "alt": "How manimate works",
+  "score": 3.0,
+  "type": "image/gif",
+  "bytes": 1296190,
+  "file": "bassimeledath__manimate.gif",
+  "still": "bassimeledath__manimate.jpg"
+ },
  "bbylw/hyperframes-cn": {
   "repo": "bbylw/hyperframes-cn",
   "url": "https://static.heygen.ai/hyperframes-oss/docs/images/design-templates/blockframe.png",
@@ -928,6 +948,16 @@
   "bytes": 1086234,
   "file": "clipugc__ClipUGC-CLI.jpg",
   "still": "clipugc__ClipUGC-CLI.jpg"
+ },
+ "codepawl/creator-generalist": {
+  "repo": "codepawl/creator-generalist",
+  "url": "https://raw.githubusercontent.com/codepawl/creator-generalist/HEAD/assets/mill.gif",
+  "alt": "A 3D water mill cutaway with the wheel, gears and water moving",
+  "score": 2.75,
+  "type": "image/gif",
+  "bytes": 2324907,
+  "file": "codepawl__creator-generalist.gif",
+  "still": "codepawl__creator-generalist.jpg"
  },
  "codie1982/chorono-editor": {
   "repo": "codie1982/chorono-editor",
@@ -1148,6 +1178,16 @@
   "bytes": 381883,
   "file": "fantuan-lab__animated-sticker-studio.gif",
   "still": "fantuan-lab__animated-sticker-studio.jpg"
+ },
+ "fendouai/ViralForge": {
+  "repo": "fendouai/ViralForge",
+  "url": "https://raw.githubusercontent.com/fendouai/ViralForge/HEAD/docs/en/demo-glow.jpg",
+  "alt": "Watch the 15-second GLOW LAB English demo",
+  "score": 1.65,
+  "type": "image/jpeg",
+  "bytes": 109269,
+  "file": "fendouai__ViralForge.jpg",
+  "still": "fendouai__ViralForge.jpg"
  },
  "fltman/infofilm": {
   "repo": "fltman/infofilm",
@@ -1499,6 +1539,16 @@
   "file": "isabellagreco1997__script-to-video.gif",
   "still": "isabellagreco1997__script-to-video.jpg"
  },
+ "jabbarlee/open-papertrail": {
+  "repo": "jabbarlee/open-papertrail",
+  "url": "https://raw.githubusercontent.com/jabbarlee/open-papertrail/HEAD/examples/flat-grain/walk-poster.jpg",
+  "alt": "",
+  "score": 2.0,
+  "type": "image/jpeg",
+  "bytes": 65408,
+  "file": "jabbarlee__open-papertrail.jpg",
+  "still": "jabbarlee__open-papertrail.jpg"
+ },
  "jammaru/launch-video-craft": {
   "repo": "jammaru/launch-video-craft",
   "url": "https://raw.githubusercontent.com/jammaru/launch-video-craft/HEAD/assets/agent-demo.webp",
@@ -1729,16 +1779,6 @@
   "file": "new-xp__ultrademo.gif",
   "still": "new-xp__ultrademo.jpg"
  },
- "nexu-io/openmotion": {
-  "repo": "nexu-io/openmotion",
-  "url": "https://raw.githubusercontent.com/nexu-io/openmotion/HEAD/docs/readme/live-templates/many-possible-futures.gif",
-  "alt": "Build a story from multiple scenes",
-  "score": 4.35,
-  "type": "image/gif",
-  "bytes": 1510425,
-  "file": "nexu-io__openmotion.gif",
-  "still": "nexu-io__openmotion.jpg"
- },
  "noamdorr/saas-product-demo-video": {
   "repo": "noamdorr/saas-product-demo-video",
   "url": "https://img.youtube.com/vi/84dbi9LvWwM/maxresdefault.jpg",
@@ -1798,6 +1838,16 @@
   "bytes": 1473454,
   "file": "patryk-penczek__ship-video.jpg",
   "still": "patryk-penczek__ship-video.jpg"
+ },
+ "pedroxcardoso/maquina-cortes-gta": {
+  "repo": "pedroxcardoso/maquina-cortes-gta",
+  "url": "https://raw.githubusercontent.com/pedroxcardoso/maquina-cortes-gta/HEAD/assets/banner.png",
+  "alt": "máquina-cortes-gta: um vídeo longo vira vários cortes de Shorts sobre GTA 6",
+  "score": -2.5,
+  "type": "image/png",
+  "bytes": 1172925,
+  "file": "pedroxcardoso__maquina-cortes-gta.jpg",
+  "still": "pedroxcardoso__maquina-cortes-gta.jpg"
  },
  "pjecuacion/script-to-video-skill": {
   "repo": "pjecuacion/script-to-video-skill",
@@ -2129,6 +2179,16 @@
   "file": "y-wi__horizon-montage-generic.jpg",
   "still": "y-wi__horizon-montage-generic.jpg"
  },
+ "yenceesanjeev/2d-character-sketch": {
+  "repo": "yenceesanjeev/2d-character-sketch",
+  "url": "https://raw.githubusercontent.com/yenceesanjeev/2d-character-sketch/HEAD/examples/tea.gif",
+  "alt": "A four-shot sketch with two characters",
+  "score": 3.0,
+  "type": "image/gif",
+  "bytes": 1324695,
+  "file": "yenceesanjeev__2d-character-sketch.gif",
+  "still": "yenceesanjeev__2d-character-sketch.jpg"
+ },
  "yerinsabraham/video-edit-skill": {
   "repo": "yerinsabraham/video-edit-skill",
   "url": "https://raw.githubusercontent.com/yerinsabraham/video-edit-skill/HEAD/docs/media/what-it-adds.jpg",
@@ -2148,6 +2208,16 @@
   "bytes": 443217,
   "file": "ymybxx__SoloMCN.jpg",
   "still": "ymybxx__SoloMCN.jpg"
+ },
+ "zakariaf/cinecode": {
+  "repo": "zakariaf/cinecode",
+  "url": "https://raw.githubusercontent.com/zakariaf/cinecode/HEAD/docs/images/solar-saturn.jpg",
+  "alt": "Our Solar System: nine Earths side by side across Saturn",
+  "score": 0.0,
+  "type": "image/jpeg",
+  "bytes": 52964,
+  "file": "zakariaf__cinecode.jpg",
+  "still": "zakariaf__cinecode.jpg"
  },
  "zenitlab/video-as-code": {
   "repo": "zenitlab/video-as-code",
@@ -2179,15 +2249,15 @@
   "file": "zhenwusw__orca-motion-skill.gif",
   "still": "zhenwusw__orca-motion-skill.jpg"
  },
- "zhouyuechuan2025-ui/ai-self-media-video-packaging-skill": {
-  "repo": "zhouyuechuan2025-ui/ai-self-media-video-packaging-skill",
-  "url": "https://raw.githubusercontent.com/zhouyuechuan2025-ui/ai-self-media-video-packaging-skill/HEAD/docs/assets/previews/auto-editing-0-contact-sheet.jpg",
-  "alt": "真实调用八帧总览",
-  "score": 0.0,
-  "type": "image/jpeg",
-  "bytes": 199131,
-  "file": "zhouyuechuan2025-ui__ai-self-media-video-packaging-skill.jpg",
-  "still": "zhouyuechuan2025-ui__ai-self-media-video-packaging-skill.jpg"
+ "zhouyuechuan2025-ui/aipacking": {
+  "repo": "zhouyuechuan2025-ui/aipacking",
+  "url": "https://raw.githubusercontent.com/zhouyuechuan2025-ui/aipacking/HEAD/docs/assets/aipacking-3/branch.png",
+  "alt": "从分镜分流到预览与整片",
+  "score": 1.85,
+  "type": "image/png",
+  "bytes": 955860,
+  "file": "zhouyuechuan2025-ui__aipacking.jpg",
+  "still": "zhouyuechuan2025-ui__aipacking.jpg"
  },
  "znyupup/knowledge-explainer-skill": {
   "repo": "znyupup/knowledge-explainer-skill",
