@@ -649,6 +649,16 @@
   "file": "TheNoumanDev__zero-dollar-studio.gif",
   "still": "TheNoumanDev__zero-dollar-studio.jpg"
  },
+ "Tu-Zhenzhao/pocketworld": {
+  "repo": "Tu-Zhenzhao/pocketworld",
+  "url": "https://raw.githubusercontent.com/Tu-Zhenzhao/pocketworld/HEAD/examples/juggler/loop.gif",
+  "alt": "A native pixel character juggling three balls beside a tree and bench",
+  "score": 3.0,
+  "type": "image/gif",
+  "bytes": 1983655,
+  "file": "Tu-Zhenzhao__pocketworld.gif",
+  "still": "Tu-Zhenzhao__pocketworld.jpg"
+ },
  "WhiteTowerAI/cut-as-code": {
   "repo": "WhiteTowerAI/cut-as-code",
   "url": "https://img.youtube.com/vi/3yFPOC8kFxU/maxresdefault.jpg",
@@ -1649,6 +1659,16 @@
   "file": "ledbetterljoshua__functional-emotions-video.jpg",
   "still": "ledbetterljoshua__functional-emotions-video.jpg"
  },
+ "lewislf/claude-code-video-studio": {
+  "repo": "lewislf/claude-code-video-studio",
+  "url": "https://raw.githubusercontent.com/lewislf/claude-code-video-studio/media/player.gif",
+  "alt": "Watch: Who holds the key to your mind? (13:15)",
+  "score": 2.8,
+  "type": "image/gif",
+  "bytes": 4440599,
+  "file": "lewislf__claude-code-video-studio.gif",
+  "still": "lewislf__claude-code-video-studio.jpg"
+ },
  "liaojianquan9-source/ljq-broll-video-generator": {
   "repo": "liaojianquan9-source/ljq-broll-video-generator",
   "url": "https://raw.githubusercontent.com/liaojianquan9-source/ljq-broll-video-generator/HEAD/examples/kimi-k3-000-011/media/comparison-preview.gif",
@@ -1798,6 +1818,16 @@
   "bytes": 266274,
   "file": "nocodehack__make-short.jpg",
   "still": "nocodehack__make-short.jpg"
+ },
+ "nocodehack/nocodehack-roblox-engine": {
+  "repo": "nocodehack/nocodehack-roblox-engine",
+  "url": "https://raw.githubusercontent.com/nocodehack/nocodehack-roblox-engine/HEAD/docs/img/r1.gif",
+  "alt": "The Flush: a kid hides a bad grade from his mom",
+  "score": 2.95,
+  "type": "image/gif",
+  "bytes": 1191024,
+  "file": "nocodehack__nocodehack-roblox-engine.jpg",
+  "still": "nocodehack__nocodehack-roblox-engine.jpg"
  },
  "nolangz/pixel2motion": {
   "repo": "nolangz/pixel2motion",
@@ -2248,16 +2278,6 @@
   "bytes": 654695,
   "file": "zhenwusw__orca-motion-skill.gif",
   "still": "zhenwusw__orca-motion-skill.jpg"
- },
- "zhouyuechuan2025-ui/aipacking": {
-  "repo": "zhouyuechuan2025-ui/aipacking",
-  "url": "https://raw.githubusercontent.com/zhouyuechuan2025-ui/aipacking/HEAD/docs/assets/aipacking-3/branch.png",
-  "alt": "从分镜分流到预览与整片",
-  "score": 1.85,
-  "type": "image/png",
-  "bytes": 955860,
-  "file": "zhouyuechuan2025-ui__aipacking.jpg",
-  "still": "zhouyuechuan2025-ui__aipacking.jpg"
  },
  "znyupup/knowledge-explainer-skill": {
   "repo": "znyupup/knowledge-explainer-skill",

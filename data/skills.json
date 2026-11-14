@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13",
+ "generated": "2026-11-14",
  "source": "https://agentskillshub.top/best/claude-video-skills/",
  "kinds": [
   {
@@ -67,7 +67,7 @@
   {
    "repo_full_name": "heygen-com/hyperframes",
    "path": null,
-   "stars": 83745,
+   "stars": 84173,
    "description": "Write HTML. Render video. Built for agents.",
    "kind": "general",
    "security_grade": "safe",
@@ -77,7 +77,7 @@
   {
    "repo_full_name": "OpenMontageInc/OpenMontage",
    "path": null,
-   "stars": 80203,
+   "stars": 80405,
    "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
    "kind": "general",
    "security_grade": "caution",
@@ -87,7 +87,7 @@
   {
    "repo_full_name": "hypit-ai/hypit",
    "path": null,
-   "stars": 29632,
+   "stars": 29780,
    "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
    "kind": "general",
    "security_grade": "safe",
@@ -97,7 +97,7 @@
   {
    "repo_full_name": "nexu-io/openmotion",
    "path": null,
-   "stars": 9823,
+   "stars": 9906,
    "description": "The open-source full-stack studio for Opus 5.5 motion video. Reverse engineering for any video. Code video with HTML: recreate, edit and render. BYOA + BYOK · Motion.md · Images, Video, Music & Voice.",
    "kind": "general",
    "security_grade": "safe",
@@ -107,7 +107,7 @@
   {
    "repo_full_name": "remotion-dev/skills",
    "path": null,
-   "stars": 6941,
+   "stars": 7010,
    "description": "Agent Skills",
    "kind": "general",
    "security_grade": "safe",
@@ -117,7 +117,7 @@
   {
    "repo_full_name": "NarratorAI-Studio/narrator-ai-cli-skill",
    "path": null,
-   "stars": 3197,
+   "stars": 3242,
    "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
    "kind": "general",
    "security_grade": "safe",
@@ -127,7 +127,7 @@
   {
    "repo_full_name": "digitalsamba/claude-code-video-toolkit",
    "path": null,
-   "stars": 2543,
+   "stars": 2557,
    "description": "Make videos with Claude Code: script, AI voiceover, music, video clips and render, on open-source models that cost cents",
    "kind": "general",
    "security_grade": "safe",
@@ -137,7 +137,7 @@
   {
    "repo_full_name": "bangtutorial/bang-motion",
    "path": null,
-   "stars": 2115,
+   "stars": 2152,
    "description": "Agent skill for browser motion graphics — openers, promos, bumpers, kinetic typography, and five explainer styles that move like video, not slides. Single index.html output. Works with Claude Code, Codex, Gemini CLI, Cursor.",
    "kind": "general",
    "security_grade": "safe",
@@ -147,7 +147,7 @@
   {
    "repo_full_name": "vibe-motion/skills",
    "path": null,
-   "stars": 1637,
+   "stars": 1651,
    "description": "agent skills for vibe motion",
    "kind": "general",
    "security_grade": "safe",
@@ -157,7 +157,7 @@
   {
    "repo_full_name": "iart-ai/motion-skills",
    "path": null,
-   "stars": 1439,
+   "stars": 1463,
    "description": "56 open-source skills that teach your AI coding agent to make motion graphics, animation & video — kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 19 installable packs. By iart.ai, the AI motion agent.",
    "kind": "general",
    "security_grade": "safe",
@@ -167,7 +167,7 @@
   {
    "repo_full_name": "JDhruv14/line-art-animation",
    "path": null,
-   "stars": 633,
+   "stars": 699,
    "description": "A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cycle.",
    "kind": "general",
    "security_grade": "safe",
@@ -177,7 +177,7 @@
   {
    "repo_full_name": "GTAI-1/flow-mcp",
    "path": null,
-   "stars": 619,
+   "stars": 625,
    "description": "Drive Google Flow from Claude, Codex or a local control panel, on Mac or Windows — using your Google AI subscription credits instead of the pay-per-use video API. No browser extension.",
    "kind": "general",
    "security_grade": "safe",
@@ -197,7 +197,7 @@
   {
    "repo_full_name": "mileson/chaojifeng-video-design",
    "path": null,
-   "stars": 538,
+   "stars": 539,
    "description": "超级峰的视频设计方法论｜面向 AI Agent 的视频主线、分镜、声画节奏、制作与交付验收 Skill",
    "kind": "general",
    "security_grade": "safe",
@@ -207,7 +207,7 @@
   {
    "repo_full_name": "0xS4N4TG/kinetograph",
    "path": null,
-   "stars": 514,
+   "stars": 518,
    "description": "A blazingly fast programmatic video engine, made for agents.",
    "kind": "general",
    "security_grade": "safe",
@@ -217,7 +217,7 @@
   {
    "repo_full_name": "squall01337/mixamo-llm-mocap",
    "path": null,
-   "stars": 439,
+   "stars": 440,
    "description": "Turn any video into a Mixamo-rig animation - GVHMR estimator, spec-driven retarget, FK apply in Blender via MCP. Works with any Mixamo character; built to be operated end-to-end by an AI agent.",
    "kind": "general",
    "security_grade": "safe",
@@ -227,7 +227,7 @@
   {
    "repo_full_name": "Moessif/code-video-showcase",
    "path": null,
-   "stars": 425,
+   "stars": 434,
    "description": "A pure-code beat-synced showcase-video Agent Skill: HTML/Canvas/SVG/Three.js frame-by-frame + Python numpy/scipy score + FFmpeg. No generative models.",
    "kind": "general",
    "security_grade": "safe",
@@ -237,7 +237,7 @@
   {
    "repo_full_name": "FavioVazquez/showtime",
    "path": null,
-   "stars": 329,
+   "stars": 331,
    "description": "A local video studio for your coding agent. Describe a video in one sentence: your agent directs, your machine renders. Claude Code, Codex, Cursor, Devin and more. No API keys, no uploads.",
    "kind": "general",
    "security_grade": "safe",
@@ -247,7 +247,7 @@
   {
    "repo_full_name": "Hainrixz/editor-pro-max",
    "path": null,
-   "stars": 297,
+   "stars": 298,
    "description": "AI-powered video editor by @soyenriquerocha — built with Remotion + Claude Code. Describe videos in natural language, get professional MP4s. 25 components, 9 templates, 7 skills.",
    "kind": "general",
    "security_grade": "safe",
@@ -257,7 +257,7 @@
   {
    "repo_full_name": "kangarooking/director-skills",
    "path": null,
-   "stars": 287,
+   "stars": 288,
    "description": "导演Skill：面向 AI 视频创作的开源 Agent Skills | Director Skills: Open-source Agent Skills for AI video creation.",
    "kind": "general",
    "security_grade": "safe",
@@ -267,7 +267,7 @@
   {
    "repo_full_name": "JuneYaooo/capsule-cinema",
    "path": null,
-   "stars": 237,
+   "stars": 249,
    "description": "把视频做成模版，一次配方无限视频 · Turn videos into templates. One recipe, unlimited videos.",
    "kind": "general",
    "security_grade": "safe",
@@ -277,7 +277,7 @@
   {
    "repo_full_name": "iart-ai/motion-design-skills",
    "path": null,
-   "stars": 229,
+   "stars": 233,
    "description": "Motion design fundamentals, engines, and brand elements as installable Claude Code skills — timing, typography, color, composition, After Effects, Remotion, logos, and backgrounds.",
    "kind": "general",
    "security_grade": "safe",
@@ -287,7 +287,7 @@
   {
    "repo_full_name": "codepawl/creator-generalist",
    "path": null,
-   "stars": 172,
+   "stars": 185,
    "description": "AI agent skills to be professional at 2D and 3D",
    "kind": "general",
    "security_grade": "safe",
@@ -337,7 +337,7 @@
   {
    "repo_full_name": "Hype-yolo/claude-motion-skill",
    "path": null,
-   "stars": 92,
+   "stars": 96,
    "description": "Source-assisted animation Skill: 47 open-source cases, editable scenes and MP4 export. Public beta.",
    "kind": "general",
    "security_grade": "safe",
@@ -415,6 +415,16 @@
    "license": "Apache-2.0"
   },
   {
+   "repo_full_name": "autoip/dreamfab",
+   "path": null,
+   "stars": 46,
+   "description": "Dreamfab 造夢廠：AI Agent 影音製作框架。一句話，你就是導演和製作人，AI Agent 用 AutoIP + ffmpeg 幫你做出短劇、MV、解說影片。",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "erduo1998-cell/vidmuse-video-creator",
    "path": null,
    "stars": 45,
@@ -425,13 +435,13 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "autoip/dreamfab",
+   "repo_full_name": "WhiteTowerAI/cut-as-code",
    "path": null,
-   "stars": 43,
-   "description": "Dreamfab 造夢廠：AI Agent 影音製作框架。一句話，你就是導演和製作人，AI Agent 用 AutoIP + ffmpeg 幫你做出短劇、MV、解說影片。",
+   "stars": 33,
+   "description": "Open-source agentic video editing skills — an AI-powered alternative to Opus Clip and CapCut",
    "kind": "general",
    "security_grade": "safe",
-   "language": "Python",
+   "language": "JavaScript",
    "license": "MIT"
   },
   {
@@ -445,10 +455,10 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "WhiteTowerAI/cut-as-code",
+   "repo_full_name": "ZLHad/OpenVideoHarness",
    "path": null,
    "stars": 32,
-   "description": "Open-source agentic video editing skills — an AI-powered alternative to Opus Clip and CapCut",
+   "description": "A video harness work platform for Agents such as Claude or Codex: the agent writes the code that renders the film, checks its own frames, storyboard and cut.  给 Claude Code 和 Codex 用的视频Harness工作台：agent 写代码渲染成片、自己检查分镜，立意、成片由你拍板；众多风格预设、引擎丰富，配音配乐也用代码做。",
    "kind": "general",
    "security_grade": "safe",
    "language": "JavaScript",
@@ -473,16 +483,6 @@
    "security_grade": "safe",
    "language": "JavaScript",
    "license": "NOASSERTION"
-  },
-  {
-   "repo_full_name": "ZLHad/OpenVideoHarness",
-   "path": null,
-   "stars": 30,
-   "description": "A video harness work platform for Agents such as Claude or Codex: the agent writes the code that renders the film, checks its own frames, storyboard and cut.  给 Claude Code 和 Codex 用的视频Harness工作台：agent 写代码渲染成片、自己检查分镜，立意、成片由你拍板；众多风格预设、引擎丰富，配音配乐也用代码做。",
-   "kind": "general",
-   "security_grade": "safe",
-   "language": "JavaScript",
-   "license": "MIT"
   },
   {
    "repo_full_name": "PHANTOMTONYT/motion-design-skills",
@@ -535,6 +535,26 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "iart-ai/data-animation-skills",
+   "path": null,
+   "stars": 19,
+   "description": "Data video / animated infographic skills for Claude Code — turn a CSV into a chart that moves, with exact, accurate numbers on every frame.",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "HTML",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "vawe-hq/vawe",
+   "path": null,
+   "stars": 19,
+   "description": "Write one HTML page, get an mp4. Open-source HTML to video framework for coding agents like Claude Code and Codex. A free Remotion alternative.",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "JavaScript",
+   "license": "Apache-2.0"
+  },
+  {
    "repo_full_name": "Neelshah1810/Claude-Video-Skills",
    "path": null,
    "stars": 18,
@@ -553,26 +573,6 @@
    "security_grade": "safe",
    "language": "JavaScript",
    "license": "MIT"
-  },
-  {
-   "repo_full_name": "iart-ai/data-animation-skills",
-   "path": null,
-   "stars": 18,
-   "description": "Data video / animated infographic skills for Claude Code — turn a CSV into a chart that moves, with exact, accurate numbers on every frame.",
-   "kind": "general",
-   "security_grade": "safe",
-   "language": "HTML",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "vawe-hq/vawe",
-   "path": null,
-   "stars": 18,
-   "description": "Write one HTML page, get an mp4. Open-source HTML to video framework for coding agents like Claude Code and Codex. A free Remotion alternative.",
-   "kind": "general",
-   "security_grade": "safe",
-   "language": "JavaScript",
-   "license": "Apache-2.0"
   },
   {
    "repo_full_name": "Aaryan-Kapoor/video-production-skill",
@@ -607,7 +607,7 @@
   {
    "repo_full_name": "RajaskaJanuardani/motion-craft",
    "path": null,
-   "stars": 14,
+   "stars": 15,
    "description": "After Effects-grade Motion Graphics & Humanized Video Editing skill for Remotion: 43 styles, C1 spline camera, seamless transitions, and 48kHz procedural audio",
    "kind": "general",
    "security_grade": "safe",
@@ -645,6 +645,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "MakeMyClip/editor",
+   "path": null,
+   "stars": 11,
+   "description": "Open-source AI video editor for Claude Code and any MCP client. Removes silence and repeated takes, edits by transcript with local whisper.cpp, adds captions, and exports to Final Cut Pro, DaVinci Resolve and Premiere Pro. CLI, MCP server and browser timeline over FFmpeg. MIT, local, no API key.",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "argus-metis/hermes-video-editing",
    "path": null,
    "stars": 10,
@@ -663,16 +673,6 @@
    "security_grade": "safe",
    "language": null,
    "license": "NOASSERTION"
-  },
-  {
-   "repo_full_name": "MakeMyClip/editor",
-   "path": null,
-   "stars": 9,
-   "description": "Open-source AI video editor for Claude Code and any MCP client. Removes silence and repeated takes, edits by transcript with local whisper.cpp, adds captions, and exports to Final Cut Pro, DaVinci Resolve and Premiere Pro. CLI, MCP server and browser timeline over FFmpeg. MIT, local, no API key.",
-   "kind": "general",
-   "security_grade": "safe",
-   "language": "TypeScript",
-   "license": "MIT"
   },
   {
    "repo_full_name": "VasiniDevi/motion-skills",
@@ -927,7 +927,7 @@
   {
    "repo_full_name": "feitangyuan/onetake",
    "path": null,
-   "stars": 4089,
+   "stars": 4116,
    "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. Product launch films and feature demos, made with a coding agent.",
    "kind": "promo",
    "security_grade": "safe",
@@ -937,7 +937,7 @@
   {
    "repo_full_name": "Tejashmakwana/motionmaxxing",
    "path": null,
-   "stars": 1579,
+   "stars": 1598,
    "description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
    "kind": "promo",
    "security_grade": "safe",
@@ -947,7 +947,7 @@
   {
    "repo_full_name": "echris6/motion-video-kit",
    "path": null,
-   "stars": 1393,
+   "stars": 1396,
    "description": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
    "kind": "promo",
    "security_grade": "safe",
@@ -957,7 +957,7 @@
   {
    "repo_full_name": "op7418/guizang-product-video-skill",
    "path": null,
-   "stars": 939,
+   "stars": 940,
    "description": "归藏 product video skill：复用真实产品组件和设计语言，用代码制作软件更新宣传片。包含分镜文案、原创配乐、动作音效与视频渲染，支持 Claude Code 和 Codex。",
    "kind": "promo",
    "security_grade": "safe",
@@ -967,7 +967,7 @@
   {
    "repo_full_name": "howseen-ai/claude-motion-design",
    "path": null,
-   "stars": 822,
+   "stars": 825,
    "description": "A Claude Code skill to make motion design videos in pure code: HTML + Playwright + ffmpeg. No After Effects, no Remotion license.",
    "kind": "promo",
    "security_grade": "caution",
@@ -977,7 +977,7 @@
   {
    "repo_full_name": "charlie947/motion-graphics-skills",
    "path": null,
-   "stars": 664,
+   "stars": 675,
    "description": "13 Claude Code skills for launch-grade motion graphics. Every frame is code. No After Effects, no video generator.",
    "kind": "promo",
    "security_grade": "safe",
@@ -997,7 +997,7 @@
   {
    "repo_full_name": "AbubakrChan/product-launch-motion",
    "path": null,
-   "stars": 460,
+   "stars": 463,
    "description": "Claude Code skill for Dribbble-level product launch videos from code. One shape that never cuts, springs, a cursor that drives every change, beat-synced SFX, 60 fps motion blur. v2: use with Claude Opus 5.5.",
    "kind": "promo",
    "security_grade": "safe",
@@ -1007,7 +1007,7 @@
   {
    "repo_full_name": "Jane-xiaoer/paper-collage-ad-codex",
    "path": null,
-   "stars": 426,
+   "stars": 427,
    "description": "Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC",
    "kind": "promo",
    "security_grade": "safe",
@@ -1017,7 +1017,7 @@
   {
    "repo_full_name": "Kianzzz/xilo-opus-video",
    "path": null,
-   "stars": 400,
+   "stars": 403,
    "description": "用 Claude Opus 5.5 写代码做视频：先给三个方案和预览，确认后逐帧渲染成片 | Canvas / WebGL / Three.js / Remotion / HyperFrames | Claude Code Skill",
    "kind": "promo",
    "security_grade": "safe",
@@ -1027,7 +1027,7 @@
   {
    "repo_full_name": "aaitor/skill-video-studio",
    "path": null,
-   "stars": 396,
+   "stars": 397,
    "description": "Claude Code skill for product videos: real browser capture, branded composition, and local mastering.",
    "kind": "promo",
    "security_grade": "safe",
@@ -1037,7 +1037,7 @@
   {
    "repo_full_name": "talsiach/take-one",
    "path": null,
-   "stars": 278,
+   "stars": 282,
    "description": "Claude Code skill that makes launch videos, ads and music videos from one line: idea, script, visuals, voice, music, edit and review, then a review room where your notes make the next take",
    "kind": "promo",
    "security_grade": "safe",
@@ -1057,7 +1057,7 @@
   {
    "repo_full_name": "Finderchangchang/promo-video-skill",
    "path": null,
-   "stars": 186,
+   "stars": 187,
    "description": "精酿 BrewReel：让 DeepSeek 这类便宜模型也能做出好看的竖版宣传片。写一份产品简报，AI 挑镜头、写文案，一条命令出片。3 种配方、6 个行业、广告法校验，开源可商用。",
    "kind": "promo",
    "security_grade": "safe",
@@ -1077,7 +1077,7 @@
   {
    "repo_full_name": "kingselyjoe/video-shotcraft-dsh",
    "path": null,
-   "stars": 152,
+   "stars": 154,
    "description": "面向 DeepSeek Harness 的电影感产品视频 Agent Skill，包含 152 张镜头配方卡、Remotion 模板、代码组件和音频资产。",
    "kind": "promo",
    "security_grade": "safe",
@@ -1087,7 +1087,7 @@
   {
    "repo_full_name": "bestagentkits/motion-video-skill",
    "path": null,
-   "stars": 143,
+   "stars": 145,
    "description": "Agent skill that produces beat-synced 1080p motion-graphic videos in HyperFrames (HTML + GSAP) with an AI voice-over, karaoke captions, SFX and generated music. MIT.",
    "kind": "promo",
    "security_grade": "safe",
@@ -1107,7 +1107,7 @@
   {
    "repo_full_name": "gmpetrov/agent-screenplay",
    "path": null,
-   "stars": 114,
+   "stars": 117,
    "description": "Beautiful screen recordings, made by your favorite AI agent.",
    "kind": "promo",
    "security_grade": "safe",
@@ -1147,7 +1147,7 @@
   {
    "repo_full_name": "revfactory/showreel",
    "path": null,
-   "stars": 73,
+   "stars": 74,
    "description": "Claude Code skill that produces Korean motion-graphics videos end to end: brief, research, script, ElevenLabs narration, music, images, deterministic HTML render, mix and automated QA.",
    "kind": "promo",
    "security_grade": "safe",
@@ -1187,7 +1187,7 @@
   {
    "repo_full_name": "rjmahesh/ui-redline-walkthrough",
    "path": null,
-   "stars": 59,
+   "stars": 61,
    "description": "Claude skill: turn before/after UI screenshots into an animated redline walkthrough video (red ink marks, morphing UI, MP4 export)",
    "kind": "promo",
    "security_grade": "safe",
@@ -1207,7 +1207,7 @@
   {
    "repo_full_name": "axtonliu/video-illustrator",
    "path": null,
-   "stars": 53,
+   "stars": 52,
    "description": "Your voice, your assets, any look you choose — an Agent Skill that turns your narration and real assets into a short film.",
    "kind": "promo",
    "security_grade": "safe",
@@ -1285,6 +1285,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "Hainrixz/motion-architect",
+   "path": null,
+   "stars": 30,
+   "description": "Agente de motion graphics para Claude Code. Le das videos, imágenes y tu marca; él diseña, anima y renderiza en 9:16, 16:9, 1:1 y 4:5. Todo local.",
+   "kind": "promo",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "gorkem-bwl/onboarding-video-generator",
    "path": null,
    "stars": 30,
@@ -1292,16 +1302,6 @@
    "kind": "promo",
    "security_grade": "safe",
    "language": "TypeScript",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "Hainrixz/motion-architect",
-   "path": null,
-   "stars": 28,
-   "description": "Agente de motion graphics para Claude Code. Le das videos, imágenes y tu marca; él diseña, anima y renderiza en 9:16, 16:9, 1:1 y 4:5. Todo local.",
-   "kind": "promo",
-   "security_grade": "safe",
-   "language": "Python",
    "license": "MIT"
   },
   {
@@ -1335,6 +1335,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "useapi/muse-api",
+   "path": null,
+   "stars": 26,
+   "description": "Meta Muse API examples (muse.ai) and a hosted MCP server with 37 tools for Claude Code, Cursor and VS Code. Images and 10-second videos with sound on your Muse subscription, free plan included. Chat with the Muse agent, restore old photos, make a photo talk, swap a person in a video. Node.js, Python, n8n, agent skill. By useapi.net, third-party.",
+   "kind": "promo",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "memex-lab/product-launch-video-skill",
    "path": null,
    "stars": 25,
@@ -1362,16 +1372,6 @@
    "kind": "promo",
    "security_grade": "safe",
    "language": "TypeScript",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "useapi/muse-api",
-   "path": null,
-   "stars": 23,
-   "description": "Meta Muse API examples (muse.ai) and a hosted MCP server with 37 tools for Claude Code, Cursor and VS Code. Images and 10-second videos with sound on your Muse subscription, free plan included. Chat with the Muse agent, restore old photos, make a photo talk, swap a person in a video. Node.js, Python, n8n, agent skill. By useapi.net, third-party.",
-   "kind": "promo",
-   "security_grade": "safe",
-   "language": "Python",
    "license": "MIT"
   },
   {
@@ -1427,12 +1427,22 @@
   {
    "repo_full_name": "huypham85/app-3d-video-skill",
    "path": null,
-   "stars": 17,
+   "stars": 18,
    "description": "Claude Code skills: a 20 s 3D promo video for your iOS app (SceneKit iPhone, a mascot that presses your UI, original score), rendered entirely on your Mac.",
    "kind": "promo",
    "security_grade": "safe",
    "language": "Swift",
    "license": "NOASSERTION"
+  },
+  {
+   "repo_full_name": "iart-ai/ecommerce-video-skills",
+   "path": null,
+   "stars": 17,
+   "description": "Generate ecommerce / product video — product demos, sale promos, and photo slideshows — straight from your screenshots, prices, and image folders.",
+   "kind": "promo",
+   "security_grade": "safe",
+   "language": "HTML",
+   "license": "MIT"
   },
   {
    "repo_full_name": "mrieck/demoday-claude-plugin",
@@ -1462,16 +1472,6 @@
    "kind": "promo",
    "security_grade": "safe",
    "language": "JavaScript",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "iart-ai/ecommerce-video-skills",
-   "path": null,
-   "stars": 16,
-   "description": "Generate ecommerce / product video — product demos, sale promos, and photo slideshows — straight from your screenshots, prices, and image folders.",
-   "kind": "promo",
-   "security_grade": "safe",
-   "language": "HTML",
    "license": "MIT"
   },
   {
@@ -1575,6 +1575,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "sub-level/marketing-videos",
+   "path": null,
+   "stars": 10,
+   "description": "Make marketing videos with a coding agent: Remotion + Claude Code skills + the AI footage pipeline behind our launch films",
+   "kind": "promo",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "david-d2c2/motion-promo-reels",
    "path": null,
    "stars": 9,
@@ -1592,16 +1602,6 @@
    "kind": "promo",
    "security_grade": "safe",
    "language": "HTML",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "sub-level/marketing-videos",
-   "path": null,
-   "stars": 9,
-   "description": "Make marketing videos with a coding agent: Remotion + Claude Code skills + the AI footage pipeline behind our launch films",
-   "kind": "promo",
-   "security_grade": "safe",
-   "language": "TypeScript",
    "license": "MIT"
   },
   {
@@ -1827,7 +1827,7 @@
   {
    "repo_full_name": "Alisa0808/vox-director",
    "path": null,
-   "stars": 2812,
+   "stars": 2825,
    "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
    "kind": "explainer",
    "security_grade": "safe",
@@ -1837,7 +1837,7 @@
   {
    "repo_full_name": "adithya-s-k/manim_skill",
    "path": null,
-   "stars": 1311,
+   "stars": 1313,
    "description": "Agent skills for Manim to create 3Blue1Brown style animations.",
    "kind": "explainer",
    "security_grade": "safe",
@@ -1847,7 +1847,7 @@
   {
    "repo_full_name": "vincentsch/explainroo",
    "path": null,
-   "stars": 1273,
+   "stars": 1297,
    "description": "Explainer videos and product demos made by your AI agent. Free and open source: a local voice (Kokoro), word timing (Whisper) and a canvas renderer turn a script into a narrated MP4.",
    "kind": "explainer",
    "security_grade": "safe",
@@ -1857,7 +1857,7 @@
   {
    "repo_full_name": "GTKottman/mortiflix-oss",
    "path": null,
-   "stars": 699,
+   "stars": 702,
    "description": "A motion design studio on your own machine: Claude makes the video step by step, you approve every stage. Bring your own Claude Code or API key.",
    "kind": "explainer",
    "security_grade": "safe",
@@ -1867,7 +1867,7 @@
   {
    "repo_full_name": "HeyChengC/wallstreet-explainer",
    "path": null,
-   "stars": 684,
+   "stars": 696,
    "description": "华尔街式财经/科技解读短片 skill：设计思路、风格语言，以及找片、截图、配音、渲染和混音工具。",
    "kind": "explainer",
    "security_grade": "safe",
@@ -1877,7 +1877,7 @@
   {
    "repo_full_name": "hi-nikola/hand-drawn-explainer-video-nikola",
    "path": null,
-   "stars": 476,
+   "stars": 480,
    "description": "中文手绘知识讲解视频 Codex Skill：逐笔故事、双语义岛、让怪诞小黑动起来与程序动画",
    "kind": "explainer",
    "security_grade": "safe",
@@ -1887,7 +1887,7 @@
   {
    "repo_full_name": "wshuyi/remotion-video-skill",
    "path": null,
-   "stars": 475,
+   "stars": 476,
    "description": "A Claude Code Skill for creating programmatic videos with Remotion framework",
    "kind": "explainer",
    "security_grade": "caution",
@@ -1907,7 +1907,7 @@
   {
    "repo_full_name": "shuyicc/MathLens",
    "path": null,
-   "stars": 349,
+   "stars": 350,
    "description": "MathLens 是一个专注于数学题目视频讲解的 Agent Skill。你只需粘贴一道数学题（图片或文字），它就能自动完成从题目分析、可视化讲解、配音脚本到 Manim 动画视频的全流程制作。单条视频1-10 分钟，成本 0.2-1 元以内。",
    "kind": "explainer",
    "security_grade": "safe",
@@ -1917,7 +1917,7 @@
   {
    "repo_full_name": "Anil-matcha/vox-ai-motion-graphics-generator",
    "path": null,
-   "stars": 347,
+   "stars": 349,
    "description": "🎬 Turn any topic into a finished Vox-style paper-collage explainer / motion graphics video — script, collage keyframes, animation, voice-over, music & captions, all automated. An agent skill for Claude Code, Codex & other coding agents.",
    "kind": "explainer",
    "security_grade": "safe",
@@ -1927,7 +1927,7 @@
   {
    "repo_full_name": "Moh4696/cinematic-skill",
    "path": null,
-   "stars": 260,
+   "stars": 345,
    "description": "Agent skill for narrated cinematic films built entirely from code: one continuous camera over photos, maps and cards, timed to the voice. Claude Code, Codex, Cursor, Gemini CLI.",
    "kind": "explainer",
    "security_grade": "safe",
@@ -1937,7 +1937,7 @@
   {
    "repo_full_name": "chuspeeism/dashi-animationstyle",
    "path": null,
-   "stars": 193,
+   "stars": 195,
    "description": "把一段中文知识口播做成 7 种画风的讲解动画（Claude Code skill）：画面由 Claude 写 HTML/Canvas 代码逐帧画出，不用生图模型",
    "kind": "explainer",
    "security_grade": "safe",
@@ -1977,7 +1977,7 @@
   {
    "repo_full_name": "iart-ai/explainer-video-skills",
    "path": null,
-   "stars": 102,
+   "stars": 107,
    "description": "Explainer video skills for Claude Code: script, storyboard, and render narrated explainers, year-in-review recaps, and animated diagrams.",
    "kind": "explainer",
    "security_grade": "safe",
@@ -1987,7 +1987,7 @@
   {
    "repo_full_name": "holy-templar/vox-animated-ad-mcp",
    "path": null,
-   "stars": 78,
+   "stars": 80,
    "description": "Vox-style paper-collage animated video skill for AI agents — Claude + MaxFusion AI MCP (Google Omni). One sentence in, a full explainer or ad out, entirely from chat.",
    "kind": "explainer",
    "security_grade": "safe",
@@ -1997,7 +1997,7 @@
   {
    "repo_full_name": "GODGOD126/opus-5-5-86-styles-in-motion",
    "path": null,
-   "stars": 73,
+   "stars": 76,
    "description": "86 visual styles for code-driven explainer animations. A Codex skill: choose a style, preview 20 seconds, then create the full HTML video.",
    "kind": "explainer",
    "security_grade": "safe",
@@ -2005,20 +2005,20 @@
    "license": null
   },
   {
-   "repo_full_name": "threerocks/sweety-statechart-video",
+   "repo_full_name": "sunxiayi/make-blender-education-video-skill",
    "path": null,
    "stars": 69,
-   "description": "格物 · 蜡笔状态图：一句话做一部会动的蜡笔状态图短片。3:4、2-3 分钟、四款合成旁白（可加自己的声音）、每章一张海报；支持 Codex、Claude Code、Grok 等，可批量出片。",
+   "description": "A Codex and Claude Code skill for creating fact-checked cinematic educational videos with Blender",
    "kind": "explainer",
    "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
   {
-   "repo_full_name": "sunxiayi/make-blender-education-video-skill",
+   "repo_full_name": "threerocks/sweety-statechart-video",
    "path": null,
-   "stars": 68,
-   "description": "A Codex and Claude Code skill for creating fact-checked cinematic educational videos with Blender",
+   "stars": 69,
+   "description": "格物 · 蜡笔状态图：一句话做一部会动的蜡笔状态图短片。3:4、2-3 分钟、四款合成旁白（可加自己的声音）、每章一张海报；支持 Codex、Claude Code、Grok 等，可批量出片。",
    "kind": "explainer",
    "security_grade": "safe",
    "language": "Python",
@@ -2047,12 +2047,22 @@
   {
    "repo_full_name": "Anil-matcha/zack-d-films-ai-video-generator",
    "path": null,
-   "stars": 57,
+   "stars": 58,
    "description": "🎬 Turn any topic into a finished Zack D Films-style 3D animated short — curiosity-loop script, character sheets, 3D keyframes, Veo 3.1 motion, voiceover, captions & punchy edits, all automated. An agent skill for Claude Code, Codex & other coding agents. Powered by MuAPI + ffmpeg.",
    "kind": "explainer",
    "security_grade": "safe",
    "language": "Python",
    "license": null
+  },
+  {
+   "repo_full_name": "howoneai/xiaolin-explainer-packaging",
+   "path": null,
+   "stars": 50,
+   "description": "小Lin说风格讲解视频包装 skill：Remotion 版式组件、关键词计时分镜、混音、逐帧质检、资料检索（非官方）",
+   "kind": "explainer",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "NOASSERTION"
   },
   {
    "repo_full_name": "SunandBean/paper2video",
@@ -2063,16 +2073,6 @@
    "security_grade": "safe",
    "language": "JavaScript",
    "license": "MIT"
-  },
-  {
-   "repo_full_name": "howoneai/xiaolin-explainer-packaging",
-   "path": null,
-   "stars": 48,
-   "description": "小Lin说风格讲解视频包装 skill：Remotion 版式组件、关键词计时分镜、混音、逐帧质检、资料检索（非官方）",
-   "kind": "explainer",
-   "security_grade": "safe",
-   "language": "TypeScript",
-   "license": "NOASSERTION"
   },
   {
    "repo_full_name": "AmitSubhash/3brown1blue",
@@ -2087,7 +2087,7 @@
   {
    "repo_full_name": "vibe-motion/remotion-code-motion-explainer",
    "path": null,
-   "stars": 41,
+   "stars": 42,
    "description": "AI Agent skill for continuous, editable Remotion explainers — created by Bingo",
    "kind": "explainer",
    "security_grade": "safe",
@@ -2155,6 +2155,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "paullabs/espaco-em-codigo",
+   "path": null,
+   "stars": 28,
+   "description": "Estúdio de vídeos de espaço e ciência em código: planetas, marés e explosões em 3D (Three.js), câmera de cinema, voz e conferência quadro a quadro. Plugin do Claude Code. Licença própria com marca d'água obrigatória.",
+   "kind": "explainer",
+   "security_grade": "safe",
+   "language": "JavaScript",
+   "license": "NOASSERTION"
+  },
+  {
    "repo_full_name": "BusyBee3333/animated-explainer-skills",
    "path": null,
    "stars": 27,
@@ -2163,16 +2173,6 @@
    "security_grade": "safe",
    "language": "HTML",
    "license": "MIT"
-  },
-  {
-   "repo_full_name": "paullabs/espaco-em-codigo",
-   "path": null,
-   "stars": 27,
-   "description": "Estúdio de vídeos de espaço e ciência em código: planetas, marés e explosões em 3D (Three.js), câmera de cinema, voz e conferência quadro a quadro. Plugin do Claude Code. Licença própria com marca d'água obrigatória.",
-   "kind": "explainer",
-   "security_grade": "safe",
-   "language": "JavaScript",
-   "license": "NOASSERTION"
   },
   {
    "repo_full_name": "124zhe/xigua-msvideo-skill",
@@ -2275,6 +2275,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "syydaniel/kazi",
+   "path": null,
+   "stars": 18,
+   "description": "卡字 kazi：让 AI 做的讲解动画，画面卡在旁白的关键词上。A skill for AI coding assistants: explainer animations that land on the voice-over's keywords.",
+   "kind": "explainer",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "NOASSERTION"
+  },
+  {
    "repo_full_name": "chenjun198711/book-video-generator",
    "path": null,
    "stars": 17,
@@ -2283,6 +2293,16 @@
    "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
+  },
+  {
+   "repo_full_name": "liuliu-66-create/ll-video-edit",
+   "path": null,
+   "stars": 17,
+   "description": "Codex + Remotion 六步自动剪辑 Skill 与视频动效素材库",
+   "kind": "explainer",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": null
   },
   {
    "repo_full_name": "feicaiclub/knowledge-easy",
@@ -2295,29 +2315,9 @@
    "license": null
   },
   {
-   "repo_full_name": "liuliu-66-create/ll-video-edit",
-   "path": null,
-   "stars": 16,
-   "description": "Codex + Remotion 六步自动剪辑 Skill 与视频动效素材库",
-   "kind": "explainer",
-   "security_grade": "safe",
-   "language": "TypeScript",
-   "license": null
-  },
-  {
-   "repo_full_name": "syydaniel/kazi",
-   "path": null,
-   "stars": 15,
-   "description": "卡字 kazi：让 AI 做的讲解动画，画面卡在旁白的关键词上。A skill for AI coding assistants: explainer animations that land on the voice-over's keywords.",
-   "kind": "explainer",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "NOASSERTION"
-  },
-  {
    "repo_full_name": "jaredcassoutt/vox-editorial",
    "path": null,
-   "stars": 14,
+   "stars": 15,
    "description": "A Claude Code skill that turns one researched topic into a finished vertical explainer film: cut-paper artwork animated across depth planes, free local narration, assembled with ffmpeg.",
    "kind": "explainer",
    "security_grade": "safe",
@@ -2365,20 +2365,20 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "Lunamos/paper2video",
+   "repo_full_name": "mathruffian-dot/claude-motion-explainer-images",
    "path": null,
-   "stars": 10,
-   "description": "Claude Code skill: turn a research paper or project into a 3Blue1Brown-style explainer video with Remotion (script, narration, real-data animation, captions, covers, YouTube/Bilibili copy)",
+   "stars": 11,
+   "description": "圖片加強版：用一句話讓 coding agent 做出有授權照片與 AI 示意圖的原理解說動畫（HyperFrames + 中文旁白）｜Explainer animations with a licensed-photo and generated-image layer",
    "kind": "explainer",
    "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
   {
-   "repo_full_name": "mathruffian-dot/claude-motion-explainer-images",
+   "repo_full_name": "Lunamos/paper2video",
    "path": null,
    "stars": 10,
-   "description": "圖片加強版：用一句話讓 coding agent 做出有授權照片與 AI 示意圖的原理解說動畫（HyperFrames + 中文旁白）｜Explainer animations with a licensed-photo and generated-image layer",
+   "description": "Claude Code skill: turn a research paper or project into a 3Blue1Brown-style explainer video with Remotion (script, narration, real-data animation, captions, covers, YouTube/Bilibili copy)",
    "kind": "explainer",
    "security_grade": "safe",
    "language": "Python",
@@ -2393,6 +2393,26 @@
    "security_grade": "safe",
    "language": "TypeScript",
    "license": "NOASSERTION"
+  },
+  {
+   "repo_full_name": "lewislf/claude-code-video-studio",
+   "path": null,
+   "stars": 9,
+   "description": "Narrated explainer videos made 100% locally with Claude Code: OmniVoice, MusicGen, HyperFrames, SDXL",
+   "kind": "explainer",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "rocketmandrey/stickman-director",
+   "path": null,
+   "stars": 9,
+   "description": "🎬 One question in → one finished stick-figure explainer video out. A Claude skill that drives Google Vids end to end.",
+   "kind": "explainer",
+   "security_grade": "safe",
+   "language": "JavaScript",
+   "license": "MIT"
   },
   {
    "repo_full_name": "sepi2p/research-explainer-skill",
@@ -2435,13 +2455,13 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "rocketmandrey/stickman-director",
+   "repo_full_name": "mathruffian-dot/claude-motion-explainer-video",
    "path": null,
    "stars": 8,
-   "description": "🎬 One question in → one finished stick-figure explainer video out. A Claude skill that drives Google Vids end to end.",
+   "description": "影片加強版：動畫講原理、照片當證據、MiniMax H3 AI 生成影片帶情緒的原理解說動畫（HyperFrames + 中文旁白）｜Explainer animations with AI video clips",
    "kind": "explainer",
    "security_grade": "safe",
-   "language": "JavaScript",
+   "language": "Python",
    "license": "MIT"
   },
   {
@@ -2552,16 +2572,6 @@
    "kind": "explainer",
    "security_grade": "safe",
    "language": "JavaScript",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "mathruffian-dot/claude-motion-explainer-video",
-   "path": null,
-   "stars": 7,
-   "description": "影片加強版：動畫講原理、照片當證據、MiniMax H3 AI 生成影片帶情緒的原理解說動畫（HyperFrames + 中文旁白）｜Explainer animations with AI video clips",
-   "kind": "explainer",
-   "security_grade": "safe",
-   "language": "Python",
    "license": "MIT"
   },
   {
@@ -2687,7 +2697,7 @@
   {
    "repo_full_name": "EverMind-AI/Raven",
    "path": "skills/git-story-film",
-   "stars": 6188,
+   "stars": 6197,
    "description": "Direct a two-minute hand-drawn animated film from a repository's Git history: story, character, storyboard, HTML review studio, then a 4K/60fps MP4.",
    "kind": "explainer",
    "security_grade": "safe",
@@ -2697,7 +2707,7 @@
   {
    "repo_full_name": "FireRedTeam/FireRed-OpenStoryline",
    "path": null,
-   "stars": 3676,
+   "stars": 3680,
    "description": "FireRed-OpenStoryline is an AI video editing agent that transforms manual editing into intention-driven directing through natural language interaction, LLM-powered planning, and precise tool orchestration. It facilitates transparent, human-in-the-loop creation with reusable Style Skills for consistent, professional storytelling.",
    "kind": "editing",
    "security_grade": "safe",
@@ -2707,7 +2717,7 @@
   {
    "repo_full_name": "Agentchengfeng/chengfeng-videocut-skills",
    "path": null,
-   "stars": 3213,
+   "stars": 3218,
    "description": "用 Claude Code Skills 做的视频剪辑 Agent",
    "kind": "editing",
    "security_grade": "safe",
@@ -2717,7 +2727,7 @@
   {
    "repo_full_name": "0xsline/OpenChatCut",
    "path": null,
-   "stars": 3100,
+   "stars": 3115,
    "description": "Open-source, local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion rendering.",
    "kind": "editing",
    "security_grade": "safe",
@@ -2727,7 +2737,7 @@
   {
    "repo_full_name": "JimLiu/baocut",
    "path": null,
-   "stars": 1762,
+   "stars": 1768,
    "description": "BaoCut: an AI video agent with an editable timeline. Transcribe, subtitle, translate, dub, cut and animate.",
    "kind": "editing",
    "security_grade": "safe",
@@ -2737,7 +2747,7 @@
   {
    "repo_full_name": "pireel/pireel",
    "path": null,
-   "stars": 1373,
+   "stars": 1376,
    "description": "The open-source alternative to Capcut、ChatCut. Drivable by any AI agent over MCP.",
    "kind": "editing",
    "security_grade": "safe",
@@ -2747,7 +2757,7 @@
   {
    "repo_full_name": "Barty-Bart/motion-graphics",
    "path": null,
-   "stars": 1244,
+   "stars": 1258,
    "description": "Motion-graphics skills for Claude Code and Codex.",
    "kind": "editing",
    "security_grade": "safe",
@@ -2757,7 +2767,7 @@
   {
    "repo_full_name": "Vibha-Ramprakash/claude-video-effects",
    "path": null,
-   "stars": 921,
+   "stars": 938,
    "description": "51 free video effects for Claude Code: drop in a talking-head clip, type /effects orbit. Face tracking, behind-your-head layers. From Hop Studio by @vibha.in.progress",
    "kind": "editing",
    "security_grade": "safe",
@@ -2767,7 +2777,7 @@
   {
    "repo_full_name": "hetpatel-11/Adobe_Premiere_Pro_MCP",
    "path": null,
-   "stars": 867,
+   "stars": 871,
    "description": "Adobe Premiere Pro MCP. Tools for AI-driven video editing via MCP, for Codex, Claude, and other MCP clients.",
    "kind": "editing",
    "security_grade": "safe",
@@ -2787,7 +2797,7 @@
   {
    "repo_full_name": "zenstory-ai/video-recap-skills",
    "path": null,
-   "stars": 623,
+   "stars": 624,
    "description": "AI 视频解说全流程 skill 包：自动切镜头、看画面写解说词、配音合成成片，支持一键导出可编辑的剪映/CapCut 草稿，无需 GPU ｜ Agent skills that turn videos into narrated recaps & editable CapCut drafts",
    "kind": "editing",
    "security_grade": "safe",
@@ -2797,7 +2807,7 @@
   {
    "repo_full_name": "leancoderkavy/premiere-pro-mcp",
    "path": null,
-   "stars": 527,
+   "stars": 530,
    "description": "Adobe Premiere Pro MCP — independent, local-first server for supported workflows. Connect Claude, Codex, or Cursor through a local CEP bridge.",
    "kind": "editing",
    "security_grade": "safe",
@@ -2807,7 +2817,7 @@
   {
    "repo_full_name": "kurbaitaev/ghost-editor",
    "path": null,
-   "stars": 458,
+   "stars": 509,
    "description": "Raw talking-head take in, finished reel out. Open-source AI video editor for Claude Code.",
    "kind": "editing",
    "security_grade": "safe",
@@ -2817,7 +2827,7 @@
   {
    "repo_full_name": "YeJe-cpu/SeeCut",
    "path": null,
-   "stars": 455,
+   "stars": 461,
    "description": "An AI editor that watches its own cut: talking-head / AI-avatar video → auto-edited short video. 网感口播精剪：数字人/真人口播 → AI 自动精剪成网感动效短视频 → 可选剪映分层草稿",
    "kind": "editing",
    "security_grade": "safe",
@@ -2827,7 +2837,7 @@
   {
    "repo_full_name": "AgriciDaniel/claude-shorts",
    "path": null,
-   "stars": 386,
+   "stars": 389,
    "description": "Interactive longform-to-shortform video creator — Claude Code skill with Remotion-rendered animated captions, AI segment scoring, cursor tracking, and audio-aware boundary snapping",
    "kind": "editing",
    "security_grade": "safe",
@@ -2877,7 +2887,7 @@
   {
    "repo_full_name": "mrpaidsocial/mrpaidsocial-video-editor-agent",
    "path": null,
-   "stars": 163,
+   "stars": 166,
    "description": "Claude Code skill pack: edit short-form videos end to end — style-clone a reference reel, build a branded motion-graphics edit, ElevenLabs sound design, frame-level QA, timeline-comment review loop",
    "kind": "editing",
    "security_grade": "safe",
@@ -2887,7 +2897,7 @@
   {
    "repo_full_name": "ayushozha/AdobePremiereProMCP",
    "path": null,
-   "stars": 145,
+   "stars": 147,
    "description": "An open-source bridge between AI assistants and Adobe Premiere Pro, for supported editing workflows. Go, Rust, Python, and TypeScript.",
    "kind": "editing",
    "security_grade": "safe",
@@ -2897,7 +2907,7 @@
   {
    "repo_full_name": "Xiangyu-CAS/rea-capcut",
    "path": null,
-   "stars": 144,
+   "stars": 146,
    "description": "ReaCut — REA × CapCut: an independent, open-source video editor rebuilt from REA-assisted, authorized local behavior and format research. No copied CapCut proprietary code or assets. Offline desktop app + Codex plugin.",
    "kind": "editing",
    "security_grade": "safe",
@@ -2967,7 +2977,7 @@
   {
    "repo_full_name": "artemnovitckii/claude-editing-skills",
    "path": null,
-   "stars": 74,
+   "stars": 76,
    "description": "Claude Code skills that edit your talking-head clips into reels: trial reels, behind the person, explainer, split screen, ranking list, storytelling. Rendered locally with HyperFrames.",
    "kind": "editing",
    "security_grade": "safe",
@@ -2977,7 +2987,7 @@
   {
    "repo_full_name": "alisadiq-ai/favstash-ai-video-editing-skills",
    "path": null,
-   "stars": 71,
+   "stars": 73,
    "description": "Create Instagram Reels, TikToks and YouTube Shorts with adaptive AI editing, captions and motion graphics. Connect FavStash for planning, publishing and analytics.",
    "kind": "editing",
    "security_grade": "safe",
@@ -2987,7 +2997,7 @@
   {
    "repo_full_name": "RoverEva/eva-video-style",
    "path": null,
-   "stars": 58,
+   "stars": 59,
    "description": "Open-source AI video editing skill for talking-head videos. Features ready-to-use templates, cinematic effects, motion graphics, and animated captions. Choose a style and let AI edit!  开源 AI 口播视频剪辑工具，内置多种模板、电影级特效、动态图形及动画字幕。选择风格，导入视频，让 AI 帮你高效完成剪辑！",
    "kind": "editing",
    "security_grade": "safe",
@@ -2998,10 +3008,10 @@
    "repo_full_name": "zhouyuechuan2025-ui/aipacking",
    "path": null,
    "stars": 50,
-   "description": "aipacking | AI 口播视频包装 Skill：HyperFrames 分镜、Remotion 动效、预览双审。",
+   "description": "aipacking | AI 真人口播包装：MP4 + SRT、章节时间轴、语义动效和成片导出",
    "kind": "editing",
    "security_grade": "safe",
-   "language": "TypeScript",
+   "language": "CSS",
    "license": "MIT"
   },
   {
@@ -3045,6 +3055,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "Hainrixz/video-editor-architect",
+   "path": null,
+   "stars": 35,
+   "description": "Clónalo, ábrelo en Claude Code y un agente te guía para entrenar tu propio estilo de edición de reels. Claude dirige, Remotion renderiza. macOS y Windows, ES/EN. Por @soyenriquerocha · tododeia.",
+   "kind": "editing",
+   "security_grade": "caution",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "Kappaemme-git/codex-video-short-maker-skill",
    "path": null,
    "stars": 35,
@@ -3055,13 +3075,13 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "Hainrixz/video-editor-architect",
+   "repo_full_name": "pedroxcardoso/maquina-cortes-gta",
    "path": null,
-   "stars": 32,
-   "description": "Clónalo, ábrelo en Claude Code y un agente te guía para entrenar tu propio estilo de edición de reels. Claude dirige, Remotion renderiza. macOS y Windows, ES/EN. Por @soyenriquerocha · tododeia.",
+   "stars": 30,
+   "description": "Skill do Claude Code: vídeo longo vira vários cortes de Shorts sobre GTA 6 (metade streamer, metade vídeo, legenda palavra por palavra). Remotion + whisper.cpp.",
    "kind": "editing",
-   "security_grade": "caution",
-   "language": "TypeScript",
+   "security_grade": "safe",
+   "language": "JavaScript",
    "license": "MIT"
   },
   {
@@ -3072,16 +3092,6 @@
    "kind": "editing",
    "security_grade": "safe",
    "language": "TypeScript",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "pedroxcardoso/maquina-cortes-gta",
-   "path": null,
-   "stars": 25,
-   "description": "Skill do Claude Code: vídeo longo vira vários cortes de Shorts sobre GTA 6 (metade streamer, metade vídeo, legenda palavra por palavra). Remotion + whisper.cpp.",
-   "kind": "editing",
-   "security_grade": "safe",
-   "language": "JavaScript",
    "license": "MIT"
   },
   {
@@ -3177,12 +3187,22 @@
   {
    "repo_full_name": "rtadewald/agent-video-editor",
    "path": null,
-   "stars": 11,
+   "stars": 12,
    "description": "Meu conjunto de Skills, webapps e workflows para edição de vídeo automatizada com IA",
    "kind": "editing",
    "security_grade": "safe",
    "language": "Python",
    "license": null
+  },
+  {
+   "repo_full_name": "griffinwooldridge/talking-head-editor",
+   "path": null,
+   "stars": 11,
+   "description": "A Claude skill that edits raw talking-head footage: tight cuts, clean voice, captions and motion graphics as code",
+   "kind": "editing",
+   "security_grade": "safe",
+   "language": "JavaScript",
+   "license": "NOASSERTION"
   },
   {
    "repo_full_name": "Fagan1024/smart-video-editor",
@@ -3205,14 +3225,14 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "griffinwooldridge/talking-head-editor",
+   "repo_full_name": "d4niel-fr/shdw-video-editor",
    "path": null,
    "stars": 10,
-   "description": "A Claude skill that edits raw talking-head footage: tight cuts, clean voice, captions and motion graphics as code",
+   "description": "Open-source AI video editor: DaVinci Resolve-style timeline + Claude Code / Codex agent that writes motion graphics in code, edits, grades, captions & exports. Windows + macOS.",
    "kind": "editing",
    "security_grade": "safe",
-   "language": "JavaScript",
-   "license": "NOASSERTION"
+   "language": "TypeScript",
+   "license": "AGPL-3.0"
   },
   {
    "repo_full_name": "qingyunAGI/qingyun-cine-skill",
@@ -3223,16 +3243,6 @@
    "security_grade": "safe",
    "language": "Python",
    "license": null
-  },
-  {
-   "repo_full_name": "d4niel-fr/shdw-video-editor",
-   "path": null,
-   "stars": 9,
-   "description": "Open-source AI video editor: DaVinci Resolve-style timeline + Claude Code / Codex agent that writes motion graphics in code, edits, grades, captions & exports. Windows + macOS.",
-   "kind": "editing",
-   "security_grade": "safe",
-   "language": "TypeScript",
-   "license": "AGPL-3.0"
   },
   {
    "repo_full_name": "kajisho5/remotion-ffmpeg-skill",
@@ -3307,7 +3317,7 @@
   {
    "repo_full_name": "adunext/adu-motion-video",
    "path": null,
-   "stars": 836,
+   "stars": 844,
    "description": "阿杜的 AI 剪辑 Skill｜全系列模板已升级为 MotionGit .motion 开放格式，下载后直接发给助手即可创作。下载：https://motiongit.com/@adunext ｜精选阿杜与 Opus 5.5 制作的代码级动画模板，适合口播、知识讲解，支持多平台、多助手。",
    "kind": "shorts",
    "security_grade": "safe",
@@ -3317,7 +3327,7 @@
   {
    "repo_full_name": "artemnovitckii/claude-animation-skills",
    "path": null,
-   "stars": 714,
+   "stars": 749,
    "description": "Six Claude Code skills that make animations for reels, no footage needed: 3D cartoon explainer, stick figure, minimal line art, 3D map route, exploded view, line graph.",
    "kind": "shorts",
    "security_grade": "safe",
@@ -3337,7 +3347,7 @@
   {
    "repo_full_name": "hassancs91/claude-faceless-shorts-creator",
    "path": null,
-   "stars": 361,
+   "stars": 363,
    "description": "A faceless YouTube-Shorts factory driven by Claude Code: pure-TSX Remotion visuals, ElevenLabs voice with word-exact captions, library-first sound design. 12 complete example shorts included.",
    "kind": "shorts",
    "security_grade": "safe",
@@ -3357,7 +3367,7 @@
   {
    "repo_full_name": "0xS4N4TG/papercut-explainer",
    "path": null,
-   "stars": 212,
+   "stars": 218,
    "description": "Short vertical cut-paper explainer reels, made by your coding agent. Nine Agent Skills plus a Remotion library. Works with Claude Code, OpenCode, Codex, Gemini CLI, Cursor, Copilot and more.",
    "kind": "shorts",
    "security_grade": "safe",
@@ -3367,7 +3377,7 @@
   {
    "repo_full_name": "haiderfarooq3/paper-reel",
    "path": null,
-   "stars": 138,
+   "stars": 140,
    "description": "Claude Code skill: faceless 9:16 explainer reels in a cut-paper style. Voice-timed scenes, word-by-word captions. Free, local, no API keys.",
    "kind": "shorts",
    "security_grade": "safe",
@@ -3375,9 +3385,19 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "fendouai/ViralForge",
+   "path": null,
+   "stars": 139,
+   "description": "Agent-native viral video studio: one-click replicate viral short videos, deconstruct video hooks and scripts into a Viral DNA report, and ship 10 costed variants. Skill + MCP + CLI. Apache-2.0.",
+   "kind": "shorts",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "Apache-2.0"
+  },
+  {
    "repo_full_name": "SpaceZephyr/map-motion",
    "path": null,
-   "stars": 120,
+   "stars": 123,
    "description": "地图动效视频 Claude Code skill：基于高德地图真实路线/边界/卫星底图，做地球俯冲、vlog 我在这里、徒步海拔、骑行旅程、航线、行政区高亮等地图动画，12 种风格",
    "kind": "shorts",
    "security_grade": "safe",
@@ -3387,7 +3407,7 @@
   {
    "repo_full_name": "pycodebr/heditor",
    "path": null,
-   "stars": 116,
+   "stars": 117,
    "description": "Creative vertical video editing skill for AI agents (Claude Code, Codex, OpenCode, Cursor, Hermes): named styles, creative mode, HyperFrames + voice-first mix.",
    "kind": "shorts",
    "security_grade": "safe",
@@ -3405,19 +3425,9 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "fendouai/ViralForge",
-   "path": null,
-   "stars": 87,
-   "description": "Agent-native viral video studio: one-click replicate viral short videos, deconstruct video hooks and scripts into a Viral DNA report, and ship 10 costed variants. Skill + MCP + CLI. Apache-2.0.",
-   "kind": "shorts",
-   "security_grade": "safe",
-   "language": "TypeScript",
-   "license": "Apache-2.0"
-  },
-  {
    "repo_full_name": "Chamanrajragu/purffle-shorts",
    "path": null,
-   "stars": 76,
+   "stars": 78,
    "description": "Free open-source AI YouTube Shorts generator and faceless video maker in Python. Any LLM (GPT, Claude, Gemini, Ollama) writes scripts; text-to-speech, stock footage or AI images, word-synced captions, text-message chat and Reddit story videos, podcast and long video clipping, YouTube auto-upload and scheduling. TikTok and Reels ready. MCP server.",
    "kind": "shorts",
    "security_grade": "safe",
@@ -3437,12 +3447,22 @@
   {
    "repo_full_name": "Maartenlouis/remotion-ads",
    "path": null,
-   "stars": 69,
+   "stars": 70,
    "description": "Claude Code skill for creating Instagram Reels & Carousel ads with Remotion",
    "kind": "shorts",
    "security_grade": "safe",
    "language": "JavaScript",
    "license": "MIT"
+  },
+  {
+   "repo_full_name": "mattypark/Motion-graphics-skill",
+   "path": null,
+   "stars": 60,
+   "description": "Best Motion graphics and video editing skill for Claude Code, Codex and Cursor. Plan, animate, edit, caption and sound-design complete videos, rendered locally without After Effects.",
+   "kind": "shorts",
+   "security_grade": "safe",
+   "language": "Shell",
+   "license": null
   },
   {
    "repo_full_name": "liangdabiao/story-handdrawn-video",
@@ -3465,23 +3485,23 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "mattypark/Motion-graphics-skill",
-   "path": null,
-   "stars": 56,
-   "description": "Best Motion graphics and video editing skill for Claude Code, Codex and Cursor. Plan, animate, edit, caption and sound-design complete videos, rendered locally without After Effects.",
-   "kind": "shorts",
-   "security_grade": "safe",
-   "language": "Shell",
-   "license": null
-  },
-  {
    "repo_full_name": "threeaus/creator-style-kit",
    "path": null,
-   "stars": 56,
+   "stars": 57,
    "description": "18 套 9:16 HyperFrames 视频风格（字体/配色/动效/音效/构图），Claude Code skill",
    "kind": "shorts",
    "security_grade": "safe",
    "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "luispablovillasenor-afk/shorts-animados-claude",
+   "path": null,
+   "stars": 52,
+   "description": "Skill gratis para Claude Code: shorts animados 3D virales (personajes 2D en un mundo 3D) con three.js + Remotion. En español.",
+   "kind": "shorts",
+   "security_grade": "safe",
+   "language": "TypeScript",
    "license": "MIT"
   },
   {
@@ -3493,16 +3513,6 @@
    "security_grade": "safe",
    "language": "TypeScript",
    "license": null
-  },
-  {
-   "repo_full_name": "luispablovillasenor-afk/shorts-animados-claude",
-   "path": null,
-   "stars": 42,
-   "description": "Skill gratis para Claude Code: shorts animados 3D virales (personajes 2D en un mundo 3D) con three.js + Remotion. En español.",
-   "kind": "shorts",
-   "security_grade": "safe",
-   "language": "TypeScript",
-   "license": "MIT"
   },
   {
    "repo_full_name": "yammaku/typewriter-video",
@@ -3547,7 +3557,7 @@
   {
    "repo_full_name": "aaksa/facecammaxxing",
    "path": null,
-   "stars": 27,
+   "stars": 28,
    "description": "Claude Code skill: pro motion-graphics effects on your own talking-head clip - Remotion + GSAP + Three.js over a clean cut-out (text behind your head, 3D card rings, tier lists, kinetic captions, punch-ins)",
    "kind": "shorts",
    "security_grade": "safe",
@@ -3565,6 +3575,16 @@
    "license": "NOASSERTION"
   },
   {
+   "repo_full_name": "iart-ai/tiktok-video-skills",
+   "path": null,
+   "stars": 24,
+   "description": "Short-form video skills for Claude Code — engineer Reels, TikToks, and YouTube Shorts that survive the swipe.",
+   "kind": "shorts",
+   "security_grade": "safe",
+   "language": "HTML",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "artemiimillier/skill-multik",
    "path": null,
    "stars": 23,
@@ -3575,13 +3595,13 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "iart-ai/tiktok-video-skills",
+   "repo_full_name": "V413havai/vaibhav-video-editor",
    "path": null,
-   "stars": 22,
-   "description": "Short-form video skills for Claude Code — engineer Reels, TikToks, and YouTube Shorts that survive the swipe.",
+   "stars": 19,
+   "description": "Vaibhav AI Video Editor: a Claude Code skill that edits videos start to finish and makes animated reels with an AI voiceover (cuts, captions, motion graphics, transitions, sound).",
    "kind": "shorts",
    "security_grade": "safe",
-   "language": "HTML",
+   "language": "Python",
    "license": "MIT"
   },
   {
@@ -3645,16 +3665,6 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "V413havai/vaibhav-video-editor",
-   "path": null,
-   "stars": 15,
-   "description": "Vaibhav AI Video Editor: a Claude Code skill that edits videos start to finish and makes animated reels with an AI voiceover (cuts, captions, motion graphics, transitions, sound).",
-   "kind": "shorts",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "RahmanBuildsAI/ravyn-reel-kit",
    "path": null,
    "stars": 14,
@@ -3715,6 +3725,16 @@
    "license": "NOASSERTION"
   },
   {
+   "repo_full_name": "miguelcotrinaia/claude-skills-shorts-animados",
+   "path": null,
+   "stars": 11,
+   "description": "Crea shorts animados para TikTok y YouTube con Claude Skills, sin escribir código. Proyecto open source, personalizable y con tutorial paso a paso.",
+   "kind": "shorts",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "ghost1412/shorts-generator",
    "path": null,
    "stars": 10,
@@ -3742,16 +3762,6 @@
    "kind": "shorts",
    "security_grade": "safe",
    "language": "JavaScript",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "miguelcotrinaia/claude-skills-shorts-animados",
-   "path": null,
-   "stars": 9,
-   "description": "Crea shorts animados para TikTok y YouTube con Claude Skills, sin escribir código. Proyecto open source, personalizable y con tutorial paso a paso.",
-   "kind": "shorts",
-   "security_grade": "safe",
-   "language": "TypeScript",
    "license": "MIT"
   },
   {
@@ -3845,16 +3855,6 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "SyedBahjat/claude-stickman-shorts",
-   "path": null,
-   "stars": 6,
-   "description": "Claude Code skill that makes stick-figure 'You Decide' story shorts and clones ANY video format (explainers, top-10s, quizzes, stories, long-form) for YouTube Shorts, TikTok & Reels. Script, animation, AI voices, captions, copyright-free SFX. Remotion.",
-   "kind": "shorts",
-   "security_grade": "safe",
-   "language": "TypeScript",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "iamajmeena/pro-motion-editor-skill",
    "path": null,
    "stars": 6,
@@ -3915,6 +3915,16 @@
    "license": null
   },
   {
+   "repo_full_name": "SyedBahjat/claude-stickman-shorts",
+   "path": null,
+   "stars": 5,
+   "description": "Claude Code skill that makes stick-figure 'You Decide' story shorts and clones ANY video format (explainers, top-10s, quizzes, stories, long-form) for YouTube Shorts, TikTok & Reels. Script, animation, AI voices, captions, copyright-free SFX. Remotion.",
+   "kind": "shorts",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "clipugc/ClipUGC-CLI",
    "path": null,
    "stars": 5,
@@ -3967,7 +3977,7 @@
   {
    "repo_full_name": "cclank/lanshu-create-ai-presenter-video",
    "path": null,
-   "stars": 2977,
+   "stars": 2989,
    "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
    "kind": "avatar",
    "security_grade": "safe",
@@ -4057,7 +4067,7 @@
   {
    "repo_full_name": "lemomo-ai/lemo-opuscar",
    "path": null,
-   "stars": 15569,
+   "stars": 15938,
    "description": "A toolbox of film styles made in code for Claude Code: 99 ready to use, and your own. Each style is a style prompt plus a demo film made entirely in code by Claude Opus 5.5, with no video model. By Lemomo. · 一套用代码做片的风格工具箱：99 种现成风格，也能做出你自己的",
    "kind": "story",
    "security_grade": "safe",
@@ -4067,7 +4077,7 @@
   {
    "repo_full_name": "alchaincyf/huashu-art-motion",
    "path": null,
-   "stars": 6856,
+   "stars": 6894,
    "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
    "kind": "story",
    "security_grade": "safe",
@@ -4077,7 +4087,7 @@
   {
    "repo_full_name": "JohnHeibel/ClaudeAnimationBase",
    "path": null,
-   "stars": 2942,
+   "stars": 2975,
    "description": "A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model",
    "kind": "story",
    "security_grade": "safe",
@@ -4087,7 +4097,7 @@
   {
    "repo_full_name": "gnipbao/story-to-handdrawn-video",
    "path": null,
-   "stars": 2471,
+   "stars": 2475,
    "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
    "kind": "story",
    "security_grade": "safe",
@@ -4097,7 +4107,7 @@
   {
    "repo_full_name": "edenfunf/reelmimic",
    "path": null,
-   "stars": 1974,
+   "stars": 1962,
    "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
    "kind": "story",
    "security_grade": "safe",
@@ -4107,7 +4117,7 @@
   {
    "repo_full_name": "Lanqiao-Luca/ai-video-marker",
    "path": null,
-   "stars": 529,
+   "stars": 534,
    "description": "🎬 AI 视频制作与 AIGC 创作工作流（AI Video Creation Workflow）｜用 AI 制作视频、像素动画与漫画短片｜分镜、素材、配乐、模板与可运行 Python 示例｜Blender 分层动画与剪映制作方法",
    "kind": "story",
    "security_grade": "safe",
@@ -4117,7 +4127,7 @@
   {
    "repo_full_name": "tuzhechen2005/opus-video-skills",
    "path": null,
-   "stars": 495,
+   "stars": 497,
    "description": "Video-making skills for Claude Opus 5.5 in Claude Code — every frame and note generated in code, one skill per style: hand-painted animation, kinetic-typography reels | 用 Claude Opus 5.5 以代码制作视频的技能合集",
    "kind": "story",
    "security_grade": "safe",
@@ -4137,7 +4147,7 @@
   {
    "repo_full_name": "kelano86/what-if-animation",
    "path": null,
-   "stars": 329,
+   "stars": 345,
    "description": "A free skill for Claude Code and OpenCode (runs on a free model): one topic line in, a finished 15-25 s What If animated episode out. Every frame drawn in code (SVG + Remotion); voice and sound from ElevenLabs.",
    "kind": "story",
    "security_grade": "safe",
@@ -4147,7 +4157,7 @@
   {
    "repo_full_name": "sevenevesai/riso-windowseat",
    "path": null,
-   "stars": 317,
+   "stars": 320,
    "description": "Procedural risograph films in single HTML files (Window Seat, Roost and more), with the Claude Code skills, docs and tools to make your own.",
    "kind": "story",
    "security_grade": "safe",
@@ -4167,7 +4177,7 @@
   {
    "repo_full_name": "buildwithhanif/claude-animation-skill",
    "path": null,
-   "stars": 152,
+   "stars": 153,
    "description": "Hand-drawn 2D animation written as code: detail bible, a detailed ant rig, brush/watercolour pen, frame-matched recreation loop, synthesised sound. Node canvas + ffmpeg.",
    "kind": "story",
    "security_grade": "safe",
@@ -4207,7 +4217,7 @@
   {
    "repo_full_name": "mromidev/claude-blender-skills",
    "path": null,
-   "stars": 86,
+   "stars": 87,
    "description": "Free Claude skills for realistic Blender animations: full workflows + the real scripts behind my YouTube videos",
    "kind": "story",
    "security_grade": "safe",
@@ -4217,7 +4227,7 @@
   {
    "repo_full_name": "nocodehack/make-short",
    "path": null,
-   "stars": 66,
+   "stars": 67,
    "description": "Free Claude Code skill: make animated YouTube Shorts (2D characters in a 3D Blender world) with a critic agent.",
    "kind": "story",
    "security_grade": "safe",
@@ -4247,7 +4257,7 @@
   {
    "repo_full_name": "AllenAI2014/remotion-guofeng-starter",
    "path": null,
-   "stars": 35,
+   "stars": 36,
    "description": "国风纸片动画：Remotion 风格资产库 + 制作流程 Skill。给 AI 一首诗/成语，照这套国风纸片拼贴风格从零出片，全程代码渲染不进剪辑。",
    "kind": "story",
    "security_grade": "safe",
@@ -4263,6 +4273,16 @@
    "security_grade": "safe",
    "language": "TypeScript",
    "license": null
+  },
+  {
+   "repo_full_name": "hsynozdamar-byte/cinecode-studio",
+   "path": null,
+   "stars": 32,
+   "description": "Desktop production panel for cinecode: write an idea, approve a timed script, and Claude Code makes the film on your machine. Revise, edit with HyperFrames, clone a video.",
+   "kind": "story",
+   "security_grade": "safe",
+   "language": "HTML",
+   "license": "MIT"
   },
   {
    "repo_full_name": "JimLiu/taohuayuan",
@@ -4285,19 +4305,9 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "hsynozdamar-byte/cinecode-studio",
-   "path": null,
-   "stars": 30,
-   "description": "Desktop production panel for cinecode: write an idea, approve a timed script, and Claude Code makes the film on your machine. Revise, edit with HyperFrames, clone a video.",
-   "kind": "story",
-   "security_grade": "safe",
-   "language": "HTML",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "zakariaf/cinecode",
    "path": null,
-   "stars": 26,
+   "stars": 27,
    "description": "Animated films made entirely by code: a Claude Code plugin. Describe a film, and Claude writes, animates, scores and renders it.",
    "kind": "story",
    "security_grade": "safe",
@@ -4307,7 +4317,7 @@
   {
    "repo_full_name": "deenukhan/story-animator",
    "path": null,
-   "stars": 25,
+   "stars": 26,
    "description": "Claude Code skill: turn a one-line idea into a narrated 2D animated story video. Every frame drawn in code (Remotion), voiced with ElevenLabs.",
    "kind": "story",
    "security_grade": "safe",
@@ -4327,7 +4337,7 @@
   {
    "repo_full_name": "thuann-vn/claude-3d-animated-shorts",
    "path": null,
-   "stars": 17,
+   "stars": 18,
    "description": "Claude skill: vertical 3D animated story Shorts (three.js) in the RicksClips style — real 3D characters, office/home sets, no AI video",
    "kind": "story",
    "security_grade": "safe",
@@ -4343,6 +4353,16 @@
    "security_grade": "safe",
    "language": "Python",
    "license": null
+  },
+  {
+   "repo_full_name": "nocodehack/nocodehack-roblox-engine",
+   "path": null,
+   "stars": 13,
+   "description": "Claude Code skill that makes animated Roblox-style Shorts from one line: story, animation, camera, sound. Free.",
+   "kind": "story",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "Apache-2.0"
   },
   {
    "repo_full_name": "yenceesanjeev/2d-character-sketch",
@@ -4375,6 +4395,16 @@
    "license": null
   },
   {
+   "repo_full_name": "krishnagoswami52/stickman-skill",
+   "path": null,
+   "stars": 7,
+   "description": "Claude skill: cinematic stickman story videos as MP4 from code, with a free built-in AI voiceover (no ElevenLabs)",
+   "kind": "story",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "huynhcongdac/story-video-skill",
    "path": null,
    "stars": 6,
@@ -4387,7 +4417,7 @@
   {
    "repo_full_name": "diffusionstudio/lottie",
    "path": null,
-   "stars": 5740,
+   "stars": 5745,
    "description": "Generate production-ready Lottie animations with Claude Code or Codex",
    "kind": "motion",
    "security_grade": "safe",
@@ -4397,7 +4427,7 @@
   {
    "repo_full_name": "nolangz/pixel2motion",
    "path": null,
-   "stars": 2644,
+   "stars": 2653,
    "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
    "kind": "motion",
    "security_grade": "safe",
@@ -4407,7 +4437,7 @@
   {
    "repo_full_name": "pyang5166/gbro-collage-broll",
    "path": null,
-   "stars": 1920,
+   "stars": 1932,
    "description": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
    "kind": "motion",
    "security_grade": "safe",
@@ -4417,7 +4447,7 @@
   {
    "repo_full_name": "WoYun520/gif-factory",
    "path": null,
-   "stars": 1699,
+   "stars": 1817,
    "description": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
    "kind": "motion",
    "security_grade": "safe",
@@ -4427,7 +4457,7 @@
   {
    "repo_full_name": "alexgreensh/anidoodle",
    "path": null,
-   "stars": 1658,
+   "stars": 1671,
    "description": "Art and animation, written as code. Illustrations, loops, interactive web art, launch-videos and scored films in dozens of styles, identical on every render.",
    "kind": "motion",
    "security_grade": "safe",
@@ -4447,7 +4477,7 @@
   {
    "repo_full_name": "ythx-101/live-panel-skill",
    "path": null,
-   "stars": 855,
+   "stars": 857,
    "description": "Agent skill + renderer: turn one JSON config (or an Excalidraw file) into an animated architecture diagram — terminal-style live panel or pastel infographic — as mp4 or a looping web page. 动态架构图 / agent 架构动图，适配 X 与小红书。",
    "kind": "motion",
    "security_grade": "safe",
@@ -4467,7 +4497,7 @@
   {
    "repo_full_name": "YIAN6557/eian-riso-broll",
    "path": null,
-   "stars": 369,
+   "stars": 370,
    "description": "孔版双色风格的口播信息动画 Skill：逐字稿 → 1080×1920 竖屏 mp4 · Risograph-style info animations for talking-head videos",
    "kind": "motion",
    "security_grade": "safe",
@@ -4487,7 +4517,7 @@
   {
    "repo_full_name": "HRuiCcc/RuiC-motion-reel",
    "path": null,
-   "stars": 198,
+   "stars": 200,
    "description": "一句话 brief 生成动态图形 / 动效宣传片 · Agent Skill。时长按 BPM×小节算（12–60 秒），默认 1920×1080；常规宣传片走 remotion/ 模板，特殊质感走自研引擎：2× 超采样矢量/文字、真 3D 点云、丝网印四色分色、普朗克/薄膜干涉物理配色、代码合成配乐，不用外部美术素材、不用 AE。16 张风格牌为参考库，已做过九种视觉语言（暗色科技 / riso / 纸艺 / 银盐 / 普朗克恒星 / 氰版蓝图 / 紫外光刻 / 品牌暗色 / 品牌亮色），成片见 docs/films/",
    "kind": "motion",
    "security_grade": "safe",
@@ -4497,7 +4527,7 @@
   {
    "repo_full_name": "Liamrjohnston/remotion-motion-graphics-skill",
    "path": null,
-   "stars": 161,
+   "stars": 163,
    "description": "Production-ready Remotion motion graphics skills for AI video workflows",
    "kind": "motion",
    "security_grade": "safe",
@@ -4517,7 +4547,7 @@
   {
    "repo_full_name": "fantuan-lab/animated-sticker-studio",
    "path": null,
-   "stars": 63,
+   "stars": 66,
    "description": "One character image → a full pack of animated chat stickers (WeChat / Telegram / LINE / Discord). Claude Code & Codex skill · 给 AI 一张图，做一整套会动的表情包",
    "kind": "motion",
    "security_grade": "safe",
@@ -4525,19 +4555,9 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "zz41354899/mografy",
-   "path": null,
-   "stars": 56,
-   "description": "Create, preview, and export Canvas motion graphics with Claude Code or Codex. Local-first and open source, with MP4, Lottie, and SVGA export.",
-   "kind": "motion",
-   "security_grade": "caution",
-   "language": "TypeScript",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "Felpborges/claude-video",
    "path": null,
-   "stars": 54,
+   "stars": 58,
    "description": "Motion graphics com acabamento de estúdio no Claude Code, em português: galeria de estilos, 5 perguntas, perícia da referência e MP4.",
    "kind": "motion",
    "security_grade": "safe",
@@ -4545,9 +4565,19 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "zz41354899/mografy",
+   "path": null,
+   "stars": 57,
+   "description": "Create, preview, and export Canvas motion graphics with Claude Code or Codex. Local-first and open source, with MP4, Lottie, and SVGA export.",
+   "kind": "motion",
+   "security_grade": "caution",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "hughminhphan/motion-kit",
    "path": null,
-   "stars": 37,
+   "stars": 38,
    "description": "a claude code skill that makes agent-made video move like a motion designer keyed it: curves per move, timing from distance, reactions not staggers. built for hyperframes, works on any gsap timeline",
    "kind": "motion",
    "security_grade": "safe",
@@ -4582,12 +4612,12 @@
    "kind": "motion",
    "security_grade": "safe",
    "language": "JavaScript",
-   "license": null
+   "license": "MIT"
   },
   {
    "repo_full_name": "iart-ai/kinetic-typography-skills",
    "path": null,
-   "stars": 25,
+   "stars": 26,
    "description": "Kinetic typography skills for AI coding agents — turn text into beat-synced, animated type for social, titles, and lyric videos.",
    "kind": "motion",
    "security_grade": "safe",
@@ -4617,7 +4647,7 @@
   {
    "repo_full_name": "awesome-skills/manim-skill",
    "path": null,
-   "stars": 14,
+   "stars": 15,
    "description": "Manim animation skill for Claude Code - create programmatic animations for technical blogs and educational content",
    "kind": "motion",
    "security_grade": "safe",
@@ -4642,6 +4672,16 @@
    "kind": "motion",
    "security_grade": "safe",
    "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "deenukhan/animation-styles",
+   "path": null,
+   "stars": 12,
+   "description": "39 animation styles drawn in code with Remotion, as a Claude Code skill. One 5-second chai film in every style, ready to retell with your own story.",
+   "kind": "motion",
+   "security_grade": "safe",
+   "language": "TypeScript",
    "license": "MIT"
   },
   {
@@ -4695,6 +4735,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "hubeiqiao/og-video-preview",
+   "path": null,
+   "stars": 8,
+   "description": "Agent skill that turns any approved Open Graph image into a looping og:video. It plays in iMessage, Discord and Telegram link previews, and every other app shows the same still. Tested on 104 real OG images. For Claude Code, Codex and any agent that supports Agent Skills.",
+   "kind": "motion",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "CJ10110425/logo-intro",
    "path": null,
    "stars": 7,
@@ -4702,26 +4752,6 @@
    "kind": "motion",
    "security_grade": "safe",
    "language": "JavaScript",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "deenukhan/animation-styles",
-   "path": null,
-   "stars": 7,
-   "description": "39 animation styles drawn in code with Remotion, as a Claude Code skill. One 5-second chai film in every style, ready to retell with your own story.",
-   "kind": "motion",
-   "security_grade": "safe",
-   "language": "TypeScript",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "hubeiqiao/og-video-preview",
-   "path": null,
-   "stars": 7,
-   "description": "Agent skill that turns any approved Open Graph image into a looping og:video. It plays in iMessage, Discord and Telegram link previews, and every other app shows the same still. Tested on 104 real OG images. For Claude Code, Codex and any agent that supports Agent Skills.",
-   "kind": "motion",
-   "security_grade": "safe",
-   "language": "Python",
    "license": "MIT"
   },
   {
@@ -4742,6 +4772,16 @@
    "kind": "motion",
    "security_grade": "safe",
    "language": "HTML",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "Tu-Zhenzhao/pocketworld",
+   "path": null,
+   "stars": 5,
+   "description": "One sentence, one image, a living pixel world. An agent skill for GIFs, videos and transparent web components.",
+   "kind": "motion",
+   "security_grade": "safe",
+   "language": "JavaScript",
    "license": "MIT"
   },
   {
@@ -4777,7 +4817,7 @@
   {
    "repo_full_name": "jtydhr88/screenwriting-skills",
    "path": null,
-   "stars": 2055,
+   "stars": 2065,
    "description": "Professional agent skills for screenwriting, television writing and dramaturgy",
    "kind": "craft",
    "security_grade": "safe",
@@ -4787,7 +4827,7 @@
   {
    "repo_full_name": "eternityspring/reelbench-skills",
    "path": null,
-   "stars": 1221,
+   "stars": 1223,
    "description": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
    "kind": "craft",
    "security_grade": "safe",
@@ -4797,7 +4837,7 @@
   {
    "repo_full_name": "gnipbao/minimax-h3-video-reverse-skill",
    "path": null,
-   "stars": 327,
+   "stars": 331,
    "description": "MiniMax H3 视频反推 Skill：真实镜头、首帧与动态提示词、AUTO/T2VA/I2V/DUAL，附中文教程与验证工具。",
    "kind": "craft",
    "security_grade": "safe",
@@ -4807,7 +4847,7 @@
   {
    "repo_full_name": "wyuzhi/qisi-video-remix",
    "path": null,
-   "stars": 194,
+   "stars": 195,
    "description": "视频创意改编 Agent Skill：参考视频 → 剧本 → 分镜 → 分段生成提示词。By qisi.",
    "kind": "craft",
    "security_grade": "safe",
@@ -4877,7 +4917,7 @@
   {
    "repo_full_name": "JohnHeibel/PDoomVideo",
    "path": null,
-   "stars": 2922,
+   "stars": 2930,
    "description": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
    "kind": "music",
    "security_grade": "safe",
@@ -4887,7 +4927,7 @@
   {
    "repo_full_name": "EGSECDA/vocaloid-style-mv-pipeline",
    "path": null,
-   "stars": 271,
+   "stars": 272,
    "description": "Production pipeline and Claude Code skill for Vocaloid-style hand-drawn (手書き) lyric music videos: deterministic Canvas2D/WebGL2 animation engine, JIZURA lyric motion, AI illustration, Blender toon 3D, headless rendering to 16:9 and 9:16.",
    "kind": "music",
    "security_grade": "safe",
@@ -4917,7 +4957,7 @@
   {
    "repo_full_name": "Win-Hao/music-mv",
    "path": null,
-   "stars": 131,
+   "stars": 134,
    "description": "用 AI 写代码给一首歌做音乐 MV 的 agent skill：听懂歌 → 定画风 → 画角色 → 剧本分镜 → 先出草图再做整片 → 看片修改。每一帧都是代码画的，不是视频生成；不限模型。",
    "kind": "music",
    "security_grade": "safe",
@@ -4927,7 +4967,7 @@
   {
    "repo_full_name": "ledbetterljoshua/functional-emotions-video",
    "path": null,
-   "stars": 78,
+   "stars": 79,
    "description": "A painted music video for \"Functional Emotions\", made by Claude Opus 5.5: custom GPU brushstroke renderer, storyboard, and 7 parallel chapter agents.",
    "kind": "music",
    "security_grade": "safe",
@@ -4937,7 +4977,7 @@
   {
    "repo_full_name": "lintsinghua/paint-mv-skills",
    "path": null,
-   "stars": 63,
+   "stars": 64,
    "description": "Agent skills that turn a song and its lyrics into a hand-painted watercolour music video (p5.brush + headless Chrome + ffmpeg), following PDoomVideo's pipeline",
    "kind": "music",
    "security_grade": "safe",
