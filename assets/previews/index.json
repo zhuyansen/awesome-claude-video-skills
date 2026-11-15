@@ -149,6 +149,16 @@
   "file": "Alisa0808__vox-director.jpg",
   "still": "Alisa0808__vox-director.jpg"
  },
+ "AmadeusBio-ai/Molecular_Animation": {
+  "repo": "AmadeusBio-ai/Molecular_Animation",
+  "url": "https://raw.githubusercontent.com/AmadeusBio-ai/Molecular_Animation/HEAD/docs/media/template-gfp.jpg",
+  "alt": "Template output for PDB 1EMA: the GFP chromophore in a cutaway, labelled",
+  "score": 1.75,
+  "type": "image/jpeg",
+  "bytes": 93739,
+  "file": "AmadeusBio-ai__Molecular_Animation.jpg",
+  "still": "AmadeusBio-ai__Molecular_Animation.jpg"
+ },
  "AmazingAng/ccvideo": {
   "repo": "AmazingAng/ccvideo",
   "url": "https://raw.githubusercontent.com/AmazingAng/ccvideo/HEAD/assets/XApiElon.gif",
@@ -648,6 +658,16 @@
   "bytes": 546691,
   "file": "TheNoumanDev__zero-dollar-studio.gif",
   "still": "TheNoumanDev__zero-dollar-studio.jpg"
+ },
+ "TryWorld2026/paper-algorithm": {
+  "repo": "TryWorld2026/paper-algorithm",
+  "url": "https://raw.githubusercontent.com/TryWorld2026/paper-algorithm/HEAD/examples/cordis-paper/cover_4x3.png",
+  "alt": "Cordis 论文精读 · 横版封面",
+  "score": -2.75,
+  "type": "image/png",
+  "bytes": 752936,
+  "file": "TryWorld2026__paper-algorithm.jpg",
+  "still": "TryWorld2026__paper-algorithm.jpg"
  },
  "Tu-Zhenzhao/pocketworld": {
   "repo": "Tu-Zhenzhao/pocketworld",
