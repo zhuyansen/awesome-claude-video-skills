@@ -719,6 +719,16 @@
   "file": "XuHo-IT__Content-Agent-Kit.jpg",
   "still": "XuHo-IT__Content-Agent-Kit.jpg"
  },
+ "YKLovePython/halfsize": {
+  "repo": "YKLovePython/halfsize",
+  "url": "https://raw.githubusercontent.com/YKLovePython/halfsize/main/docs/card.webp",
+  "alt": "halfsize: 23.2 MB to 1.99 MB, 12x smaller, VMAF 84.4",
+  "score": 0.0,
+  "type": "image/webp",
+  "bytes": 246634,
+  "file": "YKLovePython__halfsize.jpg",
+  "still": "YKLovePython__halfsize.jpg"
+ },
  "YahyaLendani/motionbrief-claude-skills": {
   "repo": "YahyaLendani/motionbrief-claude-skills",
   "url": "https://raw.githubusercontent.com/YahyaLendani/motionbrief-claude-skills/HEAD/docs/intro.gif",
@@ -1039,6 +1049,16 @@
   "file": "cymcymcymcym__notes-to-video.gif",
   "still": "cymcymcymcym__notes-to-video.jpg"
  },
+ "dan2756/ReelForge": {
+  "repo": "dan2756/ReelForge",
+  "url": "https://raw.githubusercontent.com/dan2756/ReelForge/HEAD/docs/demos/rubber-duck.webp",
+  "alt": "What if a rubber duck doubled in size every 2 seconds?",
+  "score": -0.15,
+  "type": "image/webp",
+  "bytes": 930718,
+  "file": "dan2756__ReelForge.jpg",
+  "still": "dan2756__ReelForge.jpg"
+ },
  "dauletbekalim/motion-ui-videos": {
   "repo": "dauletbekalim/motion-ui-videos",
   "url": "https://raw.githubusercontent.com/dauletbekalim/motion-ui-videos/HEAD/media/demo.gif",
@@ -1239,15 +1259,15 @@
   "file": "frankShan001__CutVoke.gif",
   "still": "frankShan001__CutVoke.jpg"
  },
- "garycaogan/pixel-diary": {
-  "repo": "garycaogan/pixel-diary",
-  "url": "https://raw.githubusercontent.com/garycaogan/pixel-diary/HEAD/docs/demo.jpg",
+ "garycaogan/gary-pixel-diary": {
+  "repo": "garycaogan/gary-pixel-diary",
+  "url": "https://raw.githubusercontent.com/garycaogan/gary-pixel-diary/HEAD/docs/demo.jpg",
   "alt": "单人版",
   "score": 2.0,
   "type": "image/jpeg",
   "bytes": 154468,
-  "file": "garycaogan__pixel-diary.jpg",
-  "still": "garycaogan__pixel-diary.jpg"
+  "file": "garycaogan__gary-pixel-diary.jpg",
+  "still": "garycaogan__gary-pixel-diary.jpg"
  },
  "gmpetrov/agent-screenplay": {
   "repo": "gmpetrov/agent-screenplay",
@@ -1569,6 +1589,26 @@
   "file": "isabellagreco1997__script-to-video.gif",
   "still": "isabellagreco1997__script-to-video.jpg"
  },
+ "itwanger/one-minute-remotion": {
+  "repo": "itwanger/one-minute-remotion",
+  "url": "https://raw.githubusercontent.com/itwanger/one-minute-remotion/HEAD/docs/media/science/newton-first-law.gif",
+  "alt": "牛顿第一定律：斜面逐渐放缓，小球为了回到原高度需要滚得更远",
+  "score": 2.95,
+  "type": "image/gif",
+  "bytes": 577990,
+  "file": "itwanger__one-minute-remotion.gif",
+  "still": "itwanger__one-minute-remotion.jpg"
+ },
+ "itwanger/vibe-science": {
+  "repo": "itwanger/vibe-science",
+  "url": "https://raw.githubusercontent.com/itwanger/vibe-science/HEAD/skills/one-minute-remotion/references/approved-memphis/opening.png",
+  "alt": "孟菲斯首帧：完整四色拼图和彩色题字",
+  "score": 0.0,
+  "type": "image/png",
+  "bytes": 137015,
+  "file": "itwanger__vibe-science.jpg",
+  "still": "itwanger__vibe-science.jpg"
+ },
  "jabbarlee/open-papertrail": {
   "repo": "jabbarlee/open-papertrail",
   "url": "https://raw.githubusercontent.com/jabbarlee/open-papertrail/HEAD/examples/flat-grain/walk-poster.jpg",
@@ -1728,6 +1768,16 @@
   "bytes": 2015038,
   "file": "magichourhq__skills.jpg",
   "still": "magichourhq__skills.jpg"
+ },
+ "manoletre/explainer-video": {
+  "repo": "manoletre/explainer-video",
+  "url": "https://raw.githubusercontent.com/manoletre/explainer-video/HEAD/docs/search.jpg",
+  "alt": "Search algorithms explainer",
+  "score": -0.05,
+  "type": "image/jpeg",
+  "bytes": 46787,
+  "file": "manoletre__explainer-video.jpg",
+  "still": "manoletre__explainer-video.jpg"
  },
  "memex-lab/product-launch-video-skill": {
   "repo": "memex-lab/product-launch-video-skill",
@@ -1939,6 +1989,16 @@
   "file": "pyang5166__gbro-collage-info.gif",
   "still": "pyang5166__gbro-collage-info.jpg"
  },
+ "qualixar/brief2mp4": {
+  "repo": "qualixar/brief2mp4",
+  "url": "https://raw.githubusercontent.com/qualixar/brief2mp4/HEAD/assets/example08-five-worlds.webp",
+  "alt": "Example 08: the words of a brief lift off the page into a 3D city of light, the ",
+  "score": 1.6,
+  "type": "image/webp",
+  "bytes": 5642738,
+  "file": "qualixar__brief2mp4.jpg",
+  "still": "qualixar__brief2mp4.jpg"
+ },
  "rafiimanggala/paper-collage-skill": {
   "repo": "rafiimanggala/paper-collage-skill",
   "url": "https://raw.githubusercontent.com/rafiimanggala/paper-collage-skill/HEAD/docs/demo.gif",
@@ -1998,6 +2058,16 @@
   "bytes": 226873,
   "file": "rocketmandrey__stickman-director.jpg",
   "still": "rocketmandrey__stickman-director.jpg"
+ },
+ "rocksstarcode/hyperframes-video-polish": {
+  "repo": "rocksstarcode/hyperframes-video-polish",
+  "url": "https://raw.githubusercontent.com/rocksstarcode/hyperframes-video-polish/HEAD/assets/leadsthatmatter-preview.gif",
+  "alt": "Highlights from the LeadsThatMatter product film: hook, AI agent diagram, prospe",
+  "score": 2.3,
+  "type": "image/gif",
+  "bytes": 1760589,
+  "file": "rocksstarcode__hyperframes-video-polish.gif",
+  "still": "rocksstarcode__hyperframes-video-polish.jpg"
  },
  "samuelstroschein/opus-video-generator": {
   "repo": "samuelstroschein/opus-video-generator",
@@ -2098,6 +2168,16 @@
   "bytes": 949664,
   "file": "sudadom__arabic-motion-graphics-skill.gif",
   "still": "sudadom__arabic-motion-graphics-skill.jpg"
+ },
+ "suiyang-meta/sui-motion-graphic-reel": {
+  "repo": "suiyang-meta/sui-motion-graphic-reel",
+  "url": "https://raw.githubusercontent.com/suiyang-meta/sui-motion-graphic-reel/HEAD/examples/v7-near-final.jpg",
+  "alt": "一支 15 秒开场的联络表",
+  "score": 0.0,
+  "type": "image/jpeg",
+  "bytes": 797236,
+  "file": "suiyang-meta__sui-motion-graphic-reel.jpg",
+  "still": "suiyang-meta__sui-motion-graphic-reel.jpg"
  },
  "surajshetty3416/demo-video-skill": {
   "repo": "surajshetty3416/demo-video-skill",
