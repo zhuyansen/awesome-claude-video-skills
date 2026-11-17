@@ -219,6 +219,26 @@
   "file": "AsadMoulviDev__reel-video.jpg",
   "still": "AsadMoulviDev__reel-video.jpg"
  },
+ "BetaVersionHQ/beta-version-blox-studio": {
+  "repo": "BetaVersionHQ/beta-version-blox-studio",
+  "url": "https://raw.githubusercontent.com/BetaVersionHQ/beta-version-blox-studio/HEAD/docs/gallery.png",
+  "alt": "Stills from shorts made with Blox Studio",
+  "score": 1.55,
+  "type": "image/png",
+  "bytes": 952389,
+  "file": "BetaVersionHQ__beta-version-blox-studio.jpg",
+  "still": "BetaVersionHQ__beta-version-blox-studio.jpg"
+ },
+ "BetaVersionHQ/beta-version-toon-studio": {
+  "repo": "BetaVersionHQ/beta-version-toon-studio",
+  "url": "https://raw.githubusercontent.com/BetaVersionHQ/beta-version-toon-studio/HEAD/docs/gallery.png",
+  "alt": "Stills from shorts made with Toon Studio",
+  "score": 1.55,
+  "type": "image/png",
+  "bytes": 1433192,
+  "file": "BetaVersionHQ__beta-version-toon-studio.jpg",
+  "still": "BetaVersionHQ__beta-version-toon-studio.jpg"
+ },
  "BusyBee3333/viral-video-edit-skills": {
   "repo": "BusyBee3333/viral-video-edit-skills",
   "url": "https://raw.githubusercontent.com/BusyBee3333/viral-video-edit-skills/HEAD/demo/gifs/subject_kaleido.gif",
@@ -678,6 +698,16 @@
   "bytes": 1983655,
   "file": "Tu-Zhenzhao__pocketworld.gif",
   "still": "Tu-Zhenzhao__pocketworld.jpg"
+ },
+ "TurkiHassan/arabic-launch-video": {
+  "repo": "TurkiHassan/arabic-launch-video",
+  "url": "https://raw.githubusercontent.com/TurkiHassan/arabic-launch-video/HEAD/media/qudrah-academy.jpg",
+  "alt": "إعلان أكاديمية قُدرة — صُنع بهذه الأداة",
+  "score": 0.0,
+  "type": "image/jpeg",
+  "bytes": 173215,
+  "file": "TurkiHassan__arabic-launch-video.jpg",
+  "still": "TurkiHassan__arabic-launch-video.jpg"
  },
  "WhiteTowerAI/cut-as-code": {
   "repo": "WhiteTowerAI/cut-as-code",
@@ -1909,6 +1939,16 @@
   "file": "nolangz__pixel2motion.gif",
   "still": "nolangz__pixel2motion.jpg"
  },
+ "ocepkejepintu-droid/claude-launch": {
+  "repo": "ocepkejepintu-droid/claude-launch",
+  "url": "https://raw.githubusercontent.com/ocepkejepintu-droid/claude-launch/HEAD/demo/preview.gif",
+  "alt": "claude-launch demo: click to watch the full film",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 7499717,
+  "file": "ocepkejepintu-droid__claude-launch.gif",
+  "still": "ocepkejepintu-droid__claude-launch.jpg"
+ },
  "ops120/video-recap-skills-plus": {
   "repo": "ops120/video-recap-skills-plus",
   "url": "https://raw.githubusercontent.com/ops120/video-recap-skills-plus/HEAD/docs/jianying-export.png",
@@ -2238,16 +2278,6 @@
   "bytes": 1453401,
   "file": "trunghaiy__appshot.gif",
   "still": "trunghaiy__appshot.jpg"
- },
- "unclejobs-ai/motion-video-skill": {
-  "repo": "unclejobs-ai/motion-video-skill",
-  "url": "https://raw.githubusercontent.com/unclejobs-ai/motion-video-skill/HEAD/docs/assets/gate-demo.gif",
-  "alt": "gate clips 실행: BLOCK, 눈 검수 기록, PASS",
-  "score": 4.95,
-  "type": "image/gif",
-  "bytes": 923032,
-  "file": "unclejobs-ai__motion-video-skill.gif",
-  "still": "unclejobs-ai__motion-video-skill.jpg"
  },
  "vawe-hq/vawe": {
   "repo": "vawe-hq/vawe",
