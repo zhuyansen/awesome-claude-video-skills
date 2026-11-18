@@ -609,6 +609,16 @@
   "file": "RoverEva__eva-video-style.gif",
   "still": "RoverEva__eva-video-style.jpg"
  },
+ "STARDUSTLC666/dsh-remotion": {
+  "repo": "STARDUSTLC666/dsh-remotion",
+  "url": "https://raw.githubusercontent.com/STARDUSTLC666/dsh-remotion/master/docs/assets/intro/screen-zh.webp",
+  "alt": "Remotion workbench",
+  "score": -0.2,
+  "type": "image/webp",
+  "bytes": 162762,
+  "file": "STARDUSTLC666__dsh-remotion.jpg",
+  "still": "STARDUSTLC666__dsh-remotion.jpg"
+ },
  "SallyRS/video-director": {
   "repo": "SallyRS/video-director",
   "url": "https://raw.githubusercontent.com/SallyRS/video-director/HEAD/docs/images/storyboard-walkthrough.gif",
@@ -1168,6 +1178,16 @@
   "bytes": 1137071,
   "file": "dillydog580__animate-roblox-characters.gif",
   "still": "dillydog580__animate-roblox-characters.jpg"
+ },
+ "dovudhusan/viral-hook-reels-skill": {
+  "repo": "dovudhusan/viral-hook-reels-skill",
+  "url": "https://raw.githubusercontent.com/dovudhusan/viral-hook-reels-skill/HEAD/examples/1-the-cut.gif",
+  "alt": "The source video plays, freezes, and the view count stacks up word by word",
+  "score": 2.8,
+  "type": "image/gif",
+  "bytes": 2030632,
+  "file": "dovudhusan__viral-hook-reels-skill.jpg",
+  "still": "dovudhusan__viral-hook-reels-skill.jpg"
  },
  "echoD886/dramacanvas-ai-filmmaking-mcp": {
   "repo": "echoD886/dramacanvas-ai-filmmaking-mcp",
@@ -2188,6 +2208,16 @@
   "bytes": 968720,
   "file": "social-media-skills__remotion-shorts-skill.jpg",
   "still": "social-media-skills__remotion-shorts-skill.jpg"
+ },
+ "staryone/motlab": {
+  "repo": "staryone/motlab",
+  "url": "https://raw.githubusercontent.com/staryone/motlab/HEAD/assets/demo.avif",
+  "alt": "The motlab ad: a prompt asks the agent for a coffee shop promo, the agent builds",
+  "score": 2.0,
+  "type": "image/avif",
+  "bytes": 2097752,
+  "file": "staryone__motlab.jpg",
+  "still": "staryone__motlab.jpg"
  },
  "sub-level/marketing-videos": {
   "repo": "sub-level/marketing-videos",
