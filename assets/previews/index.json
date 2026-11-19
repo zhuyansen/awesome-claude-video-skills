@@ -1929,26 +1929,6 @@
   "file": "noamdorr__saas-product-demo-video.jpg",
   "still": "noamdorr__saas-product-demo-video.jpg"
  },
- "nocodehack/make-short": {
-  "repo": "nocodehack/make-short",
-  "url": "https://raw.githubusercontent.com/nocodehack/make-short/HEAD/assets/before-first-render.png",
-  "alt": "First render: magenta night, red ground",
-  "score": -0.05,
-  "type": "image/png",
-  "bytes": 266274,
-  "file": "nocodehack__make-short.jpg",
-  "still": "nocodehack__make-short.jpg"
- },
- "nocodehack/nocodehack-roblox-engine": {
-  "repo": "nocodehack/nocodehack-roblox-engine",
-  "url": "https://raw.githubusercontent.com/nocodehack/nocodehack-roblox-engine/HEAD/docs/img/r1.gif",
-  "alt": "The Flush: a kid hides a bad grade from his mom",
-  "score": 2.95,
-  "type": "image/gif",
-  "bytes": 1191024,
-  "file": "nocodehack__nocodehack-roblox-engine.jpg",
-  "still": "nocodehack__nocodehack-roblox-engine.jpg"
- },
  "nolangz/pixel2motion": {
   "repo": "nolangz/pixel2motion",
   "url": "https://raw.githubusercontent.com/nolangz/pixel2motion/HEAD/docs/gifs/claude-horizon.gif",
