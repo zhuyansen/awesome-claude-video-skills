@@ -513,6 +513,7 @@ Projects whose README says they were built with the model.
 | [vincentventalon/claude-code-video-editing-skill](https://github.com/vincentventalon/claude-code-video-editing-skill) | 6 | Les skills Claude Code que j'utilise vraiment sur mes sites et mes vidéos, une nouvelle chaque mardi (montage vidéo, SEO Search Console…) | [SAFE](https://agentskillshub.top/skill/vincentventalon/claude-code-video-editing-skill/) |
 | [UgurKeskekci/claude-video-kit](https://github.com/UgurKeskekci/claude-video-kit) | 5 | Konuşma videolarını Claude Code ile kurgulamak için skill'ler: yatay kurgu, Reels, X animasyonu ve kodla animasyon. | [SAFE](https://agentskillshub.top/skill/UgurKeskekci/claude-video-kit/) |
 | [shasshhaank/ClipIt](https://github.com/shasshhaank/ClipIt) | 5 | ClipIt: a Claude skill that turns long videos into short-form clips and clean, beat-synced fan edits (9:16) | [SAFE](https://agentskillshub.top/skill/shasshhaank/ClipIt/) |
+| [brajendrak00068/agentic-ai-video-production](https://github.com/brajendrak00068/agentic-ai-video-production) | 5 | Levea AI Video Editor: Claude Code plugin, 12 agent skills, and hosted MCP server (`https://api.livecore.ai/api/v1/misc/mcp`) for viral clips, 280+ animated caption templates, 9:16 speaker reframing, B-roll, motion graphics, and cloud MP4 export. | *pending* |
 
 <a id="type-shorts"></a>
 ## 📱 Shorts & social
