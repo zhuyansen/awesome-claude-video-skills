@@ -579,6 +579,16 @@
   "file": "Neelshah1810__Claude-Video-Skills.gif",
   "still": "Neelshah1810__Claude-Video-Skills.jpg"
  },
+ "OrrrGE/autoRecording": {
+  "repo": "OrrrGE/autoRecording",
+  "url": "https://raw.githubusercontent.com/OrrrGE/autoRecording/HEAD/docs/media/demo-poster.png",
+  "alt": "1-minute demo — click to watch",
+  "score": 2.0,
+  "type": "image/png",
+  "bytes": 65086,
+  "file": "OrrrGE__autoRecording.jpg",
+  "still": "OrrrGE__autoRecording.jpg"
+ },
  "PHANTOMTONYT/motion-design-skills": {
   "repo": "PHANTOMTONYT/motion-design-skills",
   "url": "https://raw.githubusercontent.com/PHANTOMTONYT/motion-design-skills/HEAD/examples/3d-toy-character.gif",
@@ -1219,6 +1229,16 @@
   "file": "edotheDev__claude-video-kit.jpg",
   "still": "edotheDev__claude-video-kit.jpg"
  },
+ "ekanshvcpkg/VBASE": {
+  "repo": "ekanshvcpkg/VBASE",
+  "url": "https://raw.githubusercontent.com/ekanshvcpkg/VBASE/HEAD/docs/images/vbase-review-room.gif",
+  "alt": "Pinning a note on a frame, leaving a whole-film note, resolving a note and sendi",
+  "score": 4.7,
+  "type": "image/gif",
+  "bytes": 1034427,
+  "file": "ekanshvcpkg__VBASE.gif",
+  "still": "ekanshvcpkg__VBASE.jpg"
+ },
  "ekomen77/erko-ai-video-engine": {
   "repo": "ekomen77/erko-ai-video-engine",
   "url": "https://raw.githubusercontent.com/ekomen77/erko-ai-video-engine/HEAD/assets/demo_tr.gif",
@@ -1288,6 +1308,16 @@
   "bytes": 109269,
   "file": "fendouai__ViralForge.jpg",
   "still": "fendouai__ViralForge.jpg"
+ },
+ "ffroliva/gflow-cli": {
+  "repo": "ffroliva/gflow-cli",
+  "url": "https://raw.githubusercontent.com/ffroliva/gflow-cli/main/docs/assets/example-run.gif",
+  "alt": "gflow image t2i runs a single 9:16 prompt, streams structlog output, and writes ",
+  "score": 2.0,
+  "type": "image/gif",
+  "bytes": 1187030,
+  "file": "ffroliva__gflow-cli.gif",
+  "still": "ffroliva__gflow-cli.jpg"
  },
  "fltman/infofilm": {
   "repo": "fltman/infofilm",
@@ -1709,6 +1739,16 @@
   "file": "kajisho5__remotion-ffmpeg-skill.gif",
   "still": "kajisho5__remotion-ffmpeg-skill.jpg"
  },
+ "kaomei/stickman-video-director": {
+  "repo": "kaomei/stickman-video-director",
+  "url": "https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@2697fac5e0466f44098148a52c9648697521b3d6/assets/readme/previews/dark-theme-demo.gif",
+  "alt": "Classic black-and-white stickman animation: white lines on black for dynamic exp",
+  "score": 4.9,
+  "type": "image/gif",
+  "bytes": 2008500,
+  "file": "kaomei__stickman-video-director.gif",
+  "still": "kaomei__stickman-video-director.jpg"
+ },
  "klsoen/opus-js-animations": {
   "repo": "klsoen/opus-js-animations",
   "url": "https://raw.githubusercontent.com/klsoen/opus-js-animations/HEAD/docs/shaml-opening-2.8s.gif",
@@ -1728,16 +1768,6 @@
   "bytes": 7367251,
   "file": "krisyangdev__motionboard.gif",
   "still": "krisyangdev__motionboard.jpg"
- },
- "kvrancic/oneshot-video": {
-  "repo": "kvrancic/oneshot-video",
-  "url": "https://raw.githubusercontent.com/kvrancic/oneshot-video/HEAD/docs/media/clips.gif",
-  "alt": "Vertical clips: a full-screen takeover line, PLUGIN behind a speaker opening a b",
-  "score": 2.75,
-  "type": "image/gif",
-  "bytes": 5743552,
-  "file": "kvrancic__oneshot-video.jpg",
-  "still": "kvrancic__oneshot-video.jpg"
  },
  "latent-variable/deep-learning-birthday": {
   "repo": "latent-variable/deep-learning-birthday",
