@@ -909,6 +909,16 @@
   "file": "alisadiq-ai__favstash-ai-video-editing-skills.jpg",
   "still": "alisadiq-ai__favstash-ai-video-editing-skills.jpg"
  },
+ "artemiimillier/cartoon-skill": {
+  "repo": "artemiimillier/cartoon-skill",
+  "url": "https://raw.githubusercontent.com/artemiimillier/cartoon-skill/HEAD/docs/strip.jpg",
+  "alt": "English demo frames",
+  "score": 2.0,
+  "type": "image/jpeg",
+  "bytes": 284135,
+  "file": "artemiimillier__cartoon-skill.jpg",
+  "still": "artemiimillier__cartoon-skill.jpg"
+ },
  "artemiimillier/skill-multik": {
   "repo": "artemiimillier/skill-multik",
   "url": "https://raw.githubusercontent.com/artemiimillier/skill-multik/HEAD/docs/strip.jpg",
@@ -1098,6 +1108,16 @@
   "bytes": 1808972,
   "file": "cymcymcymcym__notes-to-video.gif",
   "still": "cymcymcymcym__notes-to-video.jpg"
+ },
+ "daiyixiang666/hat9-motion": {
+  "repo": "daiyixiang666/hat9-motion",
+  "url": "https://raw.githubusercontent.com/daiyixiang666/hat9-motion/HEAD/assets/previews/wall.webp",
+  "alt": "16 种风格的示例成片同时在播：上面两排横屏 16:9，下面一排竖屏 9:16",
+  "score": 1.75,
+  "type": "image/webp",
+  "bytes": 2109704,
+  "file": "daiyixiang666__hat9-motion.jpg",
+  "still": "daiyixiang666__hat9-motion.jpg"
  },
  "dan2756/ReelForge": {
   "repo": "dan2756/ReelForge",
@@ -1769,6 +1789,16 @@
   "file": "krisyangdev__motionboard.gif",
   "still": "krisyangdev__motionboard.jpg"
  },
+ "kvrancic/cutroom": {
+  "repo": "kvrancic/cutroom",
+  "url": "https://raw.githubusercontent.com/kvrancic/cutroom/HEAD/docs/media/demo.gif",
+  "alt": "Left: a 34-minute GTA VI stream with the player",
+  "score": 4.75,
+  "type": "image/gif",
+  "bytes": 4325109,
+  "file": "kvrancic__cutroom.gif",
+  "still": "kvrancic__cutroom.jpg"
+ },
  "latent-variable/deep-learning-birthday": {
   "repo": "latent-variable/deep-learning-birthday",
   "url": "https://raw.githubusercontent.com/latent-variable/deep-learning-birthday/HEAD/docs/stills.jpg",
@@ -1888,6 +1918,16 @@
   "bytes": 122159,
   "file": "mikelix__gstack-tutorial-5-agi-race-v2.jpg",
   "still": "mikelix__gstack-tutorial-5-agi-race-v2.jpg"
+ },
+ "mografy/mografy": {
+  "repo": "mografy/mografy",
+  "url": "https://raw.githubusercontent.com/mografy/mografy/main/docs/media/mografy-intro.gif",
+  "alt": "Watch the twelve-second Mografy intro",
+  "score": 2.95,
+  "type": "image/gif",
+  "bytes": 861289,
+  "file": "mografy__mografy.gif",
+  "still": "mografy__mografy.jpg"
  },
  "motalim-ai/motion-starter-kit": {
   "repo": "motalim-ai/motion-starter-kit",
@@ -2458,15 +2498,5 @@
   "bytes": 947318,
   "file": "znyupup__knowledge-explainer-skill.gif",
   "still": "znyupup__knowledge-explainer-skill.jpg"
- },
- "zz41354899/mografy": {
-  "repo": "zz41354899/mografy",
-  "url": "https://raw.githubusercontent.com/zz41354899/mografy/main/docs/media/mografy-intro.gif",
-  "alt": "Watch the twelve-second Mografy intro",
-  "score": 2.95,
-  "type": "image/gif",
-  "bytes": 861289,
-  "file": "zz41354899__mografy.gif",
-  "still": "zz41354899__mografy.jpg"
  }
 }
