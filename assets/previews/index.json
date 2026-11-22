@@ -499,6 +499,16 @@
   "file": "MakeMyClip__editor.jpg",
   "still": "MakeMyClip__editor.jpg"
  },
+ "Marwanenoudouar10/motion-explainer": {
+  "repo": "Marwanenoudouar10/motion-explainer",
+  "url": "https://raw.githubusercontent.com/Marwanenoudouar10/motion-explainer/HEAD/docs/example-frames.jpg",
+  "alt": "Frames from One Cell to Birth, a vertical motion-graphics explainer made with th",
+  "score": 2.0,
+  "type": "image/jpeg",
+  "bytes": 141078,
+  "file": "Marwanenoudouar10__motion-explainer.jpg",
+  "still": "Marwanenoudouar10__motion-explainer.jpg"
+ },
  "Matteoikarieth96/cartoon-shorts-skill": {
   "repo": "Matteoikarieth96/cartoon-shorts-skill",
   "url": "https://raw.githubusercontent.com/Matteoikarieth96/cartoon-shorts-skill/HEAD/references/styles/comic.jpg",
@@ -1389,6 +1399,16 @@
   "file": "gnipbao__story-to-handdrawn-video.jpg",
   "still": "gnipbao__story-to-handdrawn-video.jpg"
  },
+ "gnipbao/vibe-zhishi": {
+  "repo": "gnipbao/vibe-zhishi",
+  "url": "https://raw.githubusercontent.com/gnipbao/vibe-zhishi/HEAD/docs/showcase.jpg",
+  "alt": "九期成片的封面：道·十层宇宙、落款、傅里叶变换、联想、叹气、意义、五音、冬冬鼓、你是哪一型",
+  "score": 2.0,
+  "type": "image/jpeg",
+  "bytes": 235175,
+  "file": "gnipbao__vibe-zhishi.jpg",
+  "still": "gnipbao__vibe-zhishi.jpg"
+ },
  "gquthier/autonomous-sop-video": {
   "repo": "gquthier/autonomous-sop-video",
   "url": "https://raw.githubusercontent.com/gquthier/autonomous-sop-video/HEAD/assets/preview.png",
@@ -1748,6 +1768,16 @@
   "bytes": 245257,
   "file": "jjietay__clayducation.jpg",
   "still": "jjietay__clayducation.jpg"
+ },
+ "jpooksy/remotion-claude-template": {
+  "repo": "jpooksy/remotion-claude-template",
+  "url": "https://img.youtube.com/vi/gEtm-MJKJoA/maxresdefault.jpg",
+  "alt": "How I Make SaaS Product Demos in Code",
+  "score": 2.0,
+  "type": "image/jpeg",
+  "bytes": 131661,
+  "file": "jpooksy__remotion-claude-template.jpg",
+  "still": "jpooksy__remotion-claude-template.jpg"
  },
  "kajisho5/remotion-ffmpeg-skill": {
   "repo": "kajisho5/remotion-ffmpeg-skill",
