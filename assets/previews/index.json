@@ -2429,6 +2429,16 @@
   "file": "vincentsch__explainroo.jpg",
   "still": "vincentsch__explainroo.jpg"
  },
+ "whystrohm/shotkit": {
+  "repo": "whystrohm/shotkit",
+  "url": "https://raw.githubusercontent.com/whystrohm/shotkit/HEAD/docs/images/demo.webp",
+  "alt": "Shotkit demo: a brief typed in Claude Code, every shot planned and every frame c",
+  "score": -0.5,
+  "type": "image/webp",
+  "bytes": 4304930,
+  "file": "whystrohm__shotkit.jpg",
+  "still": "whystrohm__shotkit.jpg"
+ },
  "wocha-xiaoli/video-shot-analysis-feishu": {
   "repo": "wocha-xiaoli/video-shot-analysis-feishu",
   "url": "https://raw.githubusercontent.com/wocha-xiaoli/video-shot-analysis-feishu/HEAD/assets/video-shot-analysis-feishu-infographic.png",
