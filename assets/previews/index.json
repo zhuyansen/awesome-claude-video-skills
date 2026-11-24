@@ -629,6 +629,16 @@
   "file": "RoverEva__eva-video-style.gif",
   "still": "RoverEva__eva-video-style.jpg"
  },
+ "Rudywizz/rudywizz-motion": {
+  "repo": "Rudywizz/rudywizz-motion",
+  "url": "https://raw.githubusercontent.com/Rudywizz/rudywizz-motion/HEAD/gallery/word-stack.webp",
+  "alt": "",
+  "score": -0.35,
+  "type": "image/webp",
+  "bytes": 385030,
+  "file": "Rudywizz__rudywizz-motion.jpg",
+  "still": "Rudywizz__rudywizz-motion.jpg"
+ },
  "STARDUSTLC666/dsh-remotion": {
   "repo": "STARDUSTLC666/dsh-remotion",
   "url": "https://raw.githubusercontent.com/STARDUSTLC666/dsh-remotion/master/docs/assets/intro/screen-zh.webp",
@@ -1318,6 +1328,16 @@
   "bytes": 393735,
   "file": "eternityspring__reelbench-skills.jpg",
   "still": "eternityspring__reelbench-skills.jpg"
+ },
+ "famfamfam/code-cartoon": {
+  "repo": "famfamfam/code-cartoon",
+  "url": "https://raw.githubusercontent.com/famfamfam/code-cartoon/HEAD/docs/media/lubok-sun-ship.webp",
+  "alt": "A pencil sketch of a boat opens into a lubok print",
+  "score": 0.0,
+  "type": "image/webp",
+  "bytes": 745546,
+  "file": "famfamfam__code-cartoon.jpg",
+  "still": "famfamfam__code-cartoon.jpg"
  },
  "fantuan-lab/animated-sticker-studio": {
   "repo": "fantuan-lab/animated-sticker-studio",
@@ -2488,6 +2508,16 @@
   "bytes": 443217,
   "file": "ymybxx__SoloMCN.jpg",
   "still": "ymybxx__SoloMCN.jpg"
+ },
+ "yoruuuchan/create-blender-story-video": {
+  "repo": "yoruuuchan/create-blender-story-video",
+  "url": "https://raw.githubusercontent.com/yoruuuchan/create-blender-story-video/HEAD/docs/media/poolcore.gif",
+  "alt": "Poolcore：空无一人的泳池，4 秒 1080p 真实渲染",
+  "score": 3.0,
+  "type": "image/gif",
+  "bytes": 6961766,
+  "file": "yoruuuchan__create-blender-story-video.gif",
+  "still": "yoruuuchan__create-blender-story-video.jpg"
  },
  "zakariaf/cinecode": {
   "repo": "zakariaf/cinecode",
