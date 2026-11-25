@@ -2179,6 +2179,16 @@
   "file": "reedodev__explainer-studio.gif",
   "still": "reedodev__explainer-studio.jpg"
  },
+ "renthelautomations/app-launch-video": {
+  "repo": "renthelautomations/app-launch-video",
+  "url": "https://raw.githubusercontent.com/renthelautomations/app-launch-video/HEAD/docs/images/preview.gif",
+  "alt": "A logo outline draws itself, fills from the bottom, becomes an app icon, then mo",
+  "score": 4.7,
+  "type": "image/gif",
+  "bytes": 632086,
+  "file": "renthelautomations__app-launch-video.gif",
+  "still": "renthelautomations__app-launch-video.jpg"
+ },
  "revfactory/showreel": {
   "repo": "revfactory/showreel",
   "url": "https://raw.githubusercontent.com/revfactory/showreel/HEAD/docs/media/showreel-preview.gif",
@@ -2308,6 +2318,16 @@
   "bytes": 968720,
   "file": "social-media-skills__remotion-shorts-skill.jpg",
   "still": "social-media-skills__remotion-shorts-skill.jpg"
+ },
+ "soundza/soundkit": {
+  "repo": "soundza/soundkit",
+  "url": "https://raw.githubusercontent.com/soundza/soundkit/HEAD/assets/banner.png",
+  "alt": "SoundKit: CC0 sound effects and music beds for Remotion and React, each with its",
+  "score": -0.5,
+  "type": "image/png",
+  "bytes": 340208,
+  "file": "soundza__soundkit.jpg",
+  "still": "soundza__soundkit.jpg"
  },
  "staryone/motlab": {
   "repo": "staryone/motlab",
