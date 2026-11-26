@@ -169,6 +169,16 @@
   "file": "AmazingAng__ccvideo.gif",
   "still": "AmazingAng__ccvideo.jpg"
  },
+ "AmirMakir/papertalk": {
+  "repo": "AmirMakir/papertalk",
+  "url": "https://raw.githubusercontent.com/AmirMakir/papertalk/HEAD/docs/media/vp-vnp.gif",
+  "alt": "A maths paper explained with pictures drawn from numbers: a three by three grid ",
+  "score": 3.0,
+  "type": "image/gif",
+  "bytes": 242311,
+  "file": "AmirMakir__papertalk.gif",
+  "still": "AmirMakir__papertalk.jpg"
+ },
  "AmirSbss/spotlight": {
   "repo": "AmirSbss/spotlight",
   "url": "https://raw.githubusercontent.com/AmirSbss/spotlight/HEAD/examples/demo/preview.gif",
@@ -588,6 +598,16 @@
   "bytes": 866452,
   "file": "Neelshah1810__Claude-Video-Skills.gif",
   "still": "Neelshah1810__Claude-Video-Skills.jpg"
+ },
+ "OrenFang/orencut": {
+  "repo": "OrenFang/orencut",
+  "url": "https://raw.githubusercontent.com/OrenFang/orencut/HEAD/docs/orencut-showcase.gif",
+  "alt": "OrenCut 动效演示",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 1938057,
+  "file": "OrenFang__orencut.gif",
+  "still": "OrenFang__orencut.jpg"
  },
  "OrrrGE/autoRecording": {
   "repo": "OrrrGE/autoRecording",
@@ -2538,6 +2558,16 @@
   "bytes": 6961766,
   "file": "yoruuuchan__create-blender-story-video.gif",
   "still": "yoruuuchan__create-blender-story-video.jpg"
+ },
+ "yubraaj11/ffmpeg-mcp": {
+  "repo": "yubraaj11/ffmpeg-mcp",
+  "url": "https://raw.githubusercontent.com/yubraaj11/ffmpeg-mcp/main/statics/ffmpeg-mcp.png",
+  "alt": "ffmpeg-mcp: AI video editor MCP server powered by FFmpeg",
+  "score": -2.5,
+  "type": "image/png",
+  "bytes": 760459,
+  "file": "yubraaj11__ffmpeg-mcp.jpg",
+  "still": "yubraaj11__ffmpeg-mcp.jpg"
  },
  "zakariaf/cinecode": {
   "repo": "zakariaf/cinecode",
