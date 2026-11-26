@@ -1,3 +1,5 @@
+- [as-minds/motionforge-ai](https://github.com/as-minds/motionforge-ai) — MIT-licensed multi-engine AI motion-graphics Agent Skill with AST determinism linting, constraint-driven routing, 2x2 visual review gate, and mechanical FFmpeg QA.
+
 # Awesome Claude Video Skills
 
 [中文](README.zh-CN.md)
