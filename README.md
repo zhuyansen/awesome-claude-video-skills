@@ -1,5 +1,3 @@
-- [as-minds/motionforge-ai](https://github.com/as-minds/motionforge-ai) — MIT-licensed multi-engine AI motion-graphics Agent Skill with AST determinism linting, constraint-driven routing, 2x2 visual review gate, and mechanical FFmpeg QA.
-
 # Awesome Claude Video Skills
 
 [中文](README.zh-CN.md)
@@ -804,6 +802,7 @@ Projects whose README says they were built with the model.
 | [bishpls/animation-pipeline](https://github.com/bishpls/animation-pipeline) | 7 | Films made with Claude Code: songs, cut-paper riso animation, kinetic type, all in code. First work: OPEN ALL NIGHT (a love song for the ads). | [SAFE](https://agentskillshub.top/skill/bishpls/animation-pipeline/) |
 | [BusyBee3333/viral-video-edit-skills](https://github.com/BusyBee3333/viral-video-edit-skills) | 5 | Claude/Codex skills for beat-synced, effect-integrated short-form music video edits: song analysis, footage sourcing/QA, hook writing, onset-locked c… | [SAFE](https://agentskillshub.top/skill/BusyBee3333/viral-video-edit-skills/) |
 | [famfamfam/code-cartoon](https://github.com/famfamfam/code-cartoon) | 5 | Claude Code skill that makes animated videos by writing code: cartoons, explainers, music clips. Every frame is drawn by a program (canvas, three.js)… | [SAFE](https://agentskillshub.top/skill/famfamfam/code-cartoon/) |
+| [as-minds/motionforge-ai](https://github.com/as-minds/motionforge-ai) | — | Multi-engine AI motion-graphics Agent Skill with AST determinism linting, 2x2 visual review gate, and mechanical FFmpeg QA. | *pending* |
 
 **Security** is the grade of the repo's README and install steps on Agent Skills Hub. *pending* means the catalog has not graded it yet.
 
