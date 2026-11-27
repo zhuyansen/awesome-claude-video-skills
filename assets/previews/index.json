@@ -89,6 +89,16 @@
   "file": "Abhinav-murugan1__Aria.jpg",
   "still": "Abhinav-murugan1__Aria.jpg"
  },
+ "Abm32/runsight": {
+  "repo": "Abm32/runsight",
+  "url": "https://raw.githubusercontent.com/Abm32/runsight/HEAD/docs/demo.gif",
+  "alt": "RunSight exploring a sample app and producing an edited demo video",
+  "score": 4.9,
+  "type": "image/gif",
+  "bytes": 3357565,
+  "file": "Abm32__runsight.gif",
+  "still": "Abm32__runsight.jpg"
+ },
  "AbubakrChan/product-launch-motion": {
   "repo": "AbubakrChan/product-launch-motion",
   "url": "https://raw.githubusercontent.com/AbubakrChan/product-launch-motion/HEAD/examples/one-shape-loop.webp",
@@ -1428,6 +1438,16 @@
   "bytes": 352146,
   "file": "gmpetrov__agent-screenplay.jpg",
   "still": "gmpetrov__agent-screenplay.jpg"
+ },
+ "gnawbit/tabretake": {
+  "repo": "gnawbit/tabretake",
+  "url": "https://raw.githubusercontent.com/gnawbit/tabretake/HEAD/docs/hero.gif",
+  "alt": "TabRetake recording Vikunja: creating a task, dragging it across a Kanban board,",
+  "score": 2.05,
+  "type": "image/gif",
+  "bytes": 424761,
+  "file": "gnawbit__tabretake.gif",
+  "still": "gnawbit__tabretake.jpg"
  },
  "gnipbao/story-to-handdrawn-video": {
   "repo": "gnipbao/story-to-handdrawn-video",
