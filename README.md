@@ -100,6 +100,7 @@ On 2026-10-11 we had 16 of these skills make the same film in a throwaway sandbo
 | 14 | [guizang-product-video-skill](https://github.com/op7418/guizang-product-video-skill) | 762 | 4/4 | 5/5 | Yes | A look of its own | 8.6 min | [evidence](https://agentskillshub.top/best-runs/video/op7418__guizang-product-video-skill.html) |
 | 15 | [motion-video-kit](https://github.com/echris6/motion-video-kit) | 1,080 | 4/4 | 5/5 | No | A look of its own | 21.8 min | [evidence](https://agentskillshub.top/best-runs/video/echris6__motion-video-kit.html) |
 | 16 | [hyperframes](https://github.com/heygen-com/hyperframes) | 60,291 | 4/4 | 5/5 | No | A look of its own | 23.5 min | [evidence](https://agentskillshub.top/best-runs/video/heygen-com__hyperframes.html) |
+| [CrakSEO/skills](https://github.com/CrakSEO/skills) | Connect Claude/Cursor/Codex to CrakSEO remote MCP servers for keyword research, SERP, backlinks, rank tracking, site audit, local SEO, AI visibility, Search Console and URL indexing | Claude Code, Cursor, Codex | MIT |
 
 [All results, prompts and scripts](https://github.com/zhuyansen/agent-skills-hub/blob/main/ops/video-runs/RESULTS.md) · [https://agentskillshub.top/best/claude-video-skills/#test-results](https://agentskillshub.top/best/claude-video-skills/#test-results)
 
