@@ -821,6 +821,7 @@ Preview images are reduced copies of pictures from each project's own README, in
 
 - [opusvideo/awesome-claude-video](https://github.com/opusvideo/awesome-claude-video) — videos people made with Opus 5.5, with the original posts. Works, where this list is tools.
 - [TripoGrowthLab/awesome-opus-5-5-prompts](https://github.com/TripoGrowthLab/awesome-opus-5-5-prompts) — Opus 5.5 prompts for 3D scenes, games and simulations.
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - Live music venue directory and MCP server for touring bands, event discovery, and venue data.
 
 ## Add a repo
 
