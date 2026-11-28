@@ -542,6 +542,7 @@ Projects whose README says they were built with the model.
 | [jackjls/jtxvideo-skill](https://github.com/jackjls/jtxvideo-skill) | 6 | Codex + HyperFrames 口播视频制作 Skill：按 SRT、结构、分镜、设计、渲染的审核流程生成 AI 金融短视频 | [SAFE](https://agentskillshub.top/skill/jackjls/jtxvideo-skill/) |
 | [UgurKeskekci/claude-video-kit](https://github.com/UgurKeskekci/claude-video-kit) | 5 | Konuşma videolarını Claude Code ile kurgulamak için skill'ler: yatay kurgu, Reels, X animasyonu ve kodla animasyon. | [SAFE](https://agentskillshub.top/skill/UgurKeskekci/claude-video-kit/) |
 | [shasshhaank/ClipIt](https://github.com/shasshhaank/ClipIt) | 5 | ClipIt: a Claude skill that turns long videos into short-form clips and clean, beat-synced fan edits (9:16) | [SAFE](https://agentskillshub.top/skill/shasshhaank/ClipIt/) |
+| [brajendrak00068/agentic-ai-video-production](https://github.com/brajendrak00068/agentic-ai-video-production) | 5 | Levea AI Video Editor: Claude Code plugin, 12 agent skills, and hosted MCP server (`https://api.livecore.ai/api/v1/misc/mcp`) for viral clips, 200+ animated caption templates, 9:16 speaker reframing, B-roll, motion graphics, and cloud MP4 export. | *pending* |
 
 <a id="type-shorts"></a>
 ## 📱 Shorts & social
